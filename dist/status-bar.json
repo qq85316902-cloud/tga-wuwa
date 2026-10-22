@@ -1,0 +1,17 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "外置状态栏",
+  "id": "8e5107c6-5f9c-4078-9eb0-77c23b8a3fe0",
+  "content": "import 'https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@main/dist/status-bar.js';",
+  "info": "统一入口：原作者外链 + 仅索拉里斯启用的兼容补丁。切换世界观自动清理实例；不兼容时恢复原版。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {},
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
