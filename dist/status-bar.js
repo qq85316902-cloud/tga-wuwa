@@ -5,7 +5,7 @@ const host = window.parent || window;
 const KEY = '__solarisStatusController';
 if (host[KEY]?.dispose) host[KEY].dispose();
 let disposed=false, frame=null, active='', busy=false, retryAt=0, original='', patch=null;
-const api={loaderVersion:'2026.10.23.3',mode:'loading', error:'', upstreamUrl:UPSTREAM_URL, dispose};
+const api={loaderVersion:'2026.10.23.4',mode:'loading', error:'', upstreamUrl:UPSTREAM_URL, dispose};
 host[KEY]=api;
 const pause=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const world=()=>{
@@ -34,7 +34,7 @@ function clearInstance(){
   if(frame){try{frame.contentWindow?.rpg_status_bar_cleanup?.();}catch{}frame.remove();frame=null;}
   host.document.getElementById('solaris-atlas-overlay')?.querySelector('button')?.click();
   for(const id of ['rpg_status_bar-toggle','rpg_status_bar-panel','rpg_status_bar-styles'])host.document.getElementById(id)?.remove();
-  for(const suffix of ['cleanup','showPopup','SkillIcons','GameIcons','fetchData','refresh','setState','openTab'])delete host['rpg_status_bar_'+suffix];
+  for(const suffix of ['cleanup','showPopup','SkillIcons','GameIcons','fetchData','refresh','setState','openTab','setTheme','setAppearance'])delete host['rpg_status_bar_'+suffix];
   host.__状态栏_loaded__=false;
 }
 async function mount(source){
@@ -45,11 +45,11 @@ async function mount(source){
   const bridgeKeys=['_','$','jQuery','Mvu','SillyTavern','TavernHelper','toastr','eventSource','event_types','getVariables','replaceVariables','insertOrAssignVariables','updateVariablesWith','getChatMessages','setChatMessages','getCurrentMessageId','getLastMessageId','getWorldbook','replaceWorldbook','updateWorldbookWith','getWorldbookNames','getCharWorldbookNames','getWorldInfo','getScriptId','getScriptName','getButtonEvent','eventOn','eventOnce','eventEmit','triggerSlash','triggerSlashWithResult','getTavernHelper','waitGlobalInitialized'];
   f.__solarisBridge={};for(const key of bridgeKeys){const value=window[key]??host[key];if(value!==undefined)f.__solarisBridge[key]=typeof value==='function'&&!['_','$','jQuery'].includes(key)?value.bind(window[key]!==undefined?window:host):value;}
   const bridge='Object.assign(window,window.frameElement.__solarisBridge);\n';
-  f.srcdoc='<!DOCTYPE html><html><body><script>'+bridge+source.replace(/<\/script/gi,'<\\/script')+'</script></body></html>';
+  f.srcdoc='<!DOCTYPE html><html><body><script>'+bridge+source.replace(/<\/script/gi,'<\\/script')+'<'+'/script></body></html>';
   for(let i=0;i<80;i++){
     if(disposed||frame!==f)return;
     if(host.__状态栏_loaded__ && host.document.getElementById('rpg_status_bar-panel') && typeof f.contentWindow?.rpg_status_bar_setState==='function'){
-      for(const suffix of ['showPopup','SkillIcons','GameIcons','fetchData','refresh','setState','openTab']){
+      for(const suffix of ['showPopup','SkillIcons','GameIcons','fetchData','refresh','setState','openTab','setTheme','setAppearance']){
         const key='rpg_status_bar_'+suffix;if(f.contentWindow[key]!==undefined)host[key]=f.contentWindow[key];
       }
       return;
