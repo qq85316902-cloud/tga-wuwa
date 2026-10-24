@@ -1,11 +1,11 @@
 // 酒馆助手只启用此入口。索拉里斯补丁与原作者源码分别维护。
 const UPSTREAM_URL = 'https://cdn.jsdelivr.net/gh/tangquanghuy/dnf@latest/dist/V20261015/external-status-bar.js?v=1';
-const PATCH_URL = 'https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@5f6833f7032610c35e4abc1db410053b64861d6e/dist/solaris-patch.json';
+const PATCH_URL = 'https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@41018efd167c7d5e7010d68c2231d97c83754046/dist/solaris-patch.json';
 const host = window.parent || window;
 const KEY = '__solarisStatusController';
 if (host[KEY]?.dispose) host[KEY].dispose();
 let disposed=false, frame=null, active='', busy=false, retryAt=0, original='', patch=null;
-const api={loaderVersion:'2026.10.23.4',mode:'loading', error:'', upstreamUrl:UPSTREAM_URL, dispose};
+const api={loaderVersion:'2026.10.24.1',mode:'loading', error:'', upstreamUrl:UPSTREAM_URL, dispose};
 host[KEY]=api;
 const pause=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const world=()=>{
