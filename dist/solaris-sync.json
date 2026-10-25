@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "鸣潮资料自动更新",
+  "id": "3c2fc63d-f28d-4aa3-a497-d28873fa399c",
+  "content": "await import('https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@main/dist/solaris-sync.js?v=' + Date.now());\n",
+  "info": "首次导入一次。索拉里斯／鸣潮世界观下自动同步仓库资料；保留聊天与MVU进度。",
+  "button": {
+    "enabled": true,
+    "buttons": [
+      {
+        "name": "检查资料更新",
+        "visible": true
+      },
+      {
+        "name": "恢复上次资料",
+        "visible": true
+      }
+    ]
+  },
+  "data": {}
+}
