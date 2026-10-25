@@ -5,7 +5,7 @@ const host = window.parent || window;
 const KEY = '__solarisStatusController';
 if (host[KEY]?.dispose) host[KEY].dispose();
 let disposed=false, frame=null, active='', busy=false, retryAt=0, original='', patch=null;
-const api={loaderVersion:'2026.10.24.1',mode:'loading', error:'', upstreamUrl:UPSTREAM_URL, dispose};
+const api={loaderVersion:'2026.10.25.2',storyStartConfirmation:true,mode:'loading', error:'', upstreamUrl:UPSTREAM_URL, dispose};
 host[KEY]=api;
 const pause=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const world=()=>{
@@ -28,6 +28,9 @@ function applyPatch(source, manifest){
     if(pos<0||out.indexOf(before,pos+before.length)>=0)throw new Error(`原版结构变化，补丁 ${i+1} 无法安全应用`);
     out=out.slice(0,pos)+after+out.slice(pos+before.length);
   }
+
+  const enemyNameCorrections=[["无音区强敌已被实际击败","无冠者已被实际击败"],["迎战强大残象并将其击溃","迎战无冠者并将其击溃"],["无音区内外分隔战斗者与观察者","无音区内外分隔无冠者战的参战者与观察者"],["利用机械敌人的关节与掉落部件将其击败","利用聚械机偶的关节弱点与掉落部件将其击败"],["地下机械敌人已击败","地下的聚械机偶已击败"],["伤痕及其异生梦魇","伤痕及其异化形态“伤痕·异生梦魇”"],["伤痕及异生梦魇的冲突","伤痕与“伤痕·异生梦魇”阶段的冲突"],["游鳞机枢被击败","游鳞机枢·凛铓被击败"],["游鳞机枢已击败","游鳞机枢·凛铓已击败"],["蚀脊龙暴君","蚀脊龙·「暴君」"],["伪作神王","伪作的神王"],["疯王卡利古拉","疯王·卡利古拉"],["击败免疫般攻击隧群","击败炉芯机骸（炉芯上具有免疫系统般攻击行为的隧群）"],["击败强敌救回秧秧","击败万囮牢救回秧秧"],["万囮牢屏障及强敌已解决","万囮牢已被击败、相应屏障已解除"],["万囮牢旁","万囮牢所在处"],["两度迎战天傀，","两度迎战天傀劫煞，"],["两战破天傀，","两战击败天傀劫煞，"],["木禺天傀被击败","木禺所附的天傀劫煞被击败"],["木禺弃肉身后仍有天傀战力","木禺弃肉身后仍以天傀劫煞形态作战"],["协力击败心魔、回收错误星图","协力击败星图核心（心魔）、回收错误星图"],["已会合并击败心魔核心","已会合并击败星图核心（心魔）"],["击败镜中自己","击败镜中的“珂莱塔”"],["处理逐渐增强的敌人","迎战残象；前段夺回星星时，与大布偶、铲子叔叔、寂寞小姐、魔术先生等布偶交战"],["敌人显出亚当·重锤形象","敌人显出梦魇亚当·重锤形象"],["梦魇在终点阻拦","梦魇亚当·重锤在终点阻拦"],["迎击梦魇是同一高潮","击败梦魇亚当·重锤是同一高潮"],["终点威胁已解除","终点的梦魇亚当·重锤已被击败"]];
+  for(const [before,after] of enemyNameCorrections)out=out.split(before).join(after);
   return out;
 }
 function clearInstance(){
@@ -37,7 +40,18 @@ function clearInstance(){
   for(const suffix of ['cleanup','showPopup','SkillIcons','GameIcons','fetchData','refresh','setState','openTab','setTheme','setAppearance'])delete host['rpg_status_bar_'+suffix];
   host.__状态栏_loaded__=false;
 }
+function addStoryStartConfirmation(source){
+  const before = "          if(replay){showPanelConfirm('<strong class=\"scenario-confirm-title\">'+(replay?'重新执行':'接取')+'《'+escapeScenarioHtml(name)+'》？</strong><span class=\"scenario-confirm-detail\">'+detail+'</span>',()=>replay?restartScenarioEntry(kind,name):activateScenarioEntry(kind,name));}else{activateScenarioEntry(kind,name).catch(error=>{log.error('索拉里斯接取失败',error);showToast('error','接取失败：'+error.message);});}";
+  const after = "          showPanelConfirm('<strong class=\"scenario-confirm-title\">'+(replay?'重新执行':'确定开启')+'《'+escapeScenarioHtml(name)+'》？</strong><span class=\"scenario-confirm-detail\">'+detail+'<br>确认后发送：<b>'+escapeScenarioHtml(actionText)+'</b></span>',()=>{\n            const action=replay?restartScenarioEntry(kind,name):activateScenarioEntry(kind,name);\n            Promise.resolve(action).catch(error=>{log.error('索拉里斯接取失败',error);showToast('error','接取失败：'+error.message);});\n          });";
+  if(!source.includes(before)){
+    if(source.includes("if(kind.startsWith('solaris')) {")) throw new Error('剧情开启确认补丁未匹配，请更新状态栏');
+    return source;
+  }
+  if(source.split(before).length!==2) throw new Error('剧情开启确认补丁匹配不唯一');
+  return source.replace(before,after);
+}
 async function mount(source){
+  source=addStoryStartConfirmation(source);
   clearInstance();
   const f=host.document.createElement('iframe');frame=f;f.hidden=true;f.dataset.solarisStatusRuntime='1';
   host.document.body.appendChild(f);
