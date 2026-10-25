@@ -1,10 +1,10 @@
 {
   "format": "solaris-content-sync/v1",
   "owner": "qq85316902-cloud/tga-wuwa",
-  "version": "2026.10.25.4",
-  "payload": "solaris-content-39325d0e45e240cf.json",
-  "sha256": "39325d0e45e240cfc969e285ec73d79e9d3b5d6bf576c0d18c18be1b6eee8c1f",
-  "bytes": 3202450,
+  "version": "2026.10.25.6",
+  "payload": "solaris-content-b45c882a112d8565.json",
+  "sha256": "b45c882a112d856512cf70a307baa2eace143a4ec5138531c25318001342ce93",
+  "bytes": 3297528,
   "entry_count": 333,
-  "published_at": "2026-10-25T06:59:52.082484+00:00"
+  "published_at": "2026-10-25T07:57:32.029865+00:00"
 }
