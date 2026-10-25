@@ -1,0 +1,44 @@
+{
+  "source_lines_rechecked": 4915,
+  "prior_quote_rows_preserved": 14599,
+  "source_quote_lines_in_correct_scene_and_event": true,
+  "png_text_keywords": [
+    "ccv3"
+  ],
+  "png_embedded_card_matches_json": true,
+  "png_all_crc_valid": true,
+  "png_other_chunks_unchanged": true,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.1",
+    "payload": "solaris-content-84af5cfaed7181de.json",
+    "sha256": "84af5cfaed7181deb0bc8c9dbe3930d62b856997ecfdfd46417df4bef4fe7cf7",
+    "bytes": 4918597,
+    "entry_count": 333,
+    "published_at": "2026-10-25T19:41:12.382042+00:00"
+  },
+  "payload_matches_authoritative_outline": true,
+  "atlas_matches_previous_payload": true,
+  "worldbook_count": 1072,
+  "changed_entries": [
+    740
+  ],
+  "other_card_fields_unchanged": true,
+  "controller_scenarios": 104,
+  "sync_mock_scenarios": 34,
+  "published": false,
+  "committed": false,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "artifacts": {
+    "png": {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-24\\2-4-2-5-2-6\\outputs\\索拉里斯-2.8-3.0-3.1关键对白原文补全版.png",
+      "sha256": "2d33a9abb03d9b7f8678a0994e4e7d7ed811ddcfbc7beb4feb7fd43400155131"
+    },
+    "json": {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-24\\2-4-2-5-2-6\\outputs\\索拉里斯-2.8-3.0-3.1关键对白原文补全版.json",
+      "sha256": "4fdb4805eaaa67f6e537c05d1f5114f3a65d634fefbfe83a3626b71b2de2115c"
+    }
+  }
+}
