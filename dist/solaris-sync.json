@@ -3,7 +3,7 @@
   "enabled": true,
   "name": "鸣潮资料自动更新",
   "id": "3c2fc63d-f28d-4aa3-a497-d28873fa399c",
-  "content": "await import('https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@main/dist/solaris-sync.js?v=' + Date.now());\n",
+  "content": "await import('https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@f0ee74ddb7f22dbd9d7e12e385b6e67c3e430c71/dist/solaris-sync.js');\n",
   "info": "首次导入一次。索拉里斯／鸣潮世界观下同步仓库资料；运行脚本2026.10.25.5已修复Token预计算导致的生成等待误判，保留聊天与MVU进度。",
   "button": {
     "enabled": true,
