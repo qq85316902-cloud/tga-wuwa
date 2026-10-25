@@ -4,13 +4,24 @@ const ROOT='https://raw.githubusercontent.com/qq85316902-cloud/tga-wuwa/main/dis
 const CDN='https://cdn.jsdelivr.net/gh/qq85316902-cloud/tga-wuwa@main/dist/';
 const host=window.parent||window, KEY='__solarisContentSync';
 if(host[KEY]?.dispose)host[KEY].dispose();
-let disposed=false,busy=false,epoch=0,generating=false,lastError='',retryAt=0;
-const checked=new Set(), subscriptions=[];
-const api={version:'2026.10.25.3',mode:'waiting',error:'',updated:0,conflicts:[],check:()=>check(true),restore,dispose};host[KEY]=api;
+let disposed=false,busy=false,epoch=0,lastError='',retryAt=0;
+const checked=new Set(), subscriptions=[], helperGenerations=new Set();
+const api={version:'2026.10.25.5',mode:'waiting',error:'',updated:0,conflicts:[],check:()=>check(true),generationState,restore,dispose};host[KEY]=api;
 function lookup(name){for(const owner of [window,window.TavernHelper,host,host.TavernHelper])if(typeof owner?.[name]==='function')return owner[name].bind(owner);return null;}
 function required(name){const f=lookup(name);if(!f)throw new Error('酒馆助手缺少 '+name+'，请更新酒馆助手');return f;}
 function currentWorld(){for(const w of [window,host])try{const v=w.Mvu?.getMvuData?.({type:'message',message_id:'latest'})??w.getVariables?.({type:'message',message_id:'latest'});const name=(v?.stat_data||v)?.系统配置?.世界观;if(name)return String(name).trim();}catch{}return '';}
-function isGenerating(){for(const w of [window,host])if(typeof w.builtin?.duringGenerating==='function')return generating||w.builtin.duringGenerating();throw new Error('酒馆助手缺少生成状态检查，请更新酒馆助手');}
+function generationState(){
+  // The builtin reports the current host state. Do not latch GENERATION_STARTED:
+  // token counting/dry runs and early aborts need not emit a matching end event.
+  for(const owner of [host.TavernHelper,host,window.TavernHelper,window]){
+    const builtin=owner?.builtin;if(typeof builtin?.duringGenerating!=='function')continue;
+    const active=builtin.duringGenerating();
+    if(typeof active!=='boolean')throw new Error('生成状态接口返回类型异常，请更新酒馆助手；本次未更新。');
+    return {host:active,helper:helperGenerations.size,active:active||helperGenerations.size>0};
+  }
+  throw new Error('酒馆助手缺少生成状态检查，请更新酒馆助手');
+}
+function isGenerating(){return generationState().active;}
 function target(){const id=required('getCurrentCharacterId')();const book=required('getCharWorldbookNames')('current')?.primary;return id&&book?{id,book,key:id+'|'+book}:null;}
 function assertActive(t,token){const now=target();if(disposed||epoch!==token||!now||now.key!==t.key||!['鸣潮','索拉里斯'].includes(currentWorld())||isGenerating())throw new Error('聊天或生成状态已改变，本次同步中止，可稍后重试');}
 function toast(kind,text){(host.toastr||window.toastr)?.[kind]?.(text,'鸣潮资料更新');}
@@ -88,12 +99,17 @@ async function restore(){
   }catch(e){report(e);}finally{busy=false;}
 }
 function listen(event,fn){if(!event)return;const on=lookup('eventOn');if(on){const sub=on(event,fn);if(sub?.stop)subscriptions.push(()=>sub.stop());}}
-const events=window.tavern_events||host.tavern_events||{},frames=window.iframe_events||{};
-for(const e of [events.GENERATION_STARTED,frames.GENERATION_STARTED])listen(e,()=>{generating=true;epoch++;});
-for(const e of [events.GENERATION_ENDED,events.GENERATION_STOPPED,frames.GENERATION_ENDED])listen(e,()=>{generating=false;});
-listen(events.CHAT_CHANGED,()=>{epoch++;generating=false;});
+const events=window.tavern_events||host.tavern_events||{},frames=window.iframe_events||host.iframe_events||{};
+// Native dry runs assemble prompts only; they are not AI requests and do not
+// necessarily produce GENERATION_ENDED. A real start still cancels stale work.
+listen(events.GENERATION_STARTED,(_type,_options,dryRun)=>{if(dryRun===true)return;epoch++;});
+// Helper requests can be silent and overlap, so track their IDs independently.
+listen(frames.GENERATION_STARTED,id=>{helperGenerations.add(id??'legacy');epoch++;});
+listen(frames.GENERATION_ENDED,(_text,id)=>{helperGenerations.delete(id??'legacy');});
+listen(events.GENERATION_STOPPED,id=>{helperGenerations.delete(id??'legacy');});
+listen(events.CHAT_CHANGED,()=>{epoch++;helperGenerations.clear();});
 const buttonEvent=lookup('getButtonEvent');if(buttonEvent){listen(buttonEvent('检查资料更新'),()=>check(true));listen(buttonEvent('恢复上次资料'),restore);}
 const timer=setInterval(()=>{if(disposed||busy||Date.now()<retryAt)return;try{const t=target();if(t&&!checked.has(t.key))check();}catch{}},2000);
-function dispose(){if(disposed)return;disposed=true;epoch++;clearInterval(timer);for(const off of subscriptions)off();if(host[KEY]===api)delete host[KEY];}
+function dispose(){if(disposed)return;disposed=true;epoch++;clearInterval(timer);for(const off of subscriptions)off();helperGenerations.clear();if(host[KEY]===api)delete host[KEY];}
 window.addEventListener('pagehide',dispose,{once:true});
 check();
