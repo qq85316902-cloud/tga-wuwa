@@ -1,0 +1,593 @@
+{
+  "passed": true,
+  "scenarios": 597,
+  "reported_route_reproductions": 24,
+  "old_scene_routes_checked": 271,
+  "old_natural_phrasings_checked": 139,
+  "main_parts_checked": 93,
+  "companion_tasks_checked": 10,
+  "readonly_no_location_or_progress_writes": true,
+  "four_clues_corrected_without_retargeting": true,
+  "departures_arrivals_and_later_plans_separated": true,
+  "map_data_and_frontend_unchanged": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "examples": [
+    {
+      "input": "我们现在去祈池村调查。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "糖丸指向祈池村，我们去祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": "祈池村的地点线索来自紫叶／紫色树叶；糖丸对应疫苗旧档与“未”。纠正归属不撤销玩家已选择的祈池村，也不重开已查完的研究院调查。"
+    },
+    {
+      "input": "不去研究院了，我们去祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "不是去伏波营，我们前往祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "先去今州城，再前往祈池村。",
+      "plan": {
+        "name": "今州",
+        "parent": "瑝珑 · 今州",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [
+          "祈池村"
+        ],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我们先查糖丸档案，然后去祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": true,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": "祈池村的地点线索来自紫叶／紫色树叶；糖丸对应疫苗旧档与“未”。纠正归属不撤销玩家已选择的祈池村，也不重开已查完的研究院调查。"
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "回到今州城的华胥研究院公共档案室。",
+      "plan": {
+        "name": "公共档案室",
+        "parent": "华胥研究院",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "去黑海岸的花房。",
+      "plan": {
+        "name": "花房",
+        "parent": "黑海岸",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "去伏波营调查莽吉柿。",
+      "plan": {
+        "name": "伏波营地",
+        "parent": "荒石高地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我前往虹镇。",
+      "plan": {
+        "name": "虹镇",
+        "parent": "乘霄山",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我前往引日殿。",
+      "plan": {
+        "name": "引日殿",
+        "parent": "拉海洛",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我们前往四方殿。",
+      "plan": {
+        "name": "四方殿",
+        "parent": "桑古伊斯狩原",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我们前往雾隐阁。",
+      "plan": {
+        "name": "雾隐阁",
+        "parent": "玄幽东岳",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我们已经到了祈池村，开始查看周围。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "arrival",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "抵达边庭。",
+      "plan": {
+        "name": "边庭",
+        "parent": "今州",
+        "travel_note": "",
+        "layer": "",
+        "mode": "arrival",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我去祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "at_target",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "去祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "秧秧说去祈池村。",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "proposal",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我们去祈池村吗？",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "proposal",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "继续",
+      "plan": {
+        "name": "祈池村",
+        "parent": "中曲台地",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": true
+      },
+      "clue": ""
+    },
+    {
+      "input": "继续",
+      "plan": {
+        "name": "虹镇",
+        "parent": "乘霄山",
+        "travel_note": "",
+        "layer": "",
+        "mode": "travel",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": true
+      },
+      "clue": ""
+    },
+    {
+      "input": "白芷前往无音区。",
+      "plan": {
+        "name": "无音区",
+        "parent": "",
+        "unresolved": true,
+        "mode": "proposal",
+        "layer": "",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "秧秧返回今州城。",
+      "plan": {
+        "name": "今州",
+        "parent": "瑝珑 · 今州",
+        "travel_note": "",
+        "layer": "",
+        "mode": "proposal",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我被传送到黑海岸。",
+      "plan": {
+        "name": "黑海岸",
+        "parent": "黑海岸群岛",
+        "travel_note": "",
+        "layer": "",
+        "mode": "arrival",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我准备被传送到黑海岸。",
+      "plan": {
+        "name": "黑海岸",
+        "parent": "黑海岸群岛",
+        "travel_note": "",
+        "layer": "",
+        "mode": "proposal",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "我们前往未命名调查站。",
+      "plan": {
+        "name": "未命名调查站",
+        "parent": "",
+        "unresolved": true,
+        "mode": "travel",
+        "layer": "",
+        "deferred": false,
+        "explicit": true,
+        "queue": [],
+        "inherited": false
+      },
+      "clue": ""
+    },
+    {
+      "input": "糖丸说是祈池村，我们现在去祈池村调查。",
+      "part": "03",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "糖丸说是祈池村，我们现在去祈池村调查。",
+      "part": "03",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "糖丸说是祈池村，我们现在去祈池村调查。",
+      "part": "04",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "糖丸说是祈池村，我们现在去祈池村调查。",
+      "part": "04",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "糖丸说是祈池村，我们现在去祈池村调查。",
+      "part": "05",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "糖丸说是祈池村，我们现在去祈池村调查。",
+      "part": "05",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "去祈池村调查。",
+      "part": "03",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "去祈池村调查。",
+      "part": "03",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "去祈池村调查。",
+      "part": "04",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "去祈池村调查。",
+      "part": "04",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "去祈池村调查。",
+      "part": "05",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "去祈池村调查。",
+      "part": "05",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "紫叶指向祈池村，我们出发。",
+      "part": "03",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "紫叶指向祈池村，我们出发。",
+      "part": "03",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "紫叶指向祈池村，我们出发。",
+      "part": "04",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "紫叶指向祈池村，我们出发。",
+      "part": "04",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "紫叶指向祈池村，我们出发。",
+      "part": "05",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "紫叶指向祈池村，我们出发。",
+      "part": "05",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "part": "03",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "part": "03",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "part": "04",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "part": "04",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "part": "05",
+      "paused": false,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    },
+    {
+      "input": "我们去中曲台地的祈池村。",
+      "part": "05",
+      "paused": true,
+      "before_explicit_target_present": false,
+      "after_explicit_target_present": true
+    }
+  ]
+}

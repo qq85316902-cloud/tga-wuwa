@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "version": "2026.10.26.19",
+  "changed_worldbook_entries": [
+    739
+  ],
+  "changed_card_scripts": [
+    3
+  ],
+  "main_groups": 34,
+  "companion_tasks": 11,
+  "no_active_main_free_choice": true,
+  "active_or_paused_main_locks_other_mains": true,
+  "ui_confirm_before_action": true,
+  "sent_user_message_ack_required": true,
+  "failed_send_own_progress_rollback": true,
+  "draft_and_chat_switch_protected": true,
+  "current_story_resume_button": true,
+  "return_main_not_treated_as_map_location": true,
+  "paused_legacy_parts_ignored": true,
+  "companion_to_main_pauses_companion_control": true,
+  "all_story_sources_and_original_quotes_preserved": true,
+  "maps_other_worlds_and_saved_schema_unchanged": true,
+  "frontend_scenarios": 30,
+  "template_scenarios": 5,
+  "trip_regression_scenarios": 558,
+  "nine_companion_regression_scenarios": 812,
+  "prior_main_summer_edge_regression_scenarios": 1407,
+  "sync_mock_scenarios": 34,
+  "png_image_unchanged": true,
+  "png_json_equal": true,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.19",
+    "payload": "solaris-content-cc6ab3d9ac596f7a.json",
+    "sha256": "cc6ab3d9ac596f7abd364c13fcadb27a73f29f57d4e71ce35a651b150b7d4a22",
+    "bytes": 7162276,
+    "entry_count": 333,
+    "published_at": "2026-10-26T07:49:10.316734+00:00"
+  },
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "committed": false,
+  "published": false
+}

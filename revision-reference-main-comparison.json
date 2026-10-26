@@ -1,0 +1,763 @@
+{
+  "reference_outline_entries": 94,
+  "source": "WuWa_Solaris-3_MVU_Edition.png",
+  "checks": [
+    {
+      "reference_entry": 164,
+      "reference_title": "🎬️3.0🏫：冰原下的星炬 / 致第二次日出",
+      "version": "3.0",
+      "current_parts": "56—62",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 165,
+      "reference_title": "🎬️3.1🏫：远航星 / 日落之处",
+      "version": "3.1",
+      "current_parts": "63—66",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 166,
+      "reference_title": "🎬️3.2🏫：影下不落的黄金 / 影面颠倒的兔影",
+      "version": "3.2",
+      "current_parts": "67—69",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 167,
+      "reference_title": "🎬️2.6⚔️：灼我以烈阳 / 今夜，注定属于月亮",
+      "version": "2.6",
+      "current_parts": "47—50",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 168,
+      "reference_title": "🎬️2.7🏛️：暗潮将映的黎明",
+      "version": "2.7",
+      "current_parts": "51—53",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 169,
+      "reference_title": "🎬️2.8🌸：曙光停摆于荒地之上",
+      "version": "2.8",
+      "current_parts": "54、55",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 170,
+      "reference_title": "🎬️2.5🧛‍♂️：捕梦于神秘园中",
+      "version": "2.5",
+      "current_parts": "40—46",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 171,
+      "reference_title": "🎬️2.4⚔️：荣耀暗面",
+      "version": "2.4",
+      "current_parts": "37—39",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 172,
+      "reference_title": "🎬️2.3🏛️：唯你的长夏永不凋落",
+      "version": "2.3",
+      "current_parts": "新增89、90",
+      "result": "缺失主线，新增上下两幕与独立合篇"
+    },
+    {
+      "reference_entry": 173,
+      "reference_title": "🎬️2.2🏛️：圣者，忤逆者，告死者",
+      "version": "2.2",
+      "current_parts": "36",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 174,
+      "reference_title": "🎬️2.0🏛️：致缄默以欢歌",
+      "version": "2.0",
+      "current_parts": "30—35",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 175,
+      "reference_title": "🎬️2.1🏛️：叶落无声/老人“鱼”海",
+      "version": "2.1",
+      "current_parts": "35A、35B",
+      "result": "补足前段或衔接；与全文冲突的细节不覆盖"
+    },
+    {
+      "reference_entry": 176,
+      "reference_title": "🎬️1.0🐉：但觉今州胜旧州",
+      "version": "1.0",
+      "current_parts": "01—11",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 177,
+      "reference_title": "✍️v2.0 P1：致缄默以欢歌（上）",
+      "version": "2.0",
+      "current_parts": "30—35",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 178,
+      "reference_title": "✍️v2.0 P2：致缄默以欢歌（中）",
+      "version": "2.0",
+      "current_parts": "30—35",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 179,
+      "reference_title": "✍️v2.1 P1：叶落无声",
+      "version": "2.1",
+      "current_parts": "35A、35B",
+      "result": "补足前段或衔接；与全文冲突的细节不覆盖"
+    },
+    {
+      "reference_entry": 181,
+      "reference_title": "✍️v2.0 P3：致缄默以欢歌（下）",
+      "version": "2.0",
+      "current_parts": "30—35",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 185,
+      "reference_title": "✍️v2.2 P1：圣者，忤逆者，告死者（上）@水鸭",
+      "version": "2.2",
+      "current_parts": "36",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 186,
+      "reference_title": "✍️v2.1 P2：老人鱼海",
+      "version": "2.1",
+      "current_parts": "35A、35B",
+      "result": "补足前段或衔接；与全文冲突的细节不覆盖"
+    },
+    {
+      "reference_entry": 187,
+      "reference_title": "✍️v2.2 P2：圣者，忤逆者，告死者（中）@水鸭",
+      "version": "2.2",
+      "current_parts": "36",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 188,
+      "reference_title": "✍️v2.5 P1：捕梦于神秘园中（上）",
+      "version": "2.5",
+      "current_parts": "40—46",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 189,
+      "reference_title": "✍️v2.4 P1：荣耀暗面（上）",
+      "version": "2.4",
+      "current_parts": "37—39",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 190,
+      "reference_title": "✍️v2.2 P3：圣者，忤逆者，告死者（下）@水鸭",
+      "version": "2.2",
+      "current_parts": "36",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 193,
+      "reference_title": "✍️v2.3 P2：唯你的长夏永不凋落（下）",
+      "version": "2.3",
+      "current_parts": "新增89、90",
+      "result": "缺失主线，新增上下两幕与独立合篇"
+    },
+    {
+      "reference_entry": 196,
+      "reference_title": "✍️v2.3 P1：唯你的长夏永不凋落（上）",
+      "version": "2.3",
+      "current_parts": "新增89、90",
+      "result": "缺失主线，新增上下两幕与独立合篇"
+    },
+    {
+      "reference_entry": 197,
+      "reference_title": "✍️v2.4 P2：荣耀暗面（下）",
+      "version": "2.4",
+      "current_parts": "37—39",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 198,
+      "reference_title": "✍️v2.5 P2：捕梦于神秘园中（中）",
+      "version": "2.5",
+      "current_parts": "40—46",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 199,
+      "reference_title": "✍️v2.5 P3：捕梦于神秘园中（下）",
+      "version": "2.5",
+      "current_parts": "40—46",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 200,
+      "reference_title": "✍️v2.6 P1：灼我以烈阳",
+      "version": "2.6",
+      "current_parts": "47—50",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 201,
+      "reference_title": "✍️v1.3 P2：行至海岸尽头（中）",
+      "version": "1.3",
+      "current_parts": "24—29",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 202,
+      "reference_title": "✍️v1.3 P3：行至海岸尽头（下）",
+      "version": "1.3",
+      "current_parts": "24—29",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 206,
+      "reference_title": "✍️v2.6 P2：今夜，注定属于月亮",
+      "version": "2.6",
+      "current_parts": "47—50",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 207,
+      "reference_title": "✍️v3.0 P1：冰原下的星炬（上） @水鸭",
+      "version": "3.0",
+      "current_parts": "56—62",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 208,
+      "reference_title": "✍️v2.7 P2：暗潮将映的黎明（中）",
+      "version": "2.7",
+      "current_parts": "51—53",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 209,
+      "reference_title": "✍️v2.7 P1：暗潮将映的黎明（上）",
+      "version": "2.7",
+      "current_parts": "51—53",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 210,
+      "reference_title": "✍️v2.7 P3：暗潮将映的黎明（下）",
+      "version": "2.7",
+      "current_parts": "51—53",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 211,
+      "reference_title": "✍️v3.0 P2：冰原下的星炬（下）",
+      "version": "3.0",
+      "current_parts": "56—62",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 212,
+      "reference_title": "✍️v2.8 P1：曙光停摆于荒地之上（上） @水鸭",
+      "version": "2.8",
+      "current_parts": "54、55",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 213,
+      "reference_title": "✍️v2.8 P2：曙光停摆于荒地之上（下） @水鸭",
+      "version": "2.8",
+      "current_parts": "54、55",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 214,
+      "reference_title": "✍️v3.0 P3：致第二次日出（上）",
+      "version": "3.0",
+      "current_parts": "56—62",
+      "result": "补足前段或衔接；与全文冲突的细节不覆盖"
+    },
+    {
+      "reference_entry": 215,
+      "reference_title": "✍️v3.0 P4：致第二次日出（下）",
+      "version": "3.0",
+      "current_parts": "56—62",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 218,
+      "reference_title": "✍️v3.1 P1：远航星（上）",
+      "version": "3.1",
+      "current_parts": "63—66",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 219,
+      "reference_title": "✍️v3.1 P2：远航星（中）",
+      "version": "3.1",
+      "current_parts": "63—66",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 220,
+      "reference_title": "✍️v3.1 P3：远航星（下）",
+      "version": "3.1",
+      "current_parts": "63—66",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 221,
+      "reference_title": "✍️v3.1 P4：日光落处（上）",
+      "version": "3.1",
+      "current_parts": "63—66",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 222,
+      "reference_title": "✍️v3.1 P5：日光落处（下）",
+      "version": "3.1",
+      "current_parts": "63—66",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 223,
+      "reference_title": "✍️v3.2 P1：影下不落的黄金（上）",
+      "version": "3.2",
+      "current_parts": "67—69",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 224,
+      "reference_title": "✍️v3.2 P2：影下不落的黄金（中）",
+      "version": "3.2",
+      "current_parts": "67—69",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 225,
+      "reference_title": "✍️v3.2 P3：影下不落的黄金（下）",
+      "version": "3.2",
+      "current_parts": "67—69",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 226,
+      "reference_title": "✍️v3.2 P4：影面颠倒的兔影",
+      "version": "3.2",
+      "current_parts": "67—69",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 227,
+      "reference_title": "✍️v1.3 P1：行至海岸尽头（上）",
+      "version": "1.3",
+      "current_parts": "24—29",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 228,
+      "reference_title": "✍️v1.0 P2：但觉今州胜旧州（中）",
+      "version": "1.0",
+      "current_parts": "01—11",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 229,
+      "reference_title": "✍️v1.2 P1：天上月华人如愿（上）",
+      "version": "1.2",
+      "current_parts": "20—23",
+      "result": "补足前段或衔接；与全文冲突的细节不覆盖"
+    },
+    {
+      "reference_entry": 230,
+      "reference_title": "✍️v1.2 P2：天上月华人如愿（下）",
+      "version": "1.2",
+      "current_parts": "20—23",
+      "result": "补足前段或衔接；与全文冲突的细节不覆盖"
+    },
+    {
+      "reference_entry": 232,
+      "reference_title": "✍️v1.0 P1：但觉今州胜旧州（上）",
+      "version": "1.0",
+      "current_parts": "01—11",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 233,
+      "reference_title": "✍️v1.1 P1：往岁乘霄醒惊蛰（上）",
+      "version": "1.1",
+      "current_parts": "12—19",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 234,
+      "reference_title": "✍️v1.1 P2：往岁乘霄醒惊蛰（中）",
+      "version": "1.1",
+      "current_parts": "12—19",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 235,
+      "reference_title": "✍️v1.1 P3：往岁乘霄醒惊蛰（下）",
+      "version": "1.1",
+      "current_parts": "12—19",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 236,
+      "reference_title": "✍️v1.0 P3：但觉今州胜旧州（下）",
+      "version": "1.0",
+      "current_parts": "01—11",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 239,
+      "reference_title": "🎬️1.3🌊：行至海岸尽头",
+      "version": "1.3",
+      "current_parts": "24—29",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 240,
+      "reference_title": "🎬️1.1🐉：往岁乘霄醒惊蛰",
+      "version": "1.1",
+      "current_parts": "12—19",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 241,
+      "reference_title": "🎬️1.2🐉：天上月华人如愿",
+      "version": "1.2",
+      "current_parts": "20—23",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 485,
+      "reference_title": "🎬️3.3上🏫：昨夜群星 / 春风祝颂你的旅途 @phe_inane",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 486,
+      "reference_title": "🎬️3.3下🏫：在熔解的夜空下",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 487,
+      "reference_title": "🎬️3.4上🌙：(简) 边缘幻梦",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照已有边缘幻梦；保持独立伴星，不复制进主线"
+    },
+    {
+      "reference_entry": 488,
+      "reference_title": "🎬️3.4下🏫：我们选择天空",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 489,
+      "reference_title": "🎬️3.6🦊：烟云幽远心剑鸣",
+      "version": "3.6",
+      "current_parts": "81—85",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 490,
+      "reference_title": "🎬️3.5🦊：遗音扶剑，荡梦而歌",
+      "version": "3.5",
+      "current_parts": "75—80",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 491,
+      "reference_title": "🎬️3.4上🌙：(繁) 邊緣幻夢",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "繁简重复，对照简体条目后不重复导入"
+    },
+    {
+      "reference_entry": 492,
+      "reference_title": "✍️v3.3 P4: 春风祝颂你的旅途 @phe_inane",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 493,
+      "reference_title": "✍️v3.3 P5: 在熔解的夜空下 (上)",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 494,
+      "reference_title": "✍️v3.3 P6: 在熔解的夜空下 (中)",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 495,
+      "reference_title": "✍️v3.3 P7: 在熔解的夜空下 (下) @phe_inane",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 496,
+      "reference_title": "✍️v3.4 P1: (简) 🌙边缘幻梦 (上)",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照已有边缘幻梦；保持独立伴星，不复制进主线"
+    },
+    {
+      "reference_entry": 497,
+      "reference_title": "✍️v3.4 P2: (简) 🌙边缘幻梦 (中)",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照已有边缘幻梦；保持独立伴星，不复制进主线"
+    },
+    {
+      "reference_entry": 498,
+      "reference_title": "✍️v3.4 P3: (简) 🌙边缘幻梦 (下)",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照已有边缘幻梦；保持独立伴星，不复制进主线"
+    },
+    {
+      "reference_entry": 499,
+      "reference_title": "✍️v3.4 P4: 我们选择天空（上）",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 500,
+      "reference_title": "✍️v3.4 P5: 我们选择天空（下）",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 501,
+      "reference_title": "✍️v3.6 P1: 烟云幽远心剑鸣（上）",
+      "version": "3.6",
+      "current_parts": "81—85",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 502,
+      "reference_title": "✍️v3.6 P2: 烟云幽远心剑鸣（中）",
+      "version": "3.6",
+      "current_parts": "81—85",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 503,
+      "reference_title": "✍️v3.6 P3: 烟云幽远心剑鸣（下）",
+      "version": "3.6",
+      "current_parts": "81—85",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 504,
+      "reference_title": "✍️v3.5 P1: 遗音扶剑，荡梦而歌（上）",
+      "version": "3.5",
+      "current_parts": "75—80",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 505,
+      "reference_title": "✍️v3.5 P2: 遗音扶剑，荡梦而歌（中）",
+      "version": "3.5",
+      "current_parts": "75—80",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 506,
+      "reference_title": "✍️v3.5 P3: 遗音扶剑，荡梦而歌（下）",
+      "version": "3.5",
+      "current_parts": "75—80",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 507,
+      "reference_title": "✍️v3.4 P1: (繁) 🌙邊緣幻夢 (上)",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "繁简重复，对照简体条目后不重复导入"
+    },
+    {
+      "reference_entry": 508,
+      "reference_title": "✍️v3.4 P2: (繁) 🌙邊緣幻夢 (中)",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "繁简重复，对照简体条目后不重复导入"
+    },
+    {
+      "reference_entry": 509,
+      "reference_title": "✍️v3.4 P3: (繁) 🌙邊緣幻夢 (下)",
+      "version": "3.4",
+      "current_parts": "74；边缘幻梦留伴星",
+      "result": "繁简重复，对照简体条目后不重复导入"
+    },
+    {
+      "reference_entry": 510,
+      "reference_title": "✍️v3.3 P1: 昨夜群星 (上) @phe_inane",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 511,
+      "reference_title": "✍️v3.3 P2: 昨夜群星 (中) @phe_inane",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 512,
+      "reference_title": "✍️v3.3 P3: 昨夜群星 (下) @phe_inane",
+      "version": "3.3",
+      "current_parts": "70—73",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 558,
+      "reference_title": "✍️v3.7 P1: 梦枢心相由心生（上）",
+      "version": "3.7",
+      "current_parts": "86—88；新增91",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 559,
+      "reference_title": "✍️v3.7 P2: 梦枢心相由心生（中）",
+      "version": "3.7",
+      "current_parts": "86—88；新增91",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 560,
+      "reference_title": "✍️v3.7 P3: 梦枢心相由心生（下）",
+      "version": "3.7",
+      "current_parts": "86—88；新增91",
+      "result": "对照既有章节；主要事件已覆盖，保留任务全文与既有修订"
+    },
+    {
+      "reference_entry": 561,
+      "reference_title": "✍️v3.7 P4: 璇心如月寄尘情",
+      "version": "3.7",
+      "current_parts": "86—88；新增91",
+      "result": "缺失后续主线，新增独立篇与六事件"
+    }
+  ],
+  "changes": [
+    {
+      "target": "20:入场",
+      "reference": [
+        229,
+        230
+      ],
+      "text": "节日邀约把来客带到祈愿树与月树屋：可先与炽霞、秧秧、白芷见面，再由小帕的心愿数据异常引出相里要的委托。相里要提供调查支持，并以原型机器人相里远程协助；接下调查后才进入第一封心愿的解析。参考卡的“小相里要”对应此处的相里，不在现场额外生成另一个相里要。纸条署名仍为晓声，本名仍为十番；不采用参考卡误写的“小笙”“石番”。邀约、接取和是否赴会依玩家回应，不把四份任务同时写成已完成。",
+      "kind": "补足前段"
+    },
+    {
+      "target": "35A:入场",
+      "reference": [
+        179,
+        175
+      ],
+      "text": "赴金库之前交代双重委托：修会提出藏品护送，珂莱塔另请来客以第三方身份关注莫塔里家族与修会的交接。来客可分别查看正式邀请与私人联络，再决定是否担任见证、护送及协调者。现有任务全文没有这两份信件的完整措辞，因此这里只补动机与交接，不另拟一封“官方原文”。抵达后仍在后门与赞妮会合，特殊权限、菲比接替护送及空箱掩护按原事件01展开。",
+      "kind": "补足前段"
+    },
+    {
+      "target": "35A:6",
+      "reference": [
+        175,
+        179
+      ],
+      "text": "最深处的缺段按参考卡补全：队伍赶到最终站，面对冒用祖父姓名的小艾许。他受到控制，以家人遭迫害为由指责莫塔里。通过控制现场危险、追索安全模块与继续听取丽维说明，揭开“监狱”与庇护所的反转：遭修会迫害的研究者以从地表记录中消失为代价，在地下获得继续研究的空间，其成果成为早期藏品。丽维在这一段逐步恢复相关记忆，不能在初遇便完整揭底。菲比携带之物对现场残响发生作用，研究者的坚持和离去得以呈现；事后仍由赞妮调查说明其实际是响应残响的炸弹，不改成普遍无害的净化仪器。小艾许、安全模块、封锁和队伍安全均须在实际行动中处理，不因听完解释就自动完成。参考卡未给出专名的控制者或最终守卫不另造名字。",
+      "kind": "补足事件"
+    },
+    {
+      "target": "35A:7",
+      "reference": [
+        175,
+        179
+      ],
+      "text": "回访将地下先贤的选择与树相连：所谓秘藏不是财富，而是失去地表自由的人最后记住的风景，以及继续追求真理的意志。小艾许对爷爷家书的理解在此收束。参考卡写树叶当场变红；任务全文却明确水土使它按理不会变红，采用任务全文的说明，不强制制造红叶奇迹。",
+      "kind": "补足事件"
+    },
+    {
+      "target": "35B:入场",
+      "reference": [
+        175,
+        186
+      ],
+      "text": "港口的伊什麦尔先以海钓与群岛传说引路，来客到黎乔利群岛结识正在与看不见的“大鱼”较劲的亚哈；得到认可后，有关拉结号的托付才可发生。集市上，菲比因教士身份遭渔民排斥，亚哈解围，并以“自己的帽子”引导她思考个人信念与修会身份的区别；是否同行由双方决定，不作正式入队。此后可驾驶拉结号捕鱼、向普朗克交易，筹措修船所需材料及设施升级。捕鱼、经营、鱼饵和休息是可展开的航海过程，不强制约会或凭一句背景给玩家钱、船只与升级。参考卡“拉结号”与本卡已有同名贡多拉条目对应，不能与裴魁德号混成一船。",
+      "kind": "补足前段"
+    },
+    {
+      "target": "35B:1",
+      "reference": [
+        175,
+        186
+      ],
+      "text": "如从航海前段开始，可补舵盘村寻找斯塔巴克斯：他受海妖影响，执意与鱼成婚；菲比原想用手杖制止，来客可选择拦劝、换走对象或其他有效办法，使其恢复可交流的状态，并调查通往遗迹的关键物件。参考卡没有提供该物件的正式专名，不捏造专属道具。修船图纸和材料的取得由实际探索承接，再交魁格修复裴魁德号；若直接从本幕原有修船收尾进入，可简述这段必要背景，不倒填玩家已亲历。",
+      "kind": "补足事件"
+    },
+    {
+      "target": "35B:6",
+      "reference": [
+        175,
+        186
+      ],
+      "text": "参考卡补足风暴核心的行动段：裴魁德号穿越风暴，来客与菲比处理被亡者残响压垮的海妖之危，溯海之鲸在险境中救起来客一行，随后返岸休整，再按事件07进行阿布翻译与菲比的个人道歉。采用现有全文的区分：这里的海妖与罗蕾莱同类而非罗蕾莱本人；布兰特负责先前的代理掌舵，原文告别之后不凭参考卡强留他全程参战。亚哈的旧日死亡和船员执念可在留言、追查与港口告别中逐步回收，不能把伊什麦尔也一并判作亡魂。是否救回独自出航者、船的损伤和各人离去均按本次行动交代。",
+      "kind": "补足事件"
+    },
+    {
+      "target": "60:1",
+      "reference": [
+        214
+      ],
+      "text": "宿舍复盘前保留参考卡的生活段：琳奈分享成为预科生的消息，莫宁沉浸计算，宿舍机器人准时宝因违规用能而提醒，阿布则对深空联合特色食物作出反应。它承担新生生活与科研习惯的对照，不取代随后织星传讯和玛嘉事故，也不强制玩家吃下食物或替玩家回应。准时宝与后来记忆宫殿的原型机不准时宝分别处理。",
+      "kind": "补足事件"
+    },
+    {
+      "target": "89-唯你的长夏永不凋落·上篇",
+      "reference": [
+        172,
+        196
+      ],
+      "kind": "新增缺失主线",
+      "events": 4
+    },
+    {
+      "target": "90-唯你的长夏永不凋落·下篇",
+      "reference": [
+        172,
+        193
+      ],
+      "kind": "新增缺失主线",
+      "events": 5
+    },
+    {
+      "target": "91-璇心如月寄尘情篇",
+      "reference": [
+        561
+      ],
+      "kind": "新增缺失主线",
+      "events": 6
+    }
+  ]
+}

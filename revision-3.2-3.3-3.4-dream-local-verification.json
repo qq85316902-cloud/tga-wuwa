@@ -1,0 +1,48 @@
+{
+  "source_lines_rechecked": 5793,
+  "quote_groups_rechecked_in_order": 177,
+  "prior_quote_rows_preserved": 19514,
+  "source_quotes_in_correct_scene_and_event": true,
+  "png_text_keywords": [
+    "ccv3"
+  ],
+  "png_embedded_card_matches_json": true,
+  "png_all_crc_valid": true,
+  "png_other_chunks_unchanged": true,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.2",
+    "payload": "solaris-content-4c8ab01cf085f3a8.json",
+    "sha256": "4c8ab01cf085f3a84875299ce6c5bb08648675659d0541609338a7e86a654f96",
+    "bytes": 5417911,
+    "entry_count": 333,
+    "published_at": "2026-10-25T20:23:16.792103+00:00"
+  },
+  "payload_matches_authoritative_outlines": true,
+  "atlas_matches_previous_payload": true,
+  "other_managed_entries_identical": true,
+  "worldbook_count": 1072,
+  "changed_entries": [
+    740,
+    742
+  ],
+  "other_card_fields_unchanged": true,
+  "other_main_parts_and_companions_identical": true,
+  "controller_scenarios": 124,
+  "sync_mock_scenarios": 34,
+  "published": false,
+  "committed": false,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "artifacts": {
+    "png": {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-24\\2-4-2-5-2-6\\outputs\\索拉里斯-3.2-3.3-3.4含幻梦关键对白原文补全版.png",
+      "sha256": "a7f3a48d4d1ae30237e36a91a929151e30ee68dd0358d618140d02eb73c391b5"
+    },
+    "json": {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-24\\2-4-2-5-2-6\\outputs\\索拉里斯-3.2-3.3-3.4含幻梦关键对白原文补全版.json",
+      "sha256": "d2ae80e374d9e22fe2f448a19cefc93858adad9e2ad59b773b54db47e5daf25d"
+    }
+  }
+}

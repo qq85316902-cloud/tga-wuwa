@@ -1,0 +1,2286 @@
+{
+  "passed": true,
+  "scenarios": 1092,
+  "versions": {
+    "2.8": {
+      "parts": 2,
+      "scenes": 13,
+      "quote_rows": 1365,
+      "previous_missing_scenarios": 40
+    },
+    "3.0": {
+      "parts": 7,
+      "scenes": 32,
+      "quote_rows": 1998,
+      "previous_missing_scenarios": 100
+    },
+    "3.1": {
+      "parts": 4,
+      "scenes": 22,
+      "quote_rows": 1552,
+      "previous_missing_scenarios": 69
+    }
+  },
+  "new_routes": 67,
+  "total_routes": 338,
+  "new_location_contexts": 67,
+  "part_location_notes": 13,
+  "independent_natural_variants": 64,
+  "earlier_routes_regression": 271,
+  "main_parts_checked": 93,
+  "companion_tasks_checked": 10,
+  "readonly_state_unchanged": true,
+  "main_quote_sequences_preserved": true,
+  "memory_virtual_and_remote_not_physical_arrivals": true,
+  "star_photo_reference_not_destination": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "route_examples": [
+    {
+      "input": "我前往虹音塔。",
+      "target": "虹音塔",
+      "mode": "travel"
+    },
+    {
+      "input": "我们前往穗波市的虹音塔。",
+      "target": "虹音塔",
+      "mode": "travel"
+    },
+    {
+      "input": "我们回到列车长咖啡厅。",
+      "target": "列车长咖啡厅",
+      "mode": "travel"
+    },
+    {
+      "input": "我们前往深空联合研究院。",
+      "target": "深空联合研究院",
+      "mode": "travel"
+    },
+    {
+      "input": "我们前往虚境作训场。",
+      "target": "虚境作训场",
+      "mode": "travel"
+    },
+    {
+      "input": "经联运椎骨去罗伊冰原。",
+      "target": "罗伊冰原",
+      "mode": "travel"
+    },
+    {
+      "input": "我在回忆中抵达渐湖。",
+      "target": "渐湖",
+      "mode": "record"
+    },
+    {
+      "input": "我进入回忆中的渐湖。",
+      "target": "渐湖",
+      "mode": "record"
+    },
+    {
+      "input": "我进入幼年记忆中的渐湖。",
+      "target": "渐湖",
+      "mode": "record"
+    },
+    {
+      "input": "我进入渐湖旧家的回忆。",
+      "target": "渐湖",
+      "mode": "record"
+    },
+    {
+      "input": "我进入虚质空间中的渐湖。",
+      "target": "渐湖",
+      "mode": "inner"
+    },
+    {
+      "input": "我在通讯里听到千咲已经抵达星炬学院。",
+      "target": "星炬学院",
+      "mode": "remote"
+    },
+    {
+      "input": "我在录像中抵达天空海。",
+      "target": "天空海",
+      "mode": "record"
+    },
+    {
+      "input": "我看完录像后现在前往渐湖。",
+      "target": "渐湖",
+      "mode": "travel"
+    },
+    {
+      "input": "我们前往渐湖调查回忆。",
+      "target": "渐湖",
+      "mode": "travel"
+    },
+    {
+      "part": "54",
+      "input": "我们去虹音塔。",
+      "target": "虹音塔",
+      "condition": "穗波市内"
+    },
+    {
+      "part": "57",
+      "input": "我们前往深空联合研究院。",
+      "target": "深空联合研究院",
+      "condition": "区别于今州华胥"
+    },
+    {
+      "part": "63",
+      "input": "我们前往天槎空间站。",
+      "target": "天槎空间站",
+      "condition": "不因名称自动飞往在轨太空"
+    },
+    {
+      "part": "63",
+      "input": "我们去罗伊冰原。",
+      "target": "罗伊冰原",
+      "condition": "地表冰原"
+    }
+  ],
+  "results": [
+    {
+      "id": "54:1",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "守岸人解析利维亚坦宝石的移动坐标，卜灵警示裂隙显城，桔梗辨认故乡。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:1",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "守岸人解析利维亚坦宝石的移动坐标，卜灵警示裂隙显城，桔梗辨认故乡。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:1",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "守岸人解析利维亚坦宝石的移动坐标，卜灵警示裂隙显城，桔梗辨认故乡。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:1",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "守岸人解析利维亚坦宝石的移动坐标，卜灵警示裂隙显城，桔梗辨认故乡。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:2",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "在穗波看到上班族与女学生察觉矛盾后崩解，波仔引路让千咲救援。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:2",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "在穗波看到上班族与女学生察觉矛盾后崩解，波仔引路让千咲救援。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:2",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "在穗波看到上班族与女学生察觉矛盾后崩解，波仔引路让千咲救援。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:2",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "在穗波看到上班族与女学生察觉矛盾后崩解，波仔引路让千咲救援。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:3",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "到咖啡厅安全据点听千咲讲两个月的困局，查看初访徽章和旧时钟，问波仔余念定位。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:3",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "到咖啡厅安全据点听千咲讲两个月的困局，查看初访徽章和旧时钟，问波仔余念定位。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:3",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "到咖啡厅安全据点听千咲讲两个月的困局，查看初访徽章和旧时钟，问波仔余念定位。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:3",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "到咖啡厅安全据点听千咲讲两个月的困局，查看初访徽章和旧时钟，问波仔余念定位。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:4",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "调查福尔波斯指认的测频装置，读两份同编号异数据的第二十次研究报告，再寻找澄夏旧据点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:4",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "调查福尔波斯指认的测频装置，读两份同编号异数据的第二十次研究报告，再寻找澄夏旧据点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:4",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "调查福尔波斯指认的测频装置，读两份同编号异数据的第二十次研究报告，再寻找澄夏旧据点。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:4",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "调查福尔波斯指认的测频装置，读两份同编号异数据的第二十次研究报告，再寻找澄夏旧据点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:5",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "在澄夏旧据点查时钟实验和琥珀封存，读第一三六日、第一五九日笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:5",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "在澄夏旧据点查时钟实验和琥珀封存，读第一三六日、第一五九日笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:5",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "在澄夏旧据点查时钟实验和琥珀封存，读第一三六日、第一五九日笔记。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:5",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "在澄夏旧据点查时钟实验和琥珀封存，读第一三六日、第一五九日笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:6",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "进入虹音塔分离轻质虹晶，读澄夏第一六零日至第一六二日笔记，查核心区L4实验进程。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:6",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "进入虹音塔分离轻质虹晶，读澄夏第一六零日至第一六二日笔记，查核心区L4实验进程。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:6",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "进入虹音塔分离轻质虹晶，读澄夏第一六零日至第一六二日笔记，查核心区L4实验进程。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:6",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "进入虹音塔分离轻质虹晶，读澄夏第一六零日至第一六二日笔记，查核心区L4实验进程。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:7",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "塔顶喝阻后回看一小时前千咲的监管和家庭旧伤，澄夏鼓励她主动返回。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:7",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "塔顶喝阻后回看一小时前千咲的监管和家庭旧伤，澄夏鼓励她主动返回。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:7",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "塔顶喝阻后回看一小时前千咲的监管和家庭旧伤，澄夏鼓励她主动返回。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:7",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "塔顶喝阻后回看一小时前千咲的监管和家庭旧伤，澄夏鼓励她主动返回。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:8",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "送余念回家后确认波仔只是先回咖啡厅，邀请千咲去黑海岸治疗。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:8",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "送余念回家后确认波仔只是先回咖啡厅，邀请千咲去黑海岸治疗。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:8",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "送余念回家后确认波仔只是先回咖啡厅，邀请千咲去黑海岸治疗。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:8",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "送余念回家后确认波仔只是先回咖啡厅，邀请千咲去黑海岸治疗。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:9",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "空间复位后检查外部仪器，调查裂隙重开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:9",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "空间复位后检查外部仪器，调查裂隙重开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:9",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "空间复位后检查外部仪器，调查裂隙重开。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "54:9",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "空间复位后检查外部仪器，调查裂隙重开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:1",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "千咲封闭治疗后曲线正常，谈二十余年时间差，查看学生证和捞到的漂流磁带。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:1",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "千咲封闭治疗后曲线正常，谈二十余年时间差，查看学生证和捞到的漂流磁带。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:1",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "千咲封闭治疗后曲线正常，谈二十余年时间差，查看学生证和捞到的漂流磁带。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:1",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "千咲封闭治疗后曲线正常，谈二十余年时间差，查看学生证和捞到的漂流磁带。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:2",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "咖啡厅再开，制作代理店长立牌，与波仔和到场朋友举行开业派对，听收音机里的秋水。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:2",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "咖啡厅再开，制作代理店长立牌，与波仔和到场朋友举行开业派对，听收音机里的秋水。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:2",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "咖啡厅再开，制作代理店长立牌，与波仔和到场朋友举行开业派对，听收音机里的秋水。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:2",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "咖啡厅再开，制作代理店长立牌，与波仔和到场朋友举行开业派对，听收音机里的秋水。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:3",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "庆典后醒来听波仔夸饰，千咲说原计划是先回家再返校。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:3",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "庆典后醒来听波仔夸饰，千咲说原计划是先回家再返校。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:3",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "庆典后醒来听波仔夸饰，千咲说原计划是先回家再返校。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:3",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "庆典后醒来听波仔夸饰，千咲说原计划是先回家再返校。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:4",
+      "version": "2.8",
+      "scenario": "未接取",
+      "input": "守岸人检查频率流失与虚质磁暴，给收音机调频，听母亲访谈，确认稳定裂隙和拉海洛文书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:4",
+      "version": "2.8",
+      "scenario": "旧分幕",
+      "input": "守岸人检查频率流失与虚质磁暴，给收音机调频，听母亲访谈，确认稳定裂隙和拉海洛文书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:4",
+      "version": "2.8",
+      "scenario": "正确分幕",
+      "input": "守岸人检查频率流失与虚质磁暴，给收音机调频，听母亲访谈，确认稳定裂隙和拉海洛文书。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "55:4",
+      "version": "2.8",
+      "scenario": "已暂停旧分幕",
+      "input": "守岸人检查频率流失与虚质磁暴，给收音机调频，听母亲访谈，确认稳定裂隙和拉海洛文书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "守岸人通知单向隧道已备妥，确认旧录取通知仍有效，交代磁暴异常与通讯限制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "守岸人通知单向隧道已备妥，确认旧录取通知仍有效，交代磁暴异常与通讯限制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "守岸人通知单向隧道已备妥，确认旧录取通知仍有效，交代磁暴异常与通讯限制。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "守岸人通知单向隧道已备妥，确认旧录取通知仍有效，交代磁暴异常与通讯限制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "千咲先行穿过一人宽的隧道，漂泊者随后单独进入异常空间。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "千咲先行穿过一人宽的隧道，漂泊者随后单独进入异常空间。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "千咲先行穿过一人宽的隧道，漂泊者随后单独进入异常空间。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "千咲先行穿过一人宽的隧道，漂泊者随后单独进入异常空间。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "高空坠落后初遇琳奈救援，阿布认出失频气味，摆脱虚诞虫后听琳奈自我介绍。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "高空坠落后初遇琳奈救援，阿布认出失频气味，摆脱虚诞虫后听琳奈自我介绍。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "高空坠落后初遇琳奈救援，阿布认出失频气味，摆脱虚诞虫后听琳奈自我介绍。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "56:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "高空坠落后初遇琳奈救援，阿布认出失频气味，摆脱虚诞虫后听琳奈自我介绍。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "到中枢信标登记，读千咲连续联络飞讯，重逢时确认落点数日差与父母团聚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "到中枢信标登记，读千咲连续联络飞讯，重逢时确认落点数日差与父母团聚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "到中枢信标登记，读千咲连续联络飞讯，重逢时确认落点数日差与父母团聚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "到中枢信标登记，读千咲连续联络飞讯，重逢时确认落点数日差与父母团聚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "N.A.N.A.给出体检结果，赫斯解释缺频报告，说明磁带的身份与安全用途。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "N.A.N.A.给出体检结果，赫斯解释缺频报告，说明磁带的身份与安全用途。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "N.A.N.A.给出体检结果，赫斯解释缺频报告，说明磁带的身份与安全用途。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "N.A.N.A.给出体检结果，赫斯解释缺频报告，说明磁带的身份与安全用途。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "办理学部与姓名校服手续，拍证件照与合照，领取学生证后了解模拟驾驶舱和阿列夫一。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "办理学部与姓名校服手续，拍证件照与合照，领取学生证后了解模拟驾驶舱和阿列夫一。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "办理学部与姓名校服手续，拍证件照与合照，领取学生证后了解模拟驾驶舱和阿列夫一。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "办理学部与姓名校服手续，拍证件照与合照，领取学生证后了解模拟驾驶舱和阿列夫一。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:4",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "领取载具，听琳奈说明交通签署和改装边界，准备去研究院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:4",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "领取载具，听琳奈说明交通签署和改装边界，准备去研究院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:4",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "领取载具，听琳奈说明交通签署和改装边界，准备去研究院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "57:4",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "领取载具，听琳奈说明交通签署和改装边界，准备去研究院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "沿巨剑上行，琳奈介绍防壁、联运椎骨与隧群生态，检查磁暴停运和异常路障。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "沿巨剑上行，琳奈介绍防壁、联运椎骨与隧群生态，检查磁暴停运和异常路障。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "沿巨剑上行，琳奈介绍防壁、联运椎骨与隧群生态，检查磁暴停运和异常路障。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "沿巨剑上行，琳奈介绍防壁、联运椎骨与隧群生态，检查磁暴停运和异常路障。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "磁带保存间发生旧数据冲突，莫宁制止过载并要求覆盖同编码旧数据，说明频录装置上限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "磁带保存间发生旧数据冲突，莫宁制止过载并要求覆盖同编码旧数据，说明频录装置上限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "磁带保存间发生旧数据冲突，莫宁制止过载并要求覆盖同编码旧数据，说明频录装置上限。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "磁带保存间发生旧数据冲突，莫宁制止过载并要求覆盖同编码旧数据，说明频录装置上限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "莫宁介绍人工太阳和换日窗口，查看海维夏与三阶段批注，听生命种子及换日邀请。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "莫宁介绍人工太阳和换日窗口，查看海维夏与三阶段批注，听生命种子及换日邀请。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "莫宁介绍人工太阳和换日窗口，查看海维夏与三阶段批注，听生命种子及换日邀请。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "莫宁介绍人工太阳和换日窗口，查看海维夏与三阶段批注，听生命种子及换日邀请。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:4",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "海维夏探测器失控，琳奈收到旧编码联络人的威胁，止险后遭到质询。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:4",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "海维夏探测器失控，琳奈收到旧编码联络人的威胁，止险后遭到质询。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:4",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "海维夏探测器失控，琳奈收到旧编码联络人的威胁，止险后遭到质询。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:4",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "海维夏探测器失控，琳奈收到旧编码联络人的威胁，止险后遭到质询。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:5",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "教师反对直接归罪琳奈，听取口供后离开现场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:5",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "教师反对直接归罪琳奈，听取口供后离开现场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:5",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "教师反对直接归罪琳奈，听取口供后离开现场。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "58:5",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "教师反对直接归罪琳奈，听取口供后离开现场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "在天台听琳奈坦白，确认狸猫换太子方案，查看仪器外壳、三层加密与覆写权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "在天台听琳奈坦白，确认狸猫换太子方案，查看仪器外壳、三层加密与覆写权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "在天台听琳奈坦白，确认狸猫换太子方案，查看仪器外壳、三层加密与覆写权限。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在天台听琳奈坦白，确认狸猫换太子方案，查看仪器外壳、三层加密与覆写权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "去深空文献中心请I.R.I.S.检索缩小范围，读取论文匹配虚诞虫与增幅指南。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "去深空文献中心请I.R.I.S.检索缩小范围，读取论文匹配虚诞虫与增幅指南。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "去深空文献中心请I.R.I.S.检索缩小范围，读取论文匹配虚诞虫与增幅指南。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "去深空文献中心请I.R.I.S.检索缩小范围，读取论文匹配虚诞虫与增幅指南。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "匿名举报引发禁足，琳奈留在宿舍，查看录取通知与模型，查明佣兵档案和退学遣返风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "匿名举报引发禁足，琳奈留在宿舍，查看录取通知与模型，查明佣兵档案和退学遣返风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "匿名举报引发禁足，琳奈留在宿舍，查看录取通知与模型，查明佣兵档案和退学遣返风险。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "匿名举报引发禁足，琳奈留在宿舍，查看录取通知与模型，查明佣兵档案和退学遣返风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:4",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "磁暴袭校后分头修复手动三座阵列，琳奈以最高功率诱敌，检查校内防壁与仪器极限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:4",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "磁暴袭校后分头修复手动三座阵列，琳奈以最高功率诱敌，检查校内防壁与仪器极限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:4",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "磁暴袭校后分头修复手动三座阵列，琳奈以最高功率诱敌，检查校内防壁与仪器极限。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:4",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "磁暴袭校后分头修复手动三座阵列，琳奈以最高功率诱敌，检查校内防壁与仪器极限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:5",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "琳奈和漂泊者并肩攀虫，瞄准虚质反应炉弱点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:5",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "琳奈和漂泊者并肩攀虫，瞄准虚质反应炉弱点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:5",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "琳奈和漂泊者并肩攀虫，瞄准虚质反应炉弱点。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:5",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "琳奈和漂泊者并肩攀虫，瞄准虚质反应炉弱点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:6",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "事情结束后听琳奈说明真实身份重考与明日考试，收到花园邀约，谈真正属于自己的名字。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:6",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "事情结束后听琳奈说明真实身份重考与明日考试，收到花园邀约，谈真正属于自己的名字。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:6",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "事情结束后听琳奈说明真实身份重考与明日考试，收到花园邀约，谈真正属于自己的名字。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "59:6",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "事情结束后听琳奈说明真实身份重考与明日考试，收到花园邀约，谈真正属于自己的名字。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "在宿舍复盘海维夏损伤，琳奈说明已通过全部入学测试，莫宁交代换日修复责任。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "在宿舍复盘海维夏损伤，琳奈说明已通过全部入学测试，莫宁交代换日修复责任。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "在宿舍复盘海维夏损伤，琳奈说明已通过全部入学测试，莫宁交代换日修复责任。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在宿舍复盘海维夏损伤，琳奈说明已通过全部入学测试，莫宁交代换日修复责任。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "日灵传来求援记忆后消散，会议取消，莫宁处理玛嘉机器人事故，再做艾丝翠德家访。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "日灵传来求援记忆后消散，会议取消，莫宁处理玛嘉机器人事故，再做艾丝翠德家访。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "日灵传来求援记忆后消散，会议取消，莫宁处理玛嘉机器人事故，再做艾丝翠德家访。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "日灵传来求援记忆后消散，会议取消，莫宁处理玛嘉机器人事故，再做艾丝翠德家访。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "在阿图雅营地调查未预报磁暴，装置提取虚诞虫频率，艾丝翠德交代放置装置。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "在阿图雅营地调查未预报磁暴，装置提取虚诞虫频率，艾丝翠德交代放置装置。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "在阿图雅营地调查未预报磁暴，装置提取虚诞虫频率，艾丝翠德交代放置装置。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在阿图雅营地调查未预报磁暴，装置提取虚诞虫频率，艾丝翠德交代放置装置。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:4",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "到赫尔琉斯参加归源晚宴，为获救日灵伴伴取名，按矩尺座照片找到莫宁义肢充能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:4",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "到赫尔琉斯参加归源晚宴，为获救日灵伴伴取名，按矩尺座照片找到莫宁义肢充能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:4",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "到赫尔琉斯参加归源晚宴，为获救日灵伴伴取名，按矩尺座照片找到莫宁义肢充能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:4",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "到赫尔琉斯参加归源晚宴，为获救日灵伴伴取名，按矩尺座照片找到莫宁义肢充能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:5",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "日树污染后确认不再安全，莫宁提出分开调查，漂泊者准备赴引日殿。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:5",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "日树污染后确认不再安全，莫宁提出分开调查，漂泊者准备赴引日殿。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:5",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "日树污染后确认不再安全，莫宁提出分开调查，漂泊者准备赴引日殿。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "60:5",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "日树污染后确认不再安全，莫宁提出分开调查，漂泊者准备赴引日殿。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "进入引日殿听年迈牧者讲六席，织星请求御者授权独担六席算量，完成日轮复启。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "进入引日殿听年迈牧者讲六席，织星请求御者授权独担六席算量，完成日轮复启。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "进入引日殿听年迈牧者讲六席，织星请求御者授权独担六席算量，完成日轮复启。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "进入引日殿听年迈牧者讲六席，织星请求御者授权独担六席算量，完成日轮复启。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "莫宁调查实验室秘闻录，核对两种笔迹和7364，读取被否决项目与试验舱资料。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "莫宁调查实验室秘闻录，核对两种笔迹和7364，读取被否决项目与试验舱资料。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "莫宁调查实验室秘闻录，核对两种笔迹和7364，读取被否决项目与试验舱资料。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "莫宁调查实验室秘闻录，核对两种笔迹和7364，读取被否决项目与试验舱资料。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "伊摩尔谈终生使命和新联邦承诺，莫宁说明坠日真实后果，反抗被利用。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "伊摩尔谈终生使命和新联邦承诺，莫宁说明坠日真实后果，反抗被利用。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "伊摩尔谈终生使命和新联邦承诺，莫宁说明坠日真实后果，反抗被利用。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "伊摩尔谈终生使命和新联邦承诺，莫宁说明坠日真实后果，反抗被利用。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:4",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "赶回研究院疏散落区，以独有工艺指认魏尔伦，临时剥离指挥权并接收织星数据，安排赫利俄斯发射。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:4",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "赶回研究院疏散落区，以独有工艺指认魏尔伦，临时剥离指挥权并接收织星数据，安排赫利俄斯发射。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:4",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "赶回研究院疏散落区，以独有工艺指认魏尔伦，临时剥离指挥权并接收织星数据，安排赫利俄斯发射。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:4",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "赶回研究院疏散落区，以独有工艺指认魏尔伦，临时剥离指挥权并接收织星数据，安排赫利俄斯发射。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:5",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "人工测不准之时，处理炉芯机骸，莫宁最大输出后独入失联。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:5",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "人工测不准之时，处理炉芯机骸，莫宁最大输出后独入失联。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:5",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "人工测不准之时，处理炉芯机骸，莫宁最大输出后独入失联。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "61:5",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "人工测不准之时，处理炉芯机骸，莫宁最大输出后独入失联。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:1",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "接入载具后确认有限燃料，实际接回莫宁，再处理旧日告别回忆与数据恢复。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:1",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "接入载具后确认有限燃料，实际接回莫宁，再处理旧日告别回忆与数据恢复。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:1",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "接入载具后确认有限燃料，实际接回莫宁，再处理旧日告别回忆与数据恢复。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:1",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "接入载具后确认有限燃料，实际接回莫宁，再处理旧日告别回忆与数据恢复。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:2",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "三日后赫斯发来莫宁苏醒通知，同时交代伪证后果。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:2",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "三日后赫斯发来莫宁苏醒通知，同时交代伪证后果。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:2",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "三日后赫斯发来莫宁苏醒通知，同时交代伪证后果。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:2",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "三日后赫斯发来莫宁苏醒通知，同时交代伪证后果。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:3",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "探望莫宁后兑现共同看太阳的约定，追问浅蓝圆环少女、已落地旧炉芯和前辈旧缘。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:3",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "探望莫宁后兑现共同看太阳的约定，追问浅蓝圆环少女、已落地旧炉芯和前辈旧缘。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:3",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "探望莫宁后兑现共同看太阳的约定，追问浅蓝圆环少女、已落地旧炉芯和前辈旧缘。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:3",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "探望莫宁后兑现共同看太阳的约定，追问浅蓝圆环少女、已落地旧炉芯和前辈旧缘。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:4",
+      "version": "3.0",
+      "scenario": "未接取",
+      "input": "安瑟姆谈保护性监管与看见自己的证词，幕后交代少女契约篇章延期。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:4",
+      "version": "3.0",
+      "scenario": "旧分幕",
+      "input": "安瑟姆谈保护性监管与看见自己的证词，幕后交代少女契约篇章延期。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:4",
+      "version": "3.0",
+      "scenario": "正确分幕",
+      "input": "安瑟姆谈保护性监管与看见自己的证词，幕后交代少女契约篇章延期。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "62:4",
+      "version": "3.0",
+      "scenario": "已暂停旧分幕",
+      "input": "安瑟姆谈保护性监管与看见自己的证词，幕后交代少女契约篇章延期。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:1",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "课堂上听娜波摩讲三纪神话，与同桌爱弥斯交谈，追查驾驶舱失踪及辛吉勒姆夺核。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:1",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "课堂上听娜波摩讲三纪神话，与同桌爱弥斯交谈，追查驾驶舱失踪及辛吉勒姆夺核。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:1",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "课堂上听娜波摩讲三纪神话，与同桌爱弥斯交谈，追查驾驶舱失踪及辛吉勒姆夺核。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:1",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "课堂上听娜波摩讲三纪神话，与同桌爱弥斯交谈，追查驾驶舱失踪及辛吉勒姆夺核。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:2",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "向莫宁说明后听洛瑟菈承认监听与权限赔礼，拿歌友会传单，听爱弥斯讲飞行雪绒和未完成样曲。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:2",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "向莫宁说明后听洛瑟菈承认监听与权限赔礼，拿歌友会传单，听爱弥斯讲飞行雪绒和未完成样曲。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:2",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "向莫宁说明后听洛瑟菈承认监听与权限赔礼，拿歌友会传单，听爱弥斯讲飞行雪绒和未完成样曲。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:2",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "向莫宁说明后听洛瑟菈承认监听与权限赔礼，拿歌友会传单，听爱弥斯讲飞行雪绒和未完成样曲。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:3",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "赫斯改装摩托后前往冰原，娜波摩探查坠落物遭雪崩，先到站内避寒等待模块投放。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:3",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "赫斯改装摩托后前往冰原，娜波摩探查坠落物遭雪崩，先到站内避寒等待模块投放。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:3",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "赫斯改装摩托后前往冰原，娜波摩探查坠落物遭雪崩，先到站内避寒等待模块投放。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:3",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "赫斯改装摩托后前往冰原，娜波摩探查坠落物遭雪崩，先到站内避寒等待模块投放。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:4",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "天槎空间站内查模块架构器、文璐参观记录和稷廷钢笔，处理液滴与访客权限上限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:4",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "天槎空间站内查模块架构器、文璐参观记录和稷廷钢笔，处理液滴与访客权限上限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:4",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "天槎空间站内查模块架构器、文璐参观记录和稷廷钢笔，处理液滴与访客权限上限。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:4",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "天槎空间站内查模块架构器、文璐参观记录和稷廷钢笔，处理液滴与访客权限上限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:5",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "打开下层封锁，面对无铭探索者，听克莱门特自我封锁的解释，查看天空海录像。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:5",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "打开下层封锁，面对无铭探索者，听克莱门特自我封锁的解释，查看天空海录像。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:5",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "打开下层封锁，面对无铭探索者，听克莱门特自我封锁的解释，查看天空海录像。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "63:5",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "打开下层封锁，面对无铭探索者，听克莱门特自我封锁的解释，查看天空海录像。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:1",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "雪原公路片中查看旧科考站研究员旧影与磁带转录，问爱弥斯失忆后是否开心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:1",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "雪原公路片中查看旧科考站研究员旧影与磁带转录，问爱弥斯失忆后是否开心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:1",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "雪原公路片中查看旧科考站研究员旧影与磁带转录，问爱弥斯失忆后是否开心。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:1",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "雪原公路片中查看旧科考站研究员旧影与磁带转录，问爱弥斯失忆后是否开心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:2",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "渐湖旧家里查看手柄、猫玩偶与纸飞机，进入幼年落湖和父母护身符的记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:2",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "渐湖旧家里查看手柄、猫玩偶与纸飞机，进入幼年落湖和父母护身符的记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:2",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "渐湖旧家里查看手柄、猫玩偶与纸飞机，进入幼年落湖和父母护身符的记忆。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:2",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "渐湖旧家里查看手柄、猫玩偶与纸飞机，进入幼年落湖和父母护身符的记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:3",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "海域改装派上用场，追逐辛吉勒姆夺核，讨论驾驶权与强启隧者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:3",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "海域改装派上用场，追逐辛吉勒姆夺核，讨论驾驶权与强启隧者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:3",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "海域改装派上用场，追逐辛吉勒姆夺核，讨论驾驶权与强启隧者。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:3",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "海域改装派上用场，追逐辛吉勒姆夺核，讨论驾驶权与强启隧者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:4",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "爱弥斯的封闭保护中查海报背面、最底层旧合照，听黑猫与纸盒寓言，要求面对故乡通讯被拒的真相。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:4",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "爱弥斯的封闭保护中查海报背面、最底层旧合照，听黑猫与纸盒寓言，要求面对故乡通讯被拒的真相。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:4",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "爱弥斯的封闭保护中查海报背面、最底层旧合照，听黑猫与纸盒寓言，要求面对故乡通讯被拒的真相。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:4",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "爱弥斯的封闭保护中查海报背面、最底层旧合照，听黑猫与纸盒寓言，要求面对故乡通讯被拒的真相。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:5",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "爱弥斯选择共同自救，核心归还后重构频率，确认原肉体不复原。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:5",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "爱弥斯选择共同自救，核心归还后重构频率，确认原肉体不复原。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:5",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "爱弥斯选择共同自救，核心归还后重构频率，确认原肉体不复原。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:5",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "爱弥斯选择共同自救，核心归还后重构频率，确认原肉体不复原。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:6",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "回到歌友会前确认炉芯自检和封印变弱，爱弥斯本人参与演出，听萨迦记挂与虚假天穹的追问。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:6",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "回到歌友会前确认炉芯自检和封印变弱，爱弥斯本人参与演出，听萨迦记挂与虚假天穹的追问。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:6",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "回到歌友会前确认炉芯自检和封印变弱，爱弥斯本人参与演出，听萨迦记挂与虚假天穹的追问。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "64:6",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "回到歌友会前确认炉芯自检和封印变弱，爱弥斯本人参与演出，听萨迦记挂与虚假天穹的追问。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:1",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "天台问后续旅途，返还频率带来辛吉勒姆旧躯壳视角与未来讯息闭环，回看幼年离别。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:1",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "天台问后续旅途，返还频率带来辛吉勒姆旧躯壳视角与未来讯息闭环，回看幼年离别。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:1",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "天台问后续旅途，返还频率带来辛吉勒姆旧躯壳视角与未来讯息闭环，回看幼年离别。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:1",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "天台问后续旅途，返还频率带来辛吉勒姆旧躯壳视角与未来讯息闭环，回看幼年离别。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:2",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "爱弥斯已决定远行，反复逆行失败与末端坍缩只剩最后一次机会，决定追去渐湖。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:2",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "爱弥斯已决定远行，反复逆行失败与末端坍缩只剩最后一次机会，决定追去渐湖。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:2",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "爱弥斯已决定远行，反复逆行失败与末端坍缩只剩最后一次机会，决定追去渐湖。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:2",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "爱弥斯已决定远行，反复逆行失败与末端坍缩只剩最后一次机会，决定追去渐湖。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:3",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "渐湖中对话确认无法返航，爱弥斯远行告别，希望仍能悲伤与幸福。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:3",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "渐湖中对话确认无法返航，爱弥斯远行告别，希望仍能悲伤与幸福。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:3",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "渐湖中对话确认无法返航，爱弥斯远行告别，希望仍能悲伤与幸福。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:3",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "渐湖中对话确认无法返航，爱弥斯远行告别，希望仍能悲伤与幸福。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:4",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "闭环中的此刻之人托起幼年爱弥斯，交代护身符与继续寻救。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:4",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "闭环中的此刻之人托起幼年爱弥斯，交代护身符与继续寻救。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:4",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "闭环中的此刻之人托起幼年爱弥斯，交代护身符与继续寻救。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:4",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "闭环中的此刻之人托起幼年爱弥斯，交代护身符与继续寻救。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:5",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "检查作训舱异常与留下的壳，赫斯飞讯说明稀薄存在，纸飞机定位只是可能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:5",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "检查作训舱异常与留下的壳，赫斯飞讯说明稀薄存在，纸飞机定位只是可能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:5",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "检查作训舱异常与留下的壳，赫斯飞讯说明稀薄存在，纸飞机定位只是可能。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "65:5",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "检查作训舱异常与留下的壳，赫斯飞讯说明稀薄存在，纸飞机定位只是可能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:1",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "在医务室密室听赫斯说旧约，确认不是黑海岸客卿，了解黄金血日髓及剧痛色盲代价。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:1",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "在医务室密室听赫斯说旧约，确认不是黑海岸客卿，了解黄金血日髓及剧痛色盲代价。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:1",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "在医务室密室听赫斯说旧约，确认不是黑海岸客卿，了解黄金血日髓及剧痛色盲代价。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:1",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在医务室密室听赫斯说旧约，确认不是黑海岸客卿，了解黄金血日髓及剧痛色盲代价。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:2",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "查全家福背面、莱伊父亲的空坟及烧损报告，赫斯说明厄里斯和父亲被替换。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:2",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "查全家福背面、莱伊父亲的空坟及烧损报告，赫斯说明厄里斯和父亲被替换。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:2",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "查全家福背面、莱伊父亲的空坟及烧损报告，赫斯说明厄里斯和父亲被替换。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:2",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "查全家福背面、莱伊父亲的空坟及烧损报告，赫斯说明厄里斯和父亲被替换。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:3",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "与洛瑟菈达成校长合作，说明巨型日灵根系、董事会分工与长期守护学院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:3",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "与洛瑟菈达成校长合作，说明巨型日灵根系、董事会分工与长期守护学院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:3",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "与洛瑟菈达成校长合作，说明巨型日灵根系、董事会分工与长期守护学院。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:3",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "与洛瑟菈达成校长合作，说明巨型日灵根系、董事会分工与长期守护学院。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:4",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "N.A.N.A.受损报讯后去空间站追凶，外圈包围，监控追踪魏尔伦至资料室。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:4",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "N.A.N.A.受损报讯后去空间站追凶，外圈包围，监控追踪魏尔伦至资料室。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:4",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "N.A.N.A.受损报讯后去空间站追凶，外圈包围，监控追踪魏尔伦至资料室。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:4",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "N.A.N.A.受损报讯后去空间站追凶，外圈包围，监控追踪魏尔伦至资料室。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:5",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "识破会长顶替意图，查死亡外皮、两份奖励、庆典间谍与N.A.N.A.破绽，听监视依据。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:5",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "识破会长顶替意图，查死亡外皮、两份奖励、庆典间谍与N.A.N.A.破绽，听监视依据。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:5",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "识破会长顶替意图，查死亡外皮、两份奖励、庆典间谍与N.A.N.A.破绽，听监视依据。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:5",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "识破会长顶替意图，查死亡外皮、两份奖励、庆典间谍与N.A.N.A.破绽，听监视依据。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:6",
+      "version": "3.1",
+      "scenario": "未接取",
+      "input": "比对未楹字符与空白履历，讨论资金推进和追迹梦州，再谈失忆自责、冬日约定与相逢的甜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:6",
+      "version": "3.1",
+      "scenario": "旧分幕",
+      "input": "比对未楹字符与空白履历，讨论资金推进和追迹梦州，再谈失忆自责、冬日约定与相逢的甜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:6",
+      "version": "3.1",
+      "scenario": "正确分幕",
+      "input": "比对未楹字符与空白履历，讨论资金推进和追迹梦州，再谈失忆自责、冬日约定与相逢的甜。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "66:6",
+      "version": "3.1",
+      "scenario": "已暂停旧分幕",
+      "input": "比对未楹字符与空白履历，讨论资金推进和追迹梦州，再谈失忆自责、冬日约定与相逢的甜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    }
+  ]
+}

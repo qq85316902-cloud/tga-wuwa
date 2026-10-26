@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "scenarios": 69,
+  "syntax_scripts": 6,
+  "range": [
+    1,
+    45
+  ],
+  "quick_levels": [
+    1,
+    5,
+    10,
+    15,
+    20,
+    30,
+    40,
+    45
+  ],
+  "all_integer_levels_verified": true,
+  "previous_level_one_clamp_reproduced": true,
+  "level_change_no_longer_watched_by_spawn_reset": true,
+  "selected_level_preserved_by_solaris_watcher": true,
+  "origin_change_preserves_level": true,
+  "drifter_spawn_remains_cloud_valley": true,
+  "character_level_uses_actual_start_level": true,
+  "shared_dragon_earthsea_control_styles": true,
+  "other_world_level_behavior_unchanged": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "changed_regex": 4,
+  "only_nine_declared_edits": true,
+  "all_worldbook_entries_and_story_scripts_unchanged": true,
+  "all_existing_story_and_frontend_bug_fixes_preserved": true,
+  "all_three_map_literals_unchanged": true,
+  "png_crc_valid": true,
+  "png_image_unchanged": true,
+  "png_json_equal": true,
+  "content_sync_payload_unchanged": true,
+  "content_sync_cannot_replace_opening_ui": true,
+  "committed": false
+}

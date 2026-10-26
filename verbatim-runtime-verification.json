@@ -1,0 +1,71 @@
+{
+  "scenarios": 151,
+  "main_parts": 90,
+  "companion_tasks": 10,
+  "rendered_main_quote_rows": 29715,
+  "exact_user_prompt_reproduced": true,
+  "before_after": [
+    {
+      "state": "unset",
+      "before": {
+        "original_line_loaded": false,
+        "four_items_loaded": false,
+        "chars": 942
+      },
+      "after": {
+        "original_line_loaded": true,
+        "four_items_loaded": true,
+        "chars": 7654
+      }
+    },
+    {
+      "state": "01-万象新声·上篇",
+      "before": {
+        "original_line_loaded": false,
+        "four_items_loaded": false,
+        "chars": 10243
+      },
+      "after": {
+        "original_line_loaded": true,
+        "four_items_loaded": true,
+        "chars": 7654
+      }
+    },
+    {
+      "state": "02-万象新声·下篇",
+      "before": {
+        "original_line_loaded": false,
+        "four_items_loaded": false,
+        "chars": 6903
+      },
+      "after": {
+        "original_line_loaded": true,
+        "four_items_loaded": true,
+        "chars": 7654
+      }
+    },
+    {
+      "state": "03-嘤鸣初相召篇",
+      "before": {
+        "original_line_loaded": true,
+        "four_items_loaded": true,
+        "chars": 16688
+      },
+      "after": {
+        "original_line_loaded": true,
+        "four_items_loaded": true,
+        "chars": 7654
+      }
+    }
+  ],
+  "scene_lookup_does_not_write_progress": true,
+  "continuation_uses_recent_explicit_user_scene": true,
+  "departure_and_task_switch_release_scene": true,
+  "no_future_scene_loaded_by_lookup": true,
+  "missing_sources_stop_instead_of_fabrication": true,
+  "other_world_render_identical": true,
+  "other_normal_output_identical_except_stronger_rule": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false
+}

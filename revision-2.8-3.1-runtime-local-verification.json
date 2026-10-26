@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "version": "2026.10.26.11",
+  "changed_entries": [
+    739,
+    740
+  ],
+  "new_routes": 67,
+  "total_routes": 338,
+  "new_quote_rows_addressed": 4915,
+  "all_existing_quote_sequences_preserved": true,
+  "all_338_quote_checksums_verified": true,
+  "old_scene_routes_preserved_with_one_specificity_refinement": "35A:4 requires vault/Phoebe/letter/train to avoid Tiancha monitor-tracking collision",
+  "part_location_notes": 13,
+  "plot_place_names_added": 5,
+  "no_map_coordinates_or_new_distance_rules": true,
+  "all_other_card_entries_frontend_map_and_schema_identical": true,
+  "all_prior_original_evidence_rows_preserved": 36962,
+  "controller_scenarios": 1092,
+  "old_trip_regression_scenarios": 597,
+  "sync_mock_scenarios": 34,
+  "png_crc_valid": true,
+  "png_json_equal": true,
+  "png_image_unchanged": true,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.11",
+    "payload": "solaris-content-89a20a03d48e1dc6.json",
+    "sha256": "89a20a03d48e1dc65b4eae157ca6db0f8269c209696c93388d5992b85c2cc2f7",
+    "bytes": 6718420,
+    "entry_count": 333,
+    "published_at": "2026-10-26T03:31:15.805550+00:00"
+  },
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "committed": false,
+  "published": false
+}

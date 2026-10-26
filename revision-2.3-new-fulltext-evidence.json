@@ -1,0 +1,3921 @@
+{
+  "source_file": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt",
+  "source_rows": 435,
+  "evidence": [
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 1,
+      "text": "珂莱塔：漂泊者，没想到能在这里遇见你。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 2,
+      "text": "珂莱塔：不介意的话，能和我拼桌吗？玛格烈特小姐请我来试吃新款披萨，不过这分量，一个人恐怕……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 3,
+      "text": "街头乐师：你听说了吗？最近有教士在整理废弃的书库时，意外地发现了一份手抄本，里面写着一首诗，还有一份附带的乐谱。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 4,
+      "text": "街头乐师：内容已经泄露出来在街巷传开了，在尾页的落名……是「黄金之歌」。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 5,
+      "text": "街头乐师：有人说这是他们在朝圣船上留下的遗作，被人打捞起来后，误以为是弃物一直放在书库里。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 6,
+      "text": "街头诗人：嘘……你小声一点……他们是有罪之人，还是尽量避讳这个名字吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 7,
+      "text": "▶ 黄金之歌？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 8,
+      "text": "珂莱塔：在拉古那，这个名字的确不宜被人提起。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 9,
+      "text": "珂莱塔：简单来说，「黄金之歌」是拉古那过去久负盛名的诗社。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 10,
+      "text": "珂莱塔：三位成员曾是岁主的歌颂者，后来却因亵渎神明被修会流放。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 11,
+      "text": "珂莱塔：据说，诗社乘坐的朝圣船遭遇了一场大火，船上的人无一幸免，他们的遗作也因此丢失。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 12,
+      "text": "街头诗人：内容既然已经公开了，那首曲子听起来如何？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 13,
+      "text": "街头乐师：……这个的话，我想想啊……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 14,
+      "text": "街头乐师：诶！你听见了吗，就和这首曲子一模一样！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 15,
+      "text": "▶ 刚刚那是……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 41,
+      "line_in_block": 16,
+      "text": "？？？：我看……是「亡灵」附身到它们身上了吧，就和这篇文章中说的一样。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 1,
+      "text": "又是你。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 2,
+      "text": "克里斯托弗：好久不见了，我的朋友，刚刚你们也一直在旁听那桌客人的对话吧，关于「黄金之歌」的遗作……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 3,
+      "text": "珂莱塔：你说的「亡灵」是什么意思？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 4,
+      "text": "克里斯托弗：“他们不满修会的裁决，心怀怨恨地写下了此作，诅咒黎那汐塔，诅咒拉古那。”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 5,
+      "text": "克里斯托弗：“越是神明垂怜之人，便越能向神明举起反叛的利刃。唯有他们知道该如何令神明流血，教条崩塌。”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 6,
+      "text": "克里斯托弗：“他们因流放而死，在大火中，那份怨恨许久不愿散去，经由他们的乐曲和诗歌，化作了我们所见的怪物——「亡灵」。”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 7,
+      "text": "克里斯托弗：“这「亡灵」如同把他们带入地狱的火苗，不断蔓延，终将烧却整个拉古那。”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 8,
+      "text": "克里斯托弗：这是最近才发表在拉古那文艺期刊上的文章……有趣的看法，因怨恨而复仇，这样的角色真是令人难以拒绝啊。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 9,
+      "text": "克里斯托弗：或许刚才就是有人无意中演奏了那乐曲，引来了这篇文章所说的怪物。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 10,
+      "text": "克里斯托弗：不过这只是一种看法罢了。自那几位诗人身死后，已经过去了许多年，谁又知道真相究竟是什么呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 11,
+      "text": "克里斯托弗：要是真存在怨恨招致的鬼怪，那「亡灵」……餐厅这么多人，它又偏偏选中你，漂泊者，真是令人好奇……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 12,
+      "text": "克里斯托弗：对了，我刚好手抄下那篇遗作的内容，这份稿纸送给你们了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 13,
+      "text": "克里斯托弗：就当作那场狂欢的“谢礼”了。也许，你们之后用得上呢。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 42,
+      "line_in_block": 14,
+      "text": "克里斯托弗：再见了，我的朋友们，我该换个地方继续完成剧本了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 43,
+      "line_in_block": 1,
+      "text": "珂莱塔：“这「亡灵」如同把他们带入地狱的火苗，不断蔓延，终将烧却整个拉古那。”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 43,
+      "line_in_block": 2,
+      "text": "▶ 会有这样的事吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 43,
+      "line_in_block": 3,
+      "text": "珂莱塔：无法证实，也无法证伪。不过刚才，确实有来历不明的怪物出现，甚至企图攻击你。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 43,
+      "line_in_block": 4,
+      "text": "珂莱塔：既然如此，那我们就从源头入手好了……我认识的朋友中有一位鉴赏诗歌的好手，上一次你们也见过面了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 1,
+      "block": 43,
+      "line_in_block": 5,
+      "text": "珂莱塔：那个像“托帕石”的她，这个时间，一定还在拂风水畔附近。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 25,
+      "line_in_block": 1,
+      "text": "珂莱塔：在她的世界里，诗和音乐各占一半……嘘，你听……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 25,
+      "line_in_block": 2,
+      "text": "珂莱塔：只要循着歌声，就一定能找到她！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 1,
+      "text": "夏空：漂泊者，珂莱塔，是你们呀，好久不见了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 2,
+      "text": "珂莱塔：刚才这首曲子，我小时候也常常听你演奏，看样子你真的很喜欢它。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 3,
+      "text": "▶ 你们从小就认识了？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 4,
+      "text": "珂莱塔：嗯，小时候我路过夏空家，总会听见庭院内传来乐声，灵动、跳跃，充满着情绪变化……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 5,
+      "text": "夏空：我可还都记得呢！你旁边的两个护卫简直就像七丘二百多斤的大力士！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 6,
+      "text": "珂莱塔：就是在那时，我认识了夏空，他们家一直担任着唱诗班的指挥。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 7,
+      "text": "▶ 那夏空为什么成为了吟游诗人？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 8,
+      "text": "夏空：解释这个的话……我想想，就像故事中说的一样，家族经历兴衰是很常见的事情啦。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 9,
+      "text": "夏空：但无论是在唱诗班，还是在野外，音乐是不会变的，家族……就让它一直停留在过去吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 10,
+      "text": "夏空：不过看你们行色匆匆，我想两位可不只是路过的听众吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 11,
+      "text": "夏空：噢……原来，原来，原来你们在偷听一位用C3调高谈阔论的大叔！还有突然出现的“怪物”？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 12,
+      "text": "▶ 重点不是这个吧！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 13,
+      "text": "▶ C3调有多高？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 14,
+      "text": "夏空：很重要啊！所以，到底是什么样的乐曲能拥有创造出“怪物”的魔力？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 15,
+      "text": "夏空：让我想想，大概是……喂，漂泊者，听见了吗……这样高吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 16,
+      "text": "▶ 聊天果然不应该太大声。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 17,
+      "text": "夏空：对吧，你也这样认为，也许该建议玛格烈特小姐在公告牌加上一句“文明高歌，从你我做起！”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 18,
+      "text": "珂莱塔：餐厅文明建设的事情，还是后面再聊吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 19,
+      "text": "夏空：嘿嘿，所以，到底是什么样的乐曲能拥有创造出“怪物”的魔力？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 20,
+      "text": "夏空：「黄金之歌」……这可是个不该被提起的名字。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 21,
+      "text": "夏空：那几位成员是戴罪之人，与他们扯上关系，轻则流放远海，重则引来杀身之祸……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 22,
+      "text": "▶ 没关系。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 23,
+      "text": "▶ 隐海修会伤不了我分毫。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 24,
+      "text": "珂莱塔：放心，我们也不是第一次和修会交手了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 25,
+      "text": "夏空：那……好吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 26,
+      "text": "夏空：按你们刚刚所说，有人说这首诗是对黎那汐塔的诅咒，会毁灭拉古那城。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 27,
+      "text": "夏空：只要唱响它就会引来怪物，而漂泊者和珂莱塔险些遭遇了那怪物的袭击。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 28,
+      "text": "夏空：不过要我说，都是一派胡言，我可不觉得这样一首简单的诗就能成为对黎那汐塔的诅咒。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 29,
+      "text": "珂莱塔：那你……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 30,
+      "text": "夏空：这场藏匿在诗与音乐下的对决，就让我也参与进来吧。我可拒绝不了这样的诱惑！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 31,
+      "text": "夏空：我可以帮你们找到这乐曲和「亡灵」之间的关系，不过作为交换，直到事情结束之前，你都得把这个东西交给我来保管。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 32,
+      "text": "▶ 几张纸而已。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 33,
+      "text": "▶ 没问题。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 34,
+      "text": "夏空：那就一言为定了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 35,
+      "text": "夏空：既然你们觉得是音乐招来的怪物，要不要亲眼验证一下？谱子我刚刚已经背熟了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 36,
+      "text": "珂莱塔：……虽然有一定风险，但没有比这更可靠、更直接的办法了，漂泊者你觉得呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 37,
+      "text": "▶ 眼见为实。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 38,
+      "text": "▶ 我已经有经验了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 39,
+      "text": "▶ 放心，我很能打。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 40,
+      "text": "夏空：那流放远海，身死他乡的诗人们的作品……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 26,
+      "line_in_block": 41,
+      "text": "夏空：那诞生于烈焰中的诗篇，究竟唱了些什么呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 1,
+      "text": "小心！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 2,
+      "text": "？？？：他们在大火中绝望，在大火中怨恨，他们不满修会的审判，遗作里的文字和音乐全是对我们的诅咒。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 3,
+      "text": "？？？：“烈火将淬炼出拉古那的真金，吾等便是万千柴薪之一。”这不是要烧光拉古那？？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 4,
+      "text": "？？？：他们要让怨声传遍街巷……光是看见这些文字，我就像看见他们在大火中恐怖的面容了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 5,
+      "text": "夏空：这些声音……是拉古那的人们吧？好像还有那位用C3调聊天的大叔？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 6,
+      "text": "珂莱塔：如果诗人们的怨恨招致亡灵降生，那它们应当发出诗人的声音才对吧？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 7,
+      "text": "珂莱塔：但这些人，只是读者和听众而已……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 8,
+      "text": "夏空：或许这些声音就是亡灵存在的真正原因。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 9,
+      "text": "夏空：传说故事里的「亡灵」都是由于死亡、受诅咒才会诞生。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 10,
+      "text": "夏空：但我们见到的东西并非如此，它是在人们言语、想象中诞生的怪物。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 11,
+      "text": "夏空：当然这只是我的猜想，刚刚那些声音有些混乱，我重新调节了音符，这次，我们需要听得再仔细一些。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 27,
+      "line_in_block": 12,
+      "text": "夏空：让我们看看真正的故事究竟是什么……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 31,
+      "line_in_block": 1,
+      "text": "珂莱塔：它们……和餐厅里见到的一样……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 1,
+      "text": "夏空：音乐和诗歌诞生自人们的善良和希望，却被人利用催生了这样的怪物……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 2,
+      "text": "夏空：无论幕后人到底是谁，我想他都不会坐以待毙。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 3,
+      "text": "夏空：……一想到有这样的对决，我已经忍不住要马上开始撰写新的歌谣了！该取什么名，该用哪种乐器呢……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 4,
+      "text": "珂莱塔：敌人在暗，我们在明，这样的话……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 5,
+      "text": "珂莱塔：我们分头行动吧，我相信夏空的鉴赏力和漂泊者的行动力，你们一定能找出真相。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 6,
+      "text": "▶ 欧泊呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 7,
+      "text": "珂莱塔：有人从幕后向“猫眼石”伸出了枪口，也必须要有人将这帷幕揭开才行。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 8,
+      "text": "珂莱塔：家族有些门路，根据文章来源追查幕后之人的线索，并不困难。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 9,
+      "text": "▶ 那我们的第一站是？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 10,
+      "text": "▶ 我们该从哪里调查？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 11,
+      "text": "夏空：如果能找到与诗社相关的旋律，我就能重现过去更多的信息……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 12,
+      "text": "夏空：有了，漂泊者，我知道有一个地方，那里一定能找到他们留下的旋律。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 28,
+      "line_in_block": 13,
+      "text": "夏空：我们走吧，向新的旋律出发！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 2,
+      "block": 44,
+      "line_in_block": 1,
+      "text": "夏空：我很喜欢风，它没有足迹却能去往任何地方，如果风愿意的话，我想把诗篇赠与它，让它去送给每一个人。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 1,
+      "text": "这里是？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 2,
+      "text": "夏空：铛铛！欢迎来到乐器的“安魂乐园”！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 3,
+      "text": "夏空：在拉古那，当乐器的寿命到达极限，诗人们便会将它们埋葬在这里。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 4,
+      "text": "夏空：对拉古那人来说，大海有着非凡的意义。我们靠海为生，伴海而眠，死后的灵魂最终会流入大海。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 5,
+      "text": "夏空：既然乐器也是诗人生命的一部分，那就把它埋在海边，让它做一个漫长的梦，最终回归大海。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 6,
+      "text": "夏空：「黄金之歌」的诗人们在被流放之前，我想他们一定把自己的乐器安葬在了这里。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 7,
+      "text": "夏空：怎么了，看上去你似乎有些疑虑？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 8,
+      "text": "▶ 关于真相，你有头绪吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 9,
+      "text": "夏空：原来你一直在思考这个，找不到答案时就先放下心来吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 10,
+      "text": "夏空：其实……我也没有头绪，别担心，创作诗歌时我也遇到过这种情况——诗人的“瓶颈期”。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 11,
+      "text": "夏空：我以前为写一棵树，咬着笔头盯了它三天三夜，最后也没写出一个字来。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 12,
+      "text": "夏空：于是我便站在树下，心里祈祷着“苹果，苹果，快砸我！”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 13,
+      "text": "夏空：故事里被苹果砸中的人不总会获得一些奇思妙想和幸运嘛，再不济……咬一口也能尝到免费可口的美食。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 14,
+      "text": "▶ 所以苹果砸中你了吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 15,
+      "text": "▶ 所以最后的奇思妙想是？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 16,
+      "text": "夏空：可惜，那棵树的苹果还没有成熟，我遗憾错过了这免费可口的美食。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 17,
+      "text": "夏空：那棵树的苹果还没有成熟，于是我苦思冥想直到最后一天，也没能被砸中。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 18,
+      "text": "夏空：尝尝！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 19,
+      "text": "漂泊者：竟然是真的苹果……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 20,
+      "text": "夏空：后来我打算离开时，我抬起头，透过树的缝隙，忽然看到一朵花盛开在悬崖峭壁之上。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 21,
+      "text": "夏空：原来即使没有苹果，有时奇思妙想也会将你砸中，但不主动站在树下，我也许永远无法知道这角落里的天地。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 22,
+      "text": "夏空：所以……像现在这样就好，沿着海岸一直向前走，不要带着沉重的思考，放下心来……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 23,
+      "text": "漂泊者：……我开始理解珂莱塔为什么称呼你为“托帕石”了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 24,
+      "text": "夏空：是吗？但我远远没有太阳那般耀眼，比起太阳，我更想做故事里的伊卡洛斯。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 25,
+      "text": "夏空：自由地翱翔于高天，即便要面临……坠落的命运。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 3,
+      "block": 32,
+      "line_in_block": 26,
+      "text": "夏空：在这附近……我感知到了一些乐器的旋律，我们找找看吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 1,
+      "text": "夏空：嗯，音色也很像……我想这把琉特琴就是我们寻找的遗物。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 2,
+      "text": "夏空：有时候虽然乐器相同，但演奏者持有不同的心境，乐器发出的声音会完全不同。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 3,
+      "text": "夏空：就像这把琉特琴，无意于表达和炫技，更像是某个午后坐在你桌旁的过路旅者，向你娓娓道来一段故事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 4,
+      "text": "夏空：表达出平时无法用言语传达的情感，这也是音乐的意义吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 5,
+      "text": "▶ 的确很有诗人的风格。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 6,
+      "text": "夏空：漂泊者，如果以后有什么想说却开不了口的话，说不定你唱唱歌，我就能听懂哦。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 7,
+      "text": "漂泊者：可我还没有好好听你唱过呢。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 8,
+      "text": "夏空：我吗？下一次吧，等到事情解决之后，我好好给你演奏一次，到时你可要仔细听哦。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 33,
+      "line_in_block": 9,
+      "text": "夏空：接下来就要看它的了，希望这段旋律能给我们带来一段意义非凡的故事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 34,
+      "line_in_block": 1,
+      "text": "夏空：看来这把琉特琴很有可能就是诗社成员的遗物。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 34,
+      "line_in_block": 2,
+      "text": "夏空：也就是说，它承载着诗人们留下的旋律……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 54,
+      "line_in_block": 1,
+      "text": "夏空：琉特琴吗……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 54,
+      "line_in_block": 2,
+      "text": "夏空：不过这把琴的回音有些薄弱，也许是被遗弃的时间相比前两者更长，感知要花上一段时间。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 54,
+      "line_in_block": 3,
+      "text": "夏空：哦？虽然声音薄弱，但掩盖不住其中的倔强和力量……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 54,
+      "line_in_block": 4,
+      "text": "夏空：漂泊者，小心身后！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 35,
+      "line_in_block": 1,
+      "text": "夏空：♪~",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 50,
+      "line_in_block": 1,
+      "text": "夏空：让我们接着看看这段旋律究竟承载着怎样的故事？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 1,
+      "text": "夏空：喂！漂泊者，漂泊者，你还好吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 2,
+      "text": "▶ 唔……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 3,
+      "text": "夏空：总算把你拉回来了，你肯定误触了其他旋律，我们在从旋律世界回来的路上走散了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 4,
+      "text": "▶ （将房间的事告诉给夏空。）",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 5,
+      "text": "▶ （将房间的事保密。）",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 6,
+      "text": "漂泊者：我刚才无意闯进一间书房，遇见了一个奇怪的小女孩，她似乎很喜欢诗社的作品。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 7,
+      "text": "漂泊者：她还说起了一个名字——夏空·托卡塔。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 8,
+      "text": "夏空：啊，哦，这样啊……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 9,
+      "text": "夏空：虽然不知道你遇到的是谁，但没错，托卡塔的确是我的姓氏。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 10,
+      "text": "夏空：我说过……家族的事，就让它停留在过去吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 11,
+      "text": "夏空：叫我夏空就好！没必要那么复杂啦。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 12,
+      "text": "漂泊者：没什么特别的地方。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 13,
+      "text": "夏空：嗯，这样的话，我们也算是有了些进展，刚刚的旋律也给了我们下一步提示。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 14,
+      "text": "▶ 是修会吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 4,
+      "block": 53,
+      "line_in_block": 15,
+      "text": "夏空：嗯……在流放事件中，与「黄金之歌」密切相关的人就是他们，水星天大教堂或许会有线索。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 1,
+      "text": "唱诗班·麦伦：找到了吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 2,
+      "text": "唱诗班·帕特：没有……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 3,
+      "text": "唱诗班·希亚：我这边也没有……{Male=大哥哥和大姐姐;Female=两位大姐姐}，你们好！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 4,
+      "text": "唱诗班·希亚：请问，你们看见过和我们穿一样衣服的人吗？而且，她总喜欢垂着头走路……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 5,
+      "text": "唱诗班·帕特：不对不对，莱莎才不喜欢垂着头走路，她一定遇上了什么烦心事了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 6,
+      "text": "▶ 你们在这里是干嘛？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 7,
+      "text": "▶ 你们的打扮很好看噢。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 8,
+      "text": "唱诗班·麦伦：我们是修会的唱诗班，正在为典礼上要献唱的赞歌排练。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 9,
+      "text": "唱诗班·麦伦：谢谢{Male=大哥哥;Female=大姐姐}的夸奖，这是唱诗班的服装，我们在为典礼上要献唱的赞歌排练。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 10,
+      "text": "唱诗班·麦伦：莱莎是我们的领唱，今天排练休息的时候，她说要和我们玩捉迷藏，但倒计时完后，我们就再也找不到她了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 11,
+      "text": "唱诗班·帕特：是不是我们唱得不好，惹她生气了，总觉得自从排练开始，莱莎就很少对我们笑了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 12,
+      "text": "夏空：能不能告诉姐姐，你们要唱的赞歌是什么呀？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 13,
+      "text": "唱诗班·希亚：大人们说这首赞歌是写给骑士和岁主大人，来纪念骑士的英勇和岁主的指引。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 14,
+      "text": "唱诗班·希亚：但，但莱莎说这首歌是一群罪人写出来的。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 15,
+      "text": "你和夏空明白了，也许他们口中的罪人就是「黄金之歌」的成员。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 16,
+      "text": "夏空：那……莱莎是往哪边离开的，我们可以帮你们找到她。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 2,
+      "line_in_block": 17,
+      "text": "唱诗班·麦伦：真的吗！就在那边！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 1,
+      "text": "夏空：如此动听的声音，不是吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 2,
+      "text": "唱诗班·莱莎：你们是……「桂冠」大人，还有？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 3,
+      "text": "夏空：我叫夏空，是——",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 4,
+      "text": "漂泊者：是我的朋友。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 5,
+      "text": "夏空：不用紧张，我们来，只是替那群孩子赢下了捉迷藏比赛。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 6,
+      "text": "唱诗班·莱莎：捉迷藏比赛……对，麦伦他们还在等我，抱歉，给你们添麻烦了……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 7,
+      "text": "夏空：可以稍微聊聊吗，总感觉你有些心事？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 8,
+      "text": "唱诗班·莱莎：怎、怎么会，离典礼的日子越来越近了，唱诗班还有许多地方需要反复地排练，我、我没事……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 9,
+      "text": "夏空：哎，现在的小孩子真厉害啊…………要是有机会的话，我也想学学怎么唱赞歌。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 10,
+      "text": "夏空：哎，对了，「桂冠」大人肯定会唱赞歌的吧！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 11,
+      "text": "▶ 当然！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 12,
+      "text": "▶ 有什么难点尽管说就是了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 13,
+      "text": "唱诗班·莱莎：其、其实，唱诗班在登台前每天都要面对重复的音乐、重复的歌词、重复的排练。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 14,
+      "text": "唱诗班·莱莎：更何况，要排练的赞歌是那些坏人留下来的，大人们把他们叫做“异端诗人”……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 15,
+      "text": "唱诗班·莱莎：麦伦他们从来没有一句怨言，因为他们一直等待着登台表演，想要传达岁主的赞美。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 16,
+      "text": "唱诗班·莱莎：而我现在，却要毁了他们的梦。合唱时，麦伦、希亚、帕特的声音总能自然地合上节奏，而我总是跟不上。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 17,
+      "text": "唱诗班·莱莎：我不喜欢这首赞歌，麦伦他们还小，并不明白亵渎神明有多严重，但我知道……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 18,
+      "text": "唱诗班·莱莎：我不明白为什么修会要重新吟唱起这些罪人留下的东西。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 19,
+      "text": "唱诗班·莱莎：我发现自己的节奏变得越来越乱，到后面……我甚至开不了口。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 20,
+      "text": "▶ 可刚刚的歌声明明很好听啊。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 21,
+      "text": "唱诗班·莱莎：刚刚的歌声？有，有吗……我自己都已忘记了那应该是什么样的声音。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 22,
+      "text": "夏空：那……赞歌在你眼中究竟是什么样子？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 23,
+      "text": "唱诗班·莱莎：赞歌……和书上说的一样，是对岁主的歌颂，歌颂祂带领流离失所的人们来到了如今的丰饶之地……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 24,
+      "text": "夏空：不，并不是这个，我是想问你自己的感受……想想你刚刚在角落里独自吟唱时的心情。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 25,
+      "text": "唱诗班·莱莎：那个时候……我不想拖大家后腿，我想帮助大家一同完成典礼的表演。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 26,
+      "text": "夏空：那记住这个心情，我们再排练一次吧！你们的排练应该没有过观众吧！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 27,
+      "text": "唱诗班·莱莎：诶？没，没有……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 7,
+      "line_in_block": 28,
+      "text": "夏空：那就让我和漂泊者一起当你们的第一批观众吧！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 1,
+      "text": "夏空：你看，如此动听的声音，不是吗？桂冠大人都沉醉其中了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 2,
+      "text": "唱诗班·希亚：莱莎好棒！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 3,
+      "text": "唱诗班·莱莎：……谢谢你们，我想我明白了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 4,
+      "text": "唱诗班·莱莎：对于岁主的祈愿和赞颂，只要内心真挚，就足够了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 5,
+      "text": "夏空：嗯，赞歌不是历史里的寥寥几笔，而是你个人的感受和体验。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 6,
+      "text": "夏空：每个人眼中的赞歌内容可能有些差别，但这份共鸣和理解是相通的。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 7,
+      "text": "夏空：希望你们也能在典礼为大家献上精彩的表演。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 5,
+      "block": 8,
+      "line_in_block": 8,
+      "text": "莱莎带着唱诗班的孩子继续开始排练，夏空向你询问起旋律的故事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 1,
+      "text": "夏空：怎么样，透过刚刚的旋律……你看见了什么？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 2,
+      "text": "▶ 赞歌的来历。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 3,
+      "text": "漂泊者：原来，诗社也曾创作出傲慢的作品，但在某次典礼上，有个愤恨的听众闯入。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 4,
+      "text": "漂泊者：遭到质问的诗社成员似乎决定前往骑士驻扎的营地，亲眼见证真相，地点就在拂风水畔。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 5,
+      "text": "夏空：这次事件很可能是他们改变的契机。还有其他线索吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 6,
+      "text": "▶ （保持沉默。）",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 7,
+      "text": "▶ 我又误触了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 8,
+      "text": "夏空：那，下一次我们再进入旋律世界时，干脆将手绑在一起好了，这样的话，你就不会再迷路了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "89",
+      "event": 6,
+      "block": 9,
+      "line_in_block": 9,
+      "text": "夏空：既然唱诗班的记录指向了拂风水畔，或许在那儿我们能找到线索，我们走吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 10,
+      "line_in_block": 1,
+      "text": "夏空：我旅行时也曾听过骑士的故事，据说这里就是他们曾驻扎营地的地方。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 10,
+      "line_in_block": 2,
+      "text": "夏空：不过这里既没有乐器，也没有诗和乐曲，就连承载旋律的东西都很难找到，我们先在附近找找看吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 13,
+      "line_in_block": 1,
+      "text": "夏空：“篝火诗人”应该指的就是诗社成员，这上面写着他们曾到过的一些采风地。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 13,
+      "line_in_block": 2,
+      "text": "夏空：既然想要找到旋律，那我们也试着体验一下他们的采风路线吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 13,
+      "line_in_block": 3,
+      "text": "夏空：说不定我们能发现一些关于旋律的灵感。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 1,
+      "text": "夏空：这里就是最后一个采风地了，刚刚在天空下翱翔的视角好美！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 2,
+      "text": "夏空：怎么样，你有发现什么灵感吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 3,
+      "text": "▶ 是风吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 4,
+      "text": "夏空：是啊，我们刚才都忽略了一件事，流动的风就是旋律最好的记录者。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 5,
+      "text": "夏空：它从原始中而来，奔向无休止的未来，一直回响在我们的耳边，我相信诗社过去留下的旋律会被风记录，也会被风送来。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 6,
+      "text": "▶ 你这是在？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 7,
+      "text": "夏空：当然是演奏了，我想模仿着他们的心境演奏……我想知道他们过去究竟在这里留下了什么？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 8,
+      "text": "夏空随心演奏着乐曲，你触摸着风，感受到了诗社过去的旋律……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 9,
+      "text": "法奥：兰波和塞雷塔应该已经回到拉古那城了，这块记录了岁主真容的石板画，应该就藏在这里吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 10,
+      "text": "法奥：那位绅士是故意指引我们的吗？他究竟是谁……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 11,
+      "text": "法奥：他称自己也是为寻求灵感在外旅行的普通创作者，他的背包里装满了稿纸。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 12,
+      "text": "法奥：但他的谈吐又和贵族十分相像…………现在想不了那么多。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 13,
+      "text": "法奥：如果没有他的帮助，我们可能还被隐海修会蒙骗着，赞颂虚伪的岁主！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 14,
+      "text": "法奥：他说得没错，我们不能继续再为修会而歌唱了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 15,
+      "text": "法奥：现在需要启迪，需要知道真相的是拉古那的人民。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 14,
+      "line_in_block": 16,
+      "text": "法奥：修会骑士只会捍卫修会的利益，我们……也是时候成为拉古那人民的骑士了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 16,
+      "line_in_block": 1,
+      "text": "夏空：看来，有人告诉了诗人们有关岁主的真相，还建议他们不再只歌颂神明，更要为台下的芸芸众生歌唱。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 16,
+      "line_in_block": 2,
+      "text": "夏空：表面上看，这个“神秘人”所说的一切没有任何问题，他甚至还知道英白拉多真容的事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 16,
+      "line_in_block": 3,
+      "text": "夏空：而藏在这里的石板画，证明了这些诗人并没有说谎……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 1,
+      "text": "夏空：漂泊者，这和你在「阿维纽林」见到的岁主一样吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 2,
+      "text": "石板上镌刻着高扬的骏马，与你之前见到的岁主并无二致。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 3,
+      "text": "▶ 没错。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 4,
+      "text": "夏空：看来，他们的确是因为接触到了修会的把柄而被流放。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 5,
+      "text": "夏空：在审讯室中，他们平静如水。他们被那位神秘人指引后，知晓了岁主的真相，又决定成为“拉古那人民的骑士”。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 6,
+      "text": "夏空：怨恨和诅咒不会是他们唱响的诗篇，但关于幕后人的身份，现在还没有直接的线索能将修会与他联系起来。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 7,
+      "text": "夏空：我们确实要击败幕后人的谎言，解决亡灵事件……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 8,
+      "text": "夏空：最重要的是，一旦牵涉到「黄金之歌」的真相，牵涉到岁主英白拉多，这就已经不是一个单纯的有关「亡灵」的问题了……但，现在是时候吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 9,
+      "text": "漂泊者：人民的力量是很强大的，幕后人笃定了岁主的谎言不会被人发现，也不会被轻易信服。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 10,
+      "text": "漂泊者：但真相存在的意义就是等待着有人去揭晓，我们只要把怀疑的种子种在人群里，等待它生根发芽。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 11,
+      "text": "夏空：嗯……走吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 1,
+      "block": 15,
+      "line_in_block": 12,
+      "text": "夏空：我们回玛格烈特餐厅去，这个故事始于那里……也必须终于那里。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 1,
+      "text": "夏空：一位穷得叮当响的流浪诗人，和一位漂泊异乡的「桂冠」单枪匹马，对抗整个隐海修会……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 2,
+      "text": "夏空：然而只要将怀疑的火种播种传递下去，拉古那的薪柴，终究会燃起火焰，淬炼真金。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 3,
+      "text": "夏空：嗯，这绝对是一个足够有趣的故事！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 4,
+      "text": "▶ 简直是骑士小说！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 5,
+      "text": "夏空：啊！说起这个……你有没有看过一本小说？它讲述了一位游走天下、行侠仗义的骑士去挑战巨人的故事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 6,
+      "text": "夏空：那骑士正好也有一位侍从，他们不断地向着那不可战胜的巨人发起冲锋！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 7,
+      "text": "夏空：我虽不是富甲四方的莫塔里，不是隐海修会的教士，不是拉古那的骑士……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 3,
+      "block": 51,
+      "line_in_block": 8,
+      "text": "夏空：但我仍然要发起冲锋！哟吼！骑士大人！上马！冲锋！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 1,
+      "text": "夏空：尘封许久的乐曲如今再次奏响，就让我为各位讲述那过去的篇章……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 2,
+      "text": "夏空：今天我要讲的，正是那亵渎神明之人的故事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 3,
+      "text": "夏空：他们是诗人，曾为神明和修会放声歌唱，他们的乐曲也因此家喻户晓。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 4,
+      "text": "夏空：直到有一天，他们无意间发现了无法证明的“真相”——",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 5,
+      "text": "夏空：原来，我们始终敬仰的岁主，并非是大众熟知的模样。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 6,
+      "text": "夏空：真正庇佑我们的神明，是那庄严俊美的天马，祂驰骋大海，翱翔于天际之上。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 7,
+      "text": "夏空：而那写在典籍中对我们的教诲，不过是修会的一个谎言。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 8,
+      "text": "夏空：各位是否想过，曾为黎那汐塔降下天外之音的英白拉多，怎会允许自己的子民在朝圣船上受尽苦难？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 9,
+      "text": "夏空：而曾经歌颂岁主，深爱着黎那汐塔的诗人，又怎会诅咒怨恨自己热爱的这片土地？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 10,
+      "text": "夏空：各位！各位！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 11,
+      "text": "夏空：请各位想一想，为什么修会一直不允许我们查阅修会最原始的经典？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 12,
+      "text": "夏空：为什么登上朝圣船的流放之人从未感谢过岁主！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 13,
+      "text": "▶ 教士也开始行动了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 14,
+      "text": "夏空：为何最近一段时间里，那曾经联结着拉古那的英白拉多，不再出现在我们的梦里了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 15,
+      "text": "教士：夏空·托卡塔，以英白拉多和芬莱克主座的名义，你将被押入忏悔院，受到律法的制裁。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 16,
+      "text": "夏空：是吗？那请问，这一次是什么罪名？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 17,
+      "text": "教士：亵渎神明！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 18,
+      "text": "夏空：哦？还是和以前一样的把戏，你们是打算继续把真相隐瞒下去吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 19,
+      "text": "教士：哼，你这些虚妄之言就留着向岁主忏悔吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 20,
+      "text": "教士：该死，还有同伙！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 21,
+      "text": "夏空：再见了，教士大人，顺便多提一句，我觉得你最好还是把目光放在舞台下吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 22,
+      "text": "夏空：看看你眼中的“虚妄之言”究竟能否撕开修会虚伪面纱的一角……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 46,
+      "line_in_block": 23,
+      "text": "夏空：我相信，「黄金之歌」的乐章终有一天会在拉古那再次奏响！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 1,
+      "text": "夏空：哈……哈……呼……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 2,
+      "text": "夏空：戴着面具的英雄突然登场，救下即将被修会抓住的歌者。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 3,
+      "text": "夏空：这可就是另一个故事了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 4,
+      "text": "夏空：你知道，这样对你也会有影响的。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 5,
+      "text": "夏空：就算是戴着面具，还是能有人认出来「桂冠」的。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 6,
+      "text": "▶ 我说过，我会站在你这边。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 7,
+      "text": "夏空：我现在可是被修会通缉的有罪之人了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 8,
+      "text": "▶ 那我们……也许算共犯？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 9,
+      "text": "夏空：哈哈哈……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 10,
+      "text": "夏空：这才像一个真正的诗人！不，不对，一个真正的骑士！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 4,
+      "block": 48,
+      "line_in_block": 11,
+      "text": "夏空：那么……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 1,
+      "text": "夏空：感受到了吗？水畔吹过来的风，鼻子偶尔还能闻到潮湿的草地味道。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 2,
+      "text": "夏空：说不定，下一秒就会有一颗苹果掉在我们头上，又说不定，蹦出来一头大灰狼，追着小松鼠跳进兔子洞……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 3,
+      "text": "夏空：谢谢你，漂泊者。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 4,
+      "text": "夏空：我没有圣女那样的奇迹，也没有英雄那样的伟力，我只是一个流浪诗人而已。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 5,
+      "text": "夏空：我唯一能做的，就是记住这一刻，我会记住与你有关的一切故事……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 6,
+      "text": "夏空：对了，我在餐厅遇见了一位自称街巷剧作家的男人，你一定要小心他！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 7,
+      "text": "▶ 剧作家？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 8,
+      "text": "▶ 我也遇到过一位剧作家……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 9,
+      "text": "夏空：虽然我不清楚他的身份……这只是我的猜测，我觉得他或许就是这次与修会合作的共鸣者。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 10,
+      "text": "▶ 我记下了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 11,
+      "text": "夏空：这本乐谱，就送给你了！我可要赶紧去履行新的使命了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 12,
+      "text": "▶ 什么使命？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 13,
+      "text": "夏空：逃亡呀！在流浪诗人的身份之外，现在的我还要躲避修会的追查，这样的旅程和使命，应该很值得被写进故事里。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 14,
+      "text": "▶ 那我——",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 15,
+      "text": "夏空：别怕！我可是还记得我们的约定呢。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 16,
+      "text": "夏空：关于为你而写的那首歌……我一定会再找到你，也一定会再唱给你听的！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 47,
+      "line_in_block": 17,
+      "text": "夏空：毕竟，我们现在可是共犯了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 1,
+      "text": "克里斯托弗：主座大人，看来您的布局，并不如您所愿啊。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 2,
+      "text": "克里斯托弗：您想起那犯下渎神罪过的诗社，故意传播他们的遗作，加深大家对他们的偏见，借我之手，在拉古那城中引出所谓的「亡灵」，制造恐慌……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 3,
+      "text": "芬莱克：我并不关心善与恶，我只关心拉古那的治与乱。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 4,
+      "text": "芬莱克：恐慌……也是让拉古那维持稳定的一种手段。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 5,
+      "text": "克里斯托弗：哦！真不愧是手握大权之人的发言！这样的台词，在戏剧中可并不多见。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 6,
+      "text": "克里斯托弗：不过，您为什么这么急躁呢？芬莱克大人，这可一点也不像是您的性格。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 7,
+      "text": "克里斯托弗：是因为那异乡的「桂冠」让您不安？还是那不起眼的「托卡塔」让您厌烦？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 8,
+      "text": "克里斯托弗：还是说……您另有所图？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 9,
+      "text": "芬莱克：我们只是合作关系，有些事，你还是不要知道为好。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 10,
+      "text": "克里斯托弗：当然，一切都随您的便，芬莱克大人。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 11,
+      "text": "芬莱克：等等……当年引导诗社发现石板画的绅士是不是你。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 12,
+      "text": "芬莱克：有人说那段时间你也出现在拂风水畔附近，每当有人问起，你的说辞都是在寻求灵感。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 13,
+      "text": "芬莱克：为什么要这样做？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 14,
+      "text": "克里斯托弗：哈哈，就如您所说，我们只是合作关系，有些事，您……还是不要知道为好。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 15,
+      "text": "克里斯托弗：而且我并没有欺骗您啊，我的确是在寻求灵感，最后……我找到了一个关于笼中之鸟的故事。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 16,
+      "text": "克里斯托弗：知晓真相的鸟儿，究竟是选择陌生的飞翔，还是继续待在熟悉的笼中。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 17,
+      "text": "克里斯托弗：对了，芬莱克大人，我得提醒你一句……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 18,
+      "text": "克里斯托弗：就如那「托卡塔」说的，您有多久没有梦到，您真正的“神明”了呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 19,
+      "text": "克里斯托弗：“那骑士拿着木头长枪，戴着破了洞的头盔，朝着风车冲去……”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 20,
+      "text": "克里斯托弗：“那侍从也跟着他，好像成了他似的。因此他们二人都像是真正的骑士，向着风车，一遍又一遍，遍体鳞伤地冲锋。”",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 5,
+      "block": 49,
+      "line_in_block": 21,
+      "text": "克里斯托弗：真是有趣啊……这样的剧本，就算真的被你拿去，又能如何呢，“赫卡忒”？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 1,
+      "text": "夏空：玛格烈特小姐！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 2,
+      "text": "玛格烈特：你们好啊，是漂泊者和夏空啾！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 3,
+      "text": "▶ 你们也是老相识？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 4,
+      "text": "玛格烈特：夏空小姐是餐厅的熟客了啾，之前我还邀请过她担任驻唱乐师，为餐厅招揽客人。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 5,
+      "text": "夏空：今天来，我们是有事想要让你帮忙，你应该知道最近热议的那则传闻。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 6,
+      "text": "夏空：关于诗社的遗作，我们有些事想要分享，你能想办法召集一下大家吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 7,
+      "text": "玛格烈特：没问题啾，你们是发现了什么东西吗？我也很好奇传闻的真相究竟是什么！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 8,
+      "text": "玛格烈特接受了你们的请求，替你们召集了不少人……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 9,
+      "text": "现如今你们正站在“舞台”上，大幕还未拉开。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 10,
+      "text": "夏空：漂泊者，准备好的话，我们就开始吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 17,
+      "line_in_block": 11,
+      "text": "▶ 开始吧，我相信你。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 1,
+      "text": "围观的听众：桂冠，你们刚刚说的是真的吗？什么真相，你们发现了什么？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 2,
+      "text": "围观的听众：「黄金之歌」的人究竟……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 3,
+      "text": "克里斯托弗：真是精彩的故事，大家的好奇心也被你们点燃了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 4,
+      "text": "克里斯托弗：你们刚刚在餐厅里的意思是……有人陷害了「黄金之歌」的诗人们，又有人有意将他们的作品曲解。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 5,
+      "text": "夏空：没错。应该是有人利用了「黄金之歌」的噱头和大家对他们的好奇心，催生了「亡灵」。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 6,
+      "text": "克里斯托弗：可我记得，隐海修会的官方记载中，那些诗人可是犯下了亵渎岁主的重罪。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 7,
+      "text": "克里斯托弗：二位该不会是在说，隐海修会陷害了他们吧？这……可也是流放的重罪吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 8,
+      "text": "夏空：你是某个贵族家的人吗，城里有些贵族，总是站在修会那边。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 9,
+      "text": "克里斯托弗：哈哈哈，我想你误会了……总会有人误把我当作贵族，其实我只是个走街串巷的剧作家。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 10,
+      "text": "克里斯托弗：听完你们的说法后，我总是会回想起年轻时创作的一个剧本。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 11,
+      "text": "克里斯托弗：一群笼中之鸟，自认不会飞翔，只能站立于木棍之上。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 12,
+      "text": "克里斯托弗：而某一天，鸟笼被人打开，雏鸟们挥动着孱弱的翅膀，试图飞翔，结果却落在了地上。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 13,
+      "text": "克里斯托弗：许多人都觉得它们的命运是可悲的，你觉得呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 14,
+      "text": "夏空：……我并不这样认为。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 15,
+      "text": "夏空：即便最后坠入深渊，但它仍然见识过真正的天空，用自己的翅膀飞翔过。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 16,
+      "text": "克里斯托弗：那如果，笼子里还有几只剩下的鸟，目睹了先行者的背影和坠落的结局……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 17,
+      "text": "克里斯托弗：在明白挥动翅膀的代价后，它们还会选择飞翔吗？所谓的“真相”，究竟是对它们的保护，还是伤害呢？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 6,
+      "block": 18,
+      "line_in_block": 18,
+      "text": "克里斯托弗：诗人小姐……我很期待，我很期待明天的到来。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 1,
+      "text": "珂莱塔：精彩的反击，刚刚你们在餐厅里的表现我都看见了！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 2,
+      "text": "珂莱塔：我和大家一样，很期待明天的到来。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 3,
+      "text": "▶ 你那边的进展如何？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 4,
+      "text": "珂莱塔：这件事果然与修会有关，据莫塔里家族在修会安插的内线所说……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 5,
+      "text": "珂莱塔：之前打捞遗作的不是别人，正是修会的教士，他们早就知道遗作的存在，故意藏在书库中。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 6,
+      "text": "珂莱塔：也许这从一开始就是他们的骗局。如今公布出来，是因为他们想利用这篇诗歌掩盖某些真相。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 7,
+      "text": "珂莱塔：而那篇查不到任何来源的文章，最早是从诗人、乐师、剧作家间传开的。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 8,
+      "text": "珂莱塔：我想，写下这篇文章的作者相当熟悉这些人群的秘密圈子，他或许就是我们猜测的那位共鸣者。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 9,
+      "text": "珂莱塔：他在和修会合作，所以修会才会任由这种传闻在街巷散播。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 10,
+      "text": "珂莱塔：我会派人顺着这个秘密圈子继续寻找线索。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 11,
+      "text": "▶ 辛苦你了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 12,
+      "text": "珂莱塔：我们也把现在的线索告诉夏空吧，她也是诗人，说不定有新的想法。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 13,
+      "text": "你们四处看了一下，却没有发现夏空的踪影。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 14,
+      "text": "漂泊者：奇怪，我记得她刚刚还在那边。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 15,
+      "text": "珂莱塔：……就像小时候一样，突然就消失了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 16,
+      "text": "珂莱塔：那时候的她也是如此，什么话都没有留下，连同家族一同消失了。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 17,
+      "text": "珂莱塔：玛格烈特小姐，请问你有见到夏空吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 18,
+      "text": "玛格烈特：夏空小姐……我记得她朝港口的方向走去了，我还以为你们约定好了要在那里见面，就没拦住她。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 19,
+      "text": "玛格烈特：她看上去很难过啾，平时我从来没有看她露出过那样的表情。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 20,
+      "text": "珂莱塔：谢谢你，玛格烈特小姐。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 7,
+      "block": 19,
+      "line_in_block": 21,
+      "text": "漂泊者：我们分头去港口各处找找吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 52,
+      "line_in_block": 1,
+      "text": "漂泊者：这声音……是上一次她演奏的音乐。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 52,
+      "line_in_block": 2,
+      "text": "漂泊者：明明是相同的曲子，但为什么这一次听起来如此忧伤。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 1,
+      "text": "此前，夏空走到港口时……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 2,
+      "text": "克里斯托弗：稚嫩的鸟走出了笼子，挥动着孱弱的翅膀坠入大地。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 3,
+      "text": "夏空：……那家伙的话，没想到唤起了我不想记起的声音。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 4,
+      "text": "克里斯托弗：你来到这里，不就代表你担心着明天会发生的事情。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 5,
+      "text": "克里斯托弗：你要告诉公众关于岁主的真相，但你知道代价是什么，你小时候不是已经见证过了？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 6,
+      "text": "夏空：这是过去的场景……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 7,
+      "text": "审讯教士：我还以为你们会做出更聪明的选择。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 8,
+      "text": "审讯教士：你们明知道流放之路的凶险，却还是做出了选择，说实话，我很好奇究竟是什么在支撑着你们。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 9,
+      "text": "克里斯托弗：真相是会伤害到人的，「黄金之歌」已经付出了代价，你也要重复他们的命运吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 10,
+      "text": "夏空：这就是你借用剧本想要告诉我的吗……但你根本不知道「黄金之歌」真正的回答。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 11,
+      "text": "法奥：教士大人，让我告诉你答案吧，你还记得那道最初的天外之音吗？黎那汐塔的人铭记着它，在此修建家园。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 12,
+      "text": "法奥：你又曾看过名为《金枝记》的戏剧，不同部族的人戴上面具狂欢歌颂，现在的你们把这叫做“狂欢节”。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 13,
+      "text": "审讯教士：所以，那又怎样？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 14,
+      "text": "法奥：是文字和音乐啊，你的对手不是我们，而是一种难以形容的……我把它称作“回响”。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 15,
+      "text": "法奥：它永远不会消逝，你们永远也无法打败它。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 16,
+      "text": "审讯教士：哼，疯子，那你就带着你相信的“回响”启程吧。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 17,
+      "text": "法奥：隐海修会将我们流放大海，是因为他们不能流放真相……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 18,
+      "text": "夏空：听见了吗？他们奏响的故事将由我继续传唱。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 19,
+      "text": "审讯教士（中年）：唉，像啊，真像啊，诗社那时登上朝圣船也像现在这样，夏空·托卡塔……渎神重罪。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 20,
+      "text": "审讯教士（中年）：哈哈哈，这就是他们说的共鸣吗？许多年后，又有一群人踏上和那些诗人相同的路。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 21,
+      "text": "审讯教士（中年）：为什么总是有人相信岁主会是一匹该死的马？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 22,
+      "text": "审讯教士（中年）：那些诗人还知道保持沉默，真没想到你还敢在大街小巷里到处宣传，简直比那些诗人还要蠢……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 23,
+      "text": "夏空（过去）：是吗？教士大人？真希望您每晚都能梦得到您口中那位“岁主”。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 24,
+      "text": "审讯教士（中年）：省省吧！你这油腔滑调卖艺的，你的家族就只剩下你自己了！你还不知悔改吗！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 25,
+      "text": "克里斯托弗：噢，原来你在过去已经重复了他们的命运，你和你的家族都被流放了，罪名是……亵渎神明！",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 26,
+      "text": "克里斯托弗：多么具有戏剧性！同为岁主的歌颂者，托卡塔家族和诗社犯下了相同的罪名，你们之间究竟有什么联系？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 27,
+      "text": "夏空：你不过是我脑袋里的臆想，这与你无关，这是我们应付的代价，我们没有任何怨言。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 28,
+      "text": "夏空：那时的我，还没有力量证明岁主的真相，现在颠倒的高塔发生异变，那位预言中的「桂冠」也已出现……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 29,
+      "text": "夏空：我想，这次有机会能够将真相——",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 30,
+      "text": "克里斯托弗：机会，的确……现在，又到了选择的时候。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 31,
+      "text": "克里斯托弗：这一次，你要带着漂泊者再次重复命运吗？登上朝圣船，在风暴中苟延残喘。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 32,
+      "text": "克里斯托弗：你担心的不正是这个画面吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 33,
+      "text": "克里斯托弗：你已经猜到了幕后人是谁，修会不允许真相的存在。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 34,
+      "text": "克里斯托弗：这件事也许会牵扯到漂泊者，珂莱塔，甚至你为寻找真相，一路上认识的所有人。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 35,
+      "text": "克里斯托弗：也许还有那位……如今不知身处何方的“圣女”。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 36,
+      "text": "克里斯托弗：即便这样，你也要带着漂泊者登上明天的舞台吗？",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 37,
+      "text": "克里斯托弗：你真的做好选择了吗？诗人小姐……我很期待，我很期待明天的到来。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 38,
+      "text": "漂泊者：这是夏空的乐谱？她来过这里。",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 39,
+      "text": "漂泊者：刚才的画面似乎就是从这个乐谱中演绎出来的……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 40,
+      "text": "漂泊者：夏空说过她将所有的旋律都记录在乐谱上，这上面会不会有……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 41,
+      "text": "▶ 等等，这一篇章的名字……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    },
+    {
+      "part": "90",
+      "event": 8,
+      "block": 45,
+      "line_in_block": 42,
+      "text": "漂泊者：《黄金之歌》……",
+      "book_entry": 740,
+      "source": "C:/Users/Administrator/Desktop/鸣潮-唯你的长夏永不凋落.txt"
+    }
+  ]
+}

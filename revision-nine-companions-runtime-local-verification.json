@@ -1,0 +1,87 @@
+{
+  "passed": true,
+  "version": "2026.10.26.18",
+  "changed_entries": [
+    739,
+    741,
+    742
+  ],
+  "tasks": {
+    "此际我独行": {
+      "events": 8,
+      "quote_rows": 781
+    },
+    "离火弈长生": {
+      "events": 8,
+      "quote_rows": 947
+    },
+    "自问丹青": {
+      "events": 8,
+      "quote_rows": 821
+    },
+    "小小羊咩大冒险": {
+      "events": 8,
+      "quote_rows": 674
+    },
+    "小径分岔的星海": {
+      "events": 8,
+      "quote_rows": 536
+    },
+    "如果在雨夜，一个家族": {
+      "events": 9,
+      "quote_rows": 859
+    },
+    "今夜星光灿烂": {
+      "events": 8,
+      "quote_rows": 433
+    },
+    "幽夜幻梦": {
+      "events": 9,
+      "quote_rows": 647
+    },
+    "夜行的焰光": {
+      "events": 9,
+      "quote_rows": 434
+    }
+  },
+  "new_companion_events": 75,
+  "verbatim_events": 74,
+  "source_quote_rows_retained": 6100,
+  "source_quote_rows_now": 6132,
+  "new_quote_groups": 9,
+  "new_quote_rows": 32,
+  "prior_user_source_evidence_rechecked": 6100,
+  "only_authored_boss_scene": 1,
+  "talos_both_stages_and_enemy_names_preserved": true,
+  "source_chapters_and_all_previous_indexes_unchanged": true,
+  "previous_main_routes": 464,
+  "previous_summer_routes": 14,
+  "previous_edge_routes": 18,
+  "main_groups": 34,
+  "main_parts": 91,
+  "companion_tasks": 11,
+  "task_scoped_place_descriptors": 40,
+  "no_map_coordinates_added_or_changed": true,
+  "prior_evidence_rows_retained": 37397,
+  "all_other_entries_frontend_map_and_saved_schema_identical": true,
+  "controller_scenarios": 812,
+  "prior_plot_scenarios": 1407,
+  "sync_mock_scenarios": 34,
+  "png_crc_valid": true,
+  "png_image_unchanged": true,
+  "png_json_equal": true,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.18",
+    "payload": "solaris-content-59632a1bd9f16a11.json",
+    "sha256": "59632a1bd9f16a11a40f55afab2091bcf3b1293355ac3dc4ca6b4c1f7afbaa19",
+    "bytes": 7160919,
+    "entry_count": 333,
+    "published_at": "2026-10-26T06:58:21.864641+00:00"
+  },
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "committed": false,
+  "published": false
+}

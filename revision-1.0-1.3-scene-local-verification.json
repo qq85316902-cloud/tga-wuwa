@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "version": "2026.10.26.6",
+  "changed_entries": [
+    739,
+    740
+  ],
+  "existing_source_text_unchanged": true,
+  "all_125_original_quote_sequences_and_checksums_verified": true,
+  "prior_evidence_rows_preserved": 36962,
+  "png_embedded_json_matches": true,
+  "png_image_and_other_chunks_unchanged": true,
+  "png_crc_valid": true,
+  "all_other_card_fields_and_entries_identical": true,
+  "normal_90_main_part_prompts_identical": true,
+  "other_world_and_10_companion_prompts_identical": true,
+  "controller_scenarios": 934,
+  "sync_mock_scenarios": 34,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.6",
+    "payload": "solaris-content-c7090759cb78233e.json",
+    "sha256": "c7090759cb78233e659466c55613739957603c032c3d1bc5dafc3fa4dc28dabd",
+    "bytes": 6501542,
+    "entry_count": 333,
+    "published_at": "2026-10-26T01:35:13.884192+00:00"
+  },
+  "published": false,
+  "committed": false,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false
+}

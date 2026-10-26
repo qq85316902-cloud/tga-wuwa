@@ -1,0 +1,1826 @@
+{
+  "passed": true,
+  "scenarios": 1216,
+  "versions": {
+    "3.2": {
+      "events": 16,
+      "quote_rows": 1674
+    },
+    "3.3": {
+      "events": 24,
+      "quote_rows": 2290
+    },
+    "3.4": {
+      "events": 6,
+      "quote_rows": 773
+    }
+  },
+  "new_main_routes": 46,
+  "all_main_routes": 384,
+  "independent_dream_routes": 18,
+  "main_original_quote_rows": 4737,
+  "dream_original_quote_rows": 1056,
+  "old_main_route_regressions": 338,
+  "natural_main_variants": 20,
+  "natural_dream_variants": 11,
+  "main_parts_checked": 93,
+  "companion_tasks_checked": 10,
+  "read_only": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "results": [
+    {
+      "id": "67:1",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:1",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:1",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:1",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:2",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:2",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:2",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:2",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:3",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:3",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:3",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:3",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:4",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:4",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:4",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:4",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:5",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:5",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:5",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:5",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:6",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:6",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:6",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:6",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:7",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:7",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:7",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:7",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:8",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:8",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:8",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "67:8",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:1",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:1",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:1",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:1",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:2",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:2",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:2",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:2",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:3",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:3",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:3",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:3",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:4",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:4",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:4",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:4",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:5",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:5",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:5",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "68:5",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:1",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:1",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:1",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:1",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:2",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:2",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:2",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:2",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:3",
+      "version": "3.2",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:3",
+      "version": "3.2",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:3",
+      "version": "3.2",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "69:3",
+      "version": "3.2",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:1",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:1",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:1",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:1",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:2",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:2",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:2",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:2",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:3",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:3",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:3",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:3",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:4",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:4",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:4",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "70:4",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:1",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:1",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:1",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:1",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:2",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:2",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:2",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:2",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:3",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:3",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:3",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:3",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:4",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:4",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:4",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:4",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:5",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:5",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:5",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:5",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:6",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:6",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:6",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:6",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:7",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:7",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:7",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:7",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:8",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:8",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:8",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:8",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:9",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:9",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:9",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:9",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:10",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:10",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:10",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "71:10",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:1",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:1",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:1",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:1",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:2",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:2",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:2",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:2",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:3",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:3",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:3",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "72:3",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:1",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:1",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:1",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:1",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:2",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:2",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:2",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:2",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:3",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:3",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:3",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:3",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:4",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:4",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:4",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:4",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:5",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:5",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:5",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:5",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:6",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:6",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:6",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:6",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:7",
+      "version": "3.3",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:7",
+      "version": "3.3",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:7",
+      "version": "3.3",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "73:7",
+      "version": "3.3",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:1",
+      "version": "3.4",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:1",
+      "version": "3.4",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:1",
+      "version": "3.4",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:1",
+      "version": "3.4",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:2",
+      "version": "3.4",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:2",
+      "version": "3.4",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:2",
+      "version": "3.4",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:2",
+      "version": "3.4",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:3",
+      "version": "3.4",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:3",
+      "version": "3.4",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:3",
+      "version": "3.4",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:3",
+      "version": "3.4",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:4",
+      "version": "3.4",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:4",
+      "version": "3.4",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:4",
+      "version": "3.4",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:4",
+      "version": "3.4",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:5",
+      "version": "3.4",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:5",
+      "version": "3.4",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:5",
+      "version": "3.4",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:5",
+      "version": "3.4",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:6",
+      "version": "3.4",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:6",
+      "version": "3.4",
+      "scenario": "旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:6",
+      "version": "3.4",
+      "scenario": "正确分幕",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "74:6",
+      "version": "3.4",
+      "scenario": "已暂停旧分幕",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:1",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:1",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:1",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:1",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:2",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:2",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:2",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:2",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:3",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:3",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:3",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:3",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:4",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:4",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:4",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:4",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:5",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:5",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:5",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:5",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:6",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:6",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:6",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:6",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:7",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:7",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:7",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:7",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:8",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:8",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:8",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:8",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:9",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:9",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:9",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:9",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:10",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:10",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:10",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:10",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:11",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:11",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:11",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:11",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:12",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:12",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:12",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:12",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:13",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:13",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:13",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:13",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:14",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:14",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:14",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:14",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:15",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:15",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:15",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:15",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:16",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:16",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:16",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:16",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:17",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:17",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:17",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:17",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:18",
+      "version": "3.4·边缘幻梦",
+      "scenario": "未接取",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:18",
+      "version": "3.4·边缘幻梦",
+      "scenario": "旧主线",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:18",
+      "version": "3.4·边缘幻梦",
+      "scenario": "正确伴星",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "edge:18",
+      "version": "3.4·边缘幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    }
+  ]
+}

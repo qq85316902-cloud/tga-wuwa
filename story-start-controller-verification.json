@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "scenarios": 5,
+  "old_part_conflict_reproduced": true,
+  "free_main_selection_initially": true,
+  "active_or_paused_main_blocks_other_selection": true,
+  "return_from_companion_pauses_companion_control": true,
+  "initial_main_trigger_and_followup_verified": true,
+  "readonly_input_not_mutated": true,
+  "actual_tavern_tested": false,
+  "published": false
+}

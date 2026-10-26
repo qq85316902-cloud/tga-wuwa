@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "scenarios": 39,
+  "copies_tested": 3,
+  "old_keys_preserved": true,
+  "canonical_progress_never_overwritten": true,
+  "finished_upper_not_replayed": true,
+  "no_synthetic_condition_evidence": true,
+  "replay_requires_all_seven_conditions": true,
+  "other_active_story_not_hijacked": true,
+  "player_data_and_chat_preserved": true,
+  "actual_tavern_tested": false,
+  "published": false
+}

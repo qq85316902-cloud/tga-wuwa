@@ -1,0 +1,12 @@
+{
+  "compiled_controllers": 2,
+  "rendered_scenarios": 104,
+  "main_parts_checked": 90,
+  "source_quote_lines_checked": 6132,
+  "other_world_render_identical": true,
+  "one_current_part_per_prompt": true,
+  "source_quotes_present_in_rendered_prompt": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "limits": "验证控制器模板实际输出包含原句及执行规则；未访问用户酒馆，也不保证模型每次逐字遵循。"
+}

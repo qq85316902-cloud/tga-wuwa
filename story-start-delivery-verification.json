@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "scenarios": 30,
+  "main_entries": 34,
+  "companion_entries": 11,
+  "free_choice_without_active_main": true,
+  "one_active_main_including_paused": true,
+  "actual_sent_user_message_required": true,
+  "failed_send_rolls_back_own_progress": true,
+  "draft_preserved": true,
+  "generation_guard": true,
+  "chat_switch_not_overwritten": true,
+  "unrelated_player_data_preserved": true,
+  "companion_switch_preserves_main": true,
+  "confirmation_preserved": true,
+  "installed_directory_read_verified": true,
+  "actual_tavern_tested": false,
+  "published": false
+}

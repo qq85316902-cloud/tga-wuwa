@@ -1,0 +1,3020 @@
+{
+  "passed": true,
+  "scenarios": 812,
+  "events": 75,
+  "verbatim_events": 74,
+  "original_quote_rows": 6132,
+  "prior_quote_rows_preserved": 6100,
+  "added_quote_rows": 32,
+  "task_count": 9,
+  "natural_variants": 18,
+  "trip_cases": 20,
+  "readonly_inputs_unchanged": true,
+  "no_automatic_progress_or_location_patch": true,
+  "retained_talos_boss_scene": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "results": [
+    {
+      "id": "comp01:1",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:1",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:1",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:1",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:1",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:2",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:2",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:2",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:2",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:2",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:3",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:3",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:3",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:3",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:3",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:4",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:4",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:4",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:4",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:4",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:5",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:5",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:5",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:5",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:5",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:6",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:6",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:6",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:6",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:6",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:7",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:7",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:7",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:7",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:7",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:8",
+      "task": "此际我独行",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:8",
+      "task": "此际我独行",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:8",
+      "task": "此际我独行",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:8",
+      "task": "此际我独行",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp01:8",
+      "task": "此际我独行",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:1",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:1",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:1",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:1",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:1",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:2",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:2",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:2",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:2",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:2",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:3",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:3",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:3",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:3",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:3",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:4",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:4",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:4",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:4",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:4",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:5",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:5",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:5",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:5",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:5",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:6",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:6",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:6",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:6",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:6",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:7",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:7",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:7",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:7",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:7",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:8",
+      "task": "离火弈长生",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:8",
+      "task": "离火弈长生",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:8",
+      "task": "离火弈长生",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:8",
+      "task": "离火弈长生",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp02:8",
+      "task": "离火弈长生",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:1",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:1",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:1",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:1",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:1",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:2",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:2",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:2",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:2",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:2",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:3",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:3",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:3",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:3",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:3",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:4",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:4",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:4",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:4",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:4",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:5",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:5",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:5",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:5",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:5",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:6",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:6",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:6",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:6",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:6",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:7",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:7",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:7",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:7",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:7",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:8",
+      "task": "自问丹青",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:8",
+      "task": "自问丹青",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:8",
+      "task": "自问丹青",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:8",
+      "task": "自问丹青",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp03:8",
+      "task": "自问丹青",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:1",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:1",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:1",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:1",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:1",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:2",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:2",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:2",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:2",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:2",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:3",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:3",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:3",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:3",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:3",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:4",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:4",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:4",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:4",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:4",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:5",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:5",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:5",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:5",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:5",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:6",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:6",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:6",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:6",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:6",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:7",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:7",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:7",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:7",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:7",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:8",
+      "task": "小小羊咩大冒险",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:8",
+      "task": "小小羊咩大冒险",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:8",
+      "task": "小小羊咩大冒险",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:8",
+      "task": "小小羊咩大冒险",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp04:8",
+      "task": "小小羊咩大冒险",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:1",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:1",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:1",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:1",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:1",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:2",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:2",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:2",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:2",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:2",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:3",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:3",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:3",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:3",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:3",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:4",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:4",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:4",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:4",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:4",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:5",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:5",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:5",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:5",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:5",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:6",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:6",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:6",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:6",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:6",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:7",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:7",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:7",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:7",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:7",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:8",
+      "task": "小径分岔的星海",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:8",
+      "task": "小径分岔的星海",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:8",
+      "task": "小径分岔的星海",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:8",
+      "task": "小径分岔的星海",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp05:8",
+      "task": "小径分岔的星海",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:1",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:1",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:1",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:1",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:1",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:2",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:2",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:2",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:2",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:2",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:3",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:3",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:3",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:3",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:3",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:4",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:4",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:4",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:4",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:4",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:5",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:5",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:5",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:5",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:5",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:6",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:6",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:6",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:6",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:6",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:7",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:7",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:7",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:7",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:7",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:8",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:8",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:8",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:8",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:8",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:9",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:9",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:9",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:9",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp06:9",
+      "task": "如果在雨夜，一个家族",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:1",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:1",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:1",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:1",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:1",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:2",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:2",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:2",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:2",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:2",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:3",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:3",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:3",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:3",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:3",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:4",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:4",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:4",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:4",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:4",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:5",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:5",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:5",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:5",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:5",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:6",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:6",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:6",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:6",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:6",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:7",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:7",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:7",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:7",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:7",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:8",
+      "task": "今夜星光灿烂",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:8",
+      "task": "今夜星光灿烂",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:8",
+      "task": "今夜星光灿烂",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:8",
+      "task": "今夜星光灿烂",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp07:8",
+      "task": "今夜星光灿烂",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:1",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:1",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:1",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:1",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:1",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:2",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:2",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:2",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:2",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:2",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:3",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:3",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:3",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:3",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:3",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:4",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:4",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:4",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:4",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:4",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:5",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:5",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:5",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:5",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:5",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:6",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:6",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:6",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:6",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:6",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:7",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:7",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:7",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:7",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:7",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:8",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:8",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:8",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:8",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:8",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:9",
+      "task": "幽夜幻梦",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:9",
+      "task": "幽夜幻梦",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:9",
+      "task": "幽夜幻梦",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:9",
+      "task": "幽夜幻梦",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp08:9",
+      "task": "幽夜幻梦",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:1",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:1",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:1",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:1",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:1",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:2",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:2",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:2",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:2",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:2",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:3",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:3",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:3",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:3",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:3",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:4",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:4",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:4",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:4",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:4",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:5",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:5",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:5",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:5",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:5",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:6",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:6",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:6",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:6",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:6",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:7",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:7",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:7",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:7",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:7",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:8",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:8",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:8",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:8",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:8",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:9",
+      "task": "夜行的焰光",
+      "scenario": "未接取",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:9",
+      "task": "夜行的焰光",
+      "scenario": "旧主线",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:9",
+      "task": "夜行的焰光",
+      "scenario": "本伴星",
+      "before_all_original_quotes_present": true,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:9",
+      "task": "夜行的焰光",
+      "scenario": "其他伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    },
+    {
+      "id": "comp09:9",
+      "task": "夜行的焰光",
+      "scenario": "暂停伴星",
+      "before_all_original_quotes_present": false,
+      "after_all_original_quotes_present": true,
+      "before_one_event_only": false
+    }
+  ]
+}

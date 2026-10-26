@@ -1,0 +1,1930 @@
+{
+  "passed": true,
+  "scenarios": 1196,
+  "versions": {
+    "2.0": {
+      "parts": 6,
+      "scenes": 33,
+      "quote_rows": 2178,
+      "previous_missing_scenarios": 99
+    },
+    "2.1": {
+      "parts": 2,
+      "scenes": 15,
+      "quote_rows": 457,
+      "previous_missing_scenarios": 45
+    },
+    "2.2": {
+      "parts": 1,
+      "scenes": 11,
+      "quote_rows": 1055,
+      "previous_missing_scenarios": 33
+    }
+  },
+  "added_routes": 59,
+  "total_routes": 184,
+  "early_routes_regression": 125,
+  "independent_natural_variants": 46,
+  "main_parts_checked": 90,
+  "companion_tasks_checked": 10,
+  "readonly_game_state_unchanged": true,
+  "unique_scene_only": true,
+  "ambiguity_stops": true,
+  "departures_and_new_scene_replace_history": true,
+  "main_normal_prompt_identical": true,
+  "other_world_prompt_identical": true,
+  "companion_prompt_identical": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "results": [
+    {
+      "id": "30:1",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "回到黑海岸，守岸人解释阿布衰减，并查看过去自己的留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:1",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "回到黑海岸，守岸人解释阿布衰减，并查看过去自己的留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:1",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "回到黑海岸，守岸人解释阿布衰减，并查看过去自己的留言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:1",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "回到黑海岸，守岸人解释阿布衰减，并查看过去自己的留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:2",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "读莫塔里寄来的神秘邀请函，商量海路远航。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:2",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "读莫塔里寄来的神秘邀请函，商量海路远航。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:2",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "读莫塔里寄来的神秘邀请函，商量海路远航。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:2",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "读莫塔里寄来的神秘邀请函，商量海路远航。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:3",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "在愚人剧团花船上听洛可可介绍桂冠、手提箱与古币。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:3",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "在愚人剧团花船上听洛可可介绍桂冠、手提箱与古币。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:3",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "在愚人剧团花船上听洛可可介绍桂冠、手提箱与古币。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:3",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在愚人剧团花船上听洛可可介绍桂冠、手提箱与古币。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:4",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "看安德烈登上朝圣船，初见克里斯托弗，听愚人与义人的故事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:4",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "看安德烈登上朝圣船，初见克里斯托弗，听愚人与义人的故事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:4",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "看安德烈登上朝圣船，初见克里斯托弗，听愚人与义人的故事。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:4",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "看安德烈登上朝圣船，初见克里斯托弗，听愚人与义人的故事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:5",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "入城时菲比检查终端，凭邀请函担保后向我道歉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:5",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "入城时菲比检查终端，凭邀请函担保后向我道歉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:5",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "入城时菲比检查终端，凭邀请函担保后向我道歉。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "30:5",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "入城时菲比检查终端，凭邀请函担保后向我道歉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:1",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "菲比带我看拉古那公共声骸，解释起源信标与神启者权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:1",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "菲比带我看拉古那公共声骸，解释起源信标与神启者权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:1",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "菲比带我看拉古那公共声骸，解释起源信标与神启者权限。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:1",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "菲比带我看拉古那公共声骸，解释起源信标与神启者权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:2",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "失控的刀伶传来英白拉多的求助。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:2",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "失控的刀伶传来英白拉多的求助。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:2",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "失控的刀伶传来英白拉多的求助。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:2",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "失控的刀伶传来英白拉多的求助。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:3",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "调查安东尼奥的私人终端与矿脉定金，再看斐林胶片里的西莫斯投影。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:3",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "调查安东尼奥的私人终端与矿脉定金，再看斐林胶片里的西莫斯投影。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:3",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "调查安东尼奥的私人终端与矿脉定金，再看斐林胶片里的西莫斯投影。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:3",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "调查安东尼奥的私人终端与矿脉定金，再看斐林胶片里的西莫斯投影。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:4",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "在教堂听吉尔贝和司铎密谈，阿莱克斯谈狂欢节与联结。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:4",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "在教堂听吉尔贝和司铎密谈，阿莱克斯谈狂欢节与联结。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:4",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "在教堂听吉尔贝和司铎密谈，阿莱克斯谈狂欢节与联结。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:4",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在教堂听吉尔贝和司铎密谈，阿莱克斯谈狂欢节与联结。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:5",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "查看赞妮在后花园的数据留言，经忏悔室问答寻找后路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:5",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "查看赞妮在后花园的数据留言，经忏悔室问答寻找后路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:5",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "查看赞妮在后花园的数据留言，经忏悔室问答寻找后路。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "31:5",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "查看赞妮在后花园的数据留言，经忏悔室问答寻找后路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:1",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "追出教堂后，克里斯托弗谈圣女剧本和失踪声骸。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:1",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "追出教堂后，克里斯托弗谈圣女剧本和失踪声骸。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:1",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "追出教堂后，克里斯托弗谈圣女剧本和失踪声骸。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:1",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "追出教堂后，克里斯托弗谈圣女剧本和失踪声骸。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:2",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "菲比在污染声骸上认出司铎的彼岸花花瓣，请求继续调查。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:2",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "菲比在污染声骸上认出司铎的彼岸花花瓣，请求继续调查。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:2",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "菲比在污染声骸上认出司铎的彼岸花花瓣，请求继续调查。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:2",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "菲比在污染声骸上认出司铎的彼岸花花瓣，请求继续调查。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:3",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "吉尔贝露底，念出女皇与深渊祷文，罗蕾莱被控制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:3",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "吉尔贝露底，念出女皇与深渊祷文，罗蕾莱被控制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:3",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "吉尔贝露底，念出女皇与深渊祷文，罗蕾莱被控制。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:3",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "吉尔贝露底，念出女皇与深渊祷文，罗蕾莱被控制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:4",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "与神秘女性同船穿过云海，在车站谈拉古那的两面。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:4",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "与神秘女性同船穿过云海，在车站谈拉古那的两面。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:4",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "与神秘女性同船穿过云海，在车站谈拉古那的两面。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:4",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "与神秘女性同船穿过云海，在车站谈拉古那的两面。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:5",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "读罗蕾莱授形石碑的古神圣文字，用圣歌寻找米斯汀与入口铭文的线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:5",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "读罗蕾莱授形石碑的古神圣文字，用圣歌寻找米斯汀与入口铭文的线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:5",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "读罗蕾莱授形石碑的古神圣文字，用圣歌寻找米斯汀与入口铭文的线索。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:5",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "读罗蕾莱授形石碑的古神圣文字，用圣歌寻找米斯汀与入口铭文的线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:6",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "罗蕾莱在狂欢节之门前说明使命、古誓约和岁主断联。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:6",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "罗蕾莱在狂欢节之门前说明使命、古誓约和岁主断联。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:6",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "罗蕾莱在狂欢节之门前说明使命、古誓约和岁主断联。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "32:6",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "罗蕾莱在狂欢节之门前说明使命、古誓约和岁主断联。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:1",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "在金库与珂莱塔正式相认，讨论家族合作和圣剑去向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:1",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "在金库与珂莱塔正式相认，讨论家族合作和圣剑去向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:1",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "在金库与珂莱塔正式相认，讨论家族合作和圣剑去向。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:1",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在金库与珂莱塔正式相认，讨论家族合作和圣剑去向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:2",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "和珂莱塔双人渗透保管室，借珠宝晶体和吊灯解谜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:2",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "和珂莱塔双人渗透保管室，借珠宝晶体和吊灯解谜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:2",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "和珂莱塔双人渗透保管室，借珠宝晶体和吊灯解谜。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:2",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "和珂莱塔双人渗透保管室，借珠宝晶体和吊灯解谜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:3",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "听调音师交代证词、家族誓言与投放批次。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:3",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "听调音师交代证词、家族誓言与投放批次。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:3",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "听调音师交代证词、家族誓言与投放批次。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:3",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "听调音师交代证词、家族誓言与投放批次。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:4",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "查看琉璃刀伶数据档案，理解刀伶母本才是家族真正珍宝。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:4",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "查看琉璃刀伶数据档案，理解刀伶母本才是家族真正珍宝。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:4",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "查看琉璃刀伶数据档案，理解刀伶母本才是家族真正珍宝。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:4",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "查看琉璃刀伶数据档案，理解刀伶母本才是家族真正珍宝。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:5",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "用终端感知复原彩窗，读少女神启者的石碑预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:5",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "用终端感知复原彩窗，读少女神启者的石碑预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:5",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "用终端感知复原彩窗，读少女神启者的石碑预言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:5",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "用终端感知复原彩窗，读少女神启者的石碑预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:6",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "修会以朝圣威胁封口，科波拉的吊坠与枪口引出北方墓岛线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:6",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "修会以朝圣威胁封口，科波拉的吊坠与枪口引出北方墓岛线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:6",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "修会以朝圣威胁封口，科波拉的吊坠与枪口引出北方墓岛线索。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "33:6",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "修会以朝圣威胁封口，科波拉的吊坠与枪口引出北方墓岛线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:1",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "洛可可和佩洛在海雾中接应，礼花枪与金色虚影留下海萤石。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:1",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "洛可可和佩洛在海雾中接应，礼花枪与金色虚影留下海萤石。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:1",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "洛可可和佩洛在海雾中接应，礼花枪与金色虚影留下海萤石。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:1",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "洛可可和佩洛在海雾中接应，礼花枪与金色虚影留下海萤石。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:2",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "了解朝圣船流放真相，听安德烈的遭遇和愚人船终点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:2",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "了解朝圣船流放真相，听安德烈的遭遇和愚人船终点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:2",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "了解朝圣船流放真相，听安德烈的遭遇和愚人船终点。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:2",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "了解朝圣船流放真相，听安德烈的遭遇和愚人船终点。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:3",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "在幸存者的家里，布兰特谈港湾与成员自由，巴多里奥讲岁主沙拉和圣女年代。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:3",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "在幸存者的家里，布兰特谈港湾与成员自由，巴多里奥讲岁主沙拉和圣女年代。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:3",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "在幸存者的家里，布兰特谈港湾与成员自由，巴多里奥讲岁主沙拉和圣女年代。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:3",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在幸存者的家里，布兰特谈港湾与成员自由，巴多里奥讲岁主沙拉和圣女年代。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:4",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "修理造云机，向拉维特、蒂娜、巴蒂尔取得底座、共振装置和把手。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:4",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "修理造云机，向拉维特、蒂娜、巴蒂尔取得底座、共振装置和把手。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:4",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "修理造云机，向拉维特、蒂娜、巴蒂尔取得底座、共振装置和把手。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:4",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "修理造云机，向拉维特、蒂娜、巴蒂尔取得底座、共振装置和把手。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:5",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "珂莱塔归来说明科波拉获救，与剧团同台预演彩排并确认即兴原则。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:5",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "珂莱塔归来说明科波拉获救，与剧团同台预演彩排并确认即兴原则。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:5",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "珂莱塔归来说明科波拉获救，与剧团同台预演彩排并确认即兴原则。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "34:5",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "珂莱塔归来说明科波拉获救，与剧团同台预演彩排并确认即兴原则。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:1",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "狂欢节前夜收到定制面具赠礼，听圣女农家女孩的轶事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:1",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "狂欢节前夜收到定制面具赠礼，听圣女农家女孩的轶事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:1",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "狂欢节前夜收到定制面具赠礼，听圣女农家女孩的轶事。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:1",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "狂欢节前夜收到定制面具赠礼，听圣女农家女孩的轶事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:2",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "狂欢节在自由广场就位，主座开幕，弗洛洛邀演，确认各处护场分工。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:2",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "狂欢节在自由广场就位，主座开幕，弗洛洛邀演，确认各处护场分工。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:2",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "狂欢节在自由广场就位，主座开幕，弗洛洛邀演，确认各处护场分工。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:2",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "狂欢节在自由广场就位，主座开幕，弗洛洛邀演，确认各处护场分工。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:3",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "残星会的终幕上，赫卡忒给出三道预言，溯海之鲸失控。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:3",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "残星会的终幕上，赫卡忒给出三道预言，溯海之鲸失控。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:3",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "残星会的终幕上，赫卡忒给出三道预言，溯海之鲸失控。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:3",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "残星会的终幕上，赫卡忒给出三道预言，溯海之鲸失控。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:4",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "查看斐林谢幕抓拍照片，确认卡提希娅姓名、声痕和不可见性。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:4",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "查看斐林谢幕抓拍照片，确认卡提希娅姓名、声痕和不可见性。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:4",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "查看斐林谢幕抓拍照片，确认卡提希娅姓名、声痕和不可见性。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:4",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "查看斐林谢幕抓拍照片，确认卡提希娅姓名、声痕和不可见性。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:5",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "芬莱克提出主座邀约，讲圣女本名、利维亚坦、黑潮与鸣式。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:5",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "芬莱克提出主座邀约，讲圣女本名、利维亚坦、黑潮与鸣式。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:5",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "芬莱克提出主座邀约，讲圣女本名、利维亚坦、黑潮与鸣式。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:5",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "芬莱克提出主座邀约，讲圣女本名、利维亚坦、黑潮与鸣式。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:6",
+      "version": "2.0",
+      "scenario": "未接取",
+      "input": "另一视角中，弗洛洛与克里斯托弗幕后谈下一步。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:6",
+      "version": "2.0",
+      "scenario": "旧分幕",
+      "input": "另一视角中，弗洛洛与克里斯托弗幕后谈下一步。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:6",
+      "version": "2.0",
+      "scenario": "正确分幕",
+      "input": "另一视角中，弗洛洛与克里斯托弗幕后谈下一步。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35:6",
+      "version": "2.0",
+      "scenario": "已暂停旧分幕",
+      "input": "另一视角中，弗洛洛与克里斯托弗幕后谈下一步。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:1",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "在后门接头，菲比接替护送，说明空箱掩护和特殊权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:1",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "在后门接头，菲比接替护送，说明空箱掩护和特殊权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:1",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "在后门接头，菲比接替护送，说明空箱掩护和特殊权限。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:1",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在后门接头，菲比接替护送，说明空箱掩护和特殊权限。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:2",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "安全模式把护送者反锁，要求逃生证明，外联被屏蔽，只能去控制室。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:2",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "安全模式把护送者反锁，要求逃生证明，外联被屏蔽，只能去控制室。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:2",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "安全模式把护送者反锁，要求逃生证明，外联被屏蔽，只能去控制室。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:2",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "安全模式把护送者反锁，要求逃生证明，外联被屏蔽，只能去控制室。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:3",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "检查安全模块里的艾许存取记录，核对丽维证件和记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:3",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "检查安全模块里的艾许存取记录，核对丽维证件和记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:3",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "检查安全模块里的艾许存取记录，核对丽维证件和记忆。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:3",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "检查安全模块里的艾许存取记录，核对丽维证件和记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:4",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "在列车协作追踪中读家书残页，查看会回应的密码书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:4",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "在列车协作追踪中读家书残页，查看会回应的密码书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:4",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "在列车协作追踪中读家书残页，查看会回应的密码书。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:4",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在列车协作追踪中读家书残页，查看会回应的密码书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:5",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "坠车后到研究者旧居，读逆行者名册和绿叶变红的日记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:5",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "坠车后到研究者旧居，读逆行者名册和绿叶变红的日记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:5",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "坠车后到研究者旧居，读逆行者名册和绿叶变红的日记。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:5",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "坠车后到研究者旧居，读逆行者名册和绿叶变红的日记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:6",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "输入密码0622打开门，了解审判之日与权限刷新后控制守卫。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:6",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "输入密码0622打开门，了解审判之日与权限刷新后控制守卫。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:6",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "输入密码0622打开门，了解审判之日与权限刷新后控制守卫。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:6",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "输入密码0622打开门，了解审判之日与权限刷新后控制守卫。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:7",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "查看树下真正秘藏，确认修会藏品与炸弹性质。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:7",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "查看树下真正秘藏，确认修会藏品与炸弹性质。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:7",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "查看树下真正秘藏，确认修会藏品与炸弹性质。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:7",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "查看树下真正秘藏，确认修会藏品与炸弹性质。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:8",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "菲比说这不是祈祷，而是目送。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:8",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "菲比说这不是祈祷，而是目送。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:8",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "菲比说这不是祈祷，而是目送。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35A:8",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "菲比说这不是祈祷，而是目送。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:1",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "修好的裴魁德号仍在等待船长。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:1",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "修好的裴魁德号仍在等待船长。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:1",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "修好的裴魁德号仍在等待船长。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:1",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "修好的裴魁德号仍在等待船长。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:2",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "去最后一座岛途中遇莱耶斯风暴，读献爱碑文寻找真正的爱之言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:2",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "去最后一座岛途中遇莱耶斯风暴，读献爱碑文寻找真正的爱之言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:2",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "去最后一座岛途中遇莱耶斯风暴，读献爱碑文寻找真正的爱之言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:2",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "去最后一座岛途中遇莱耶斯风暴，读献爱碑文寻找真正的爱之言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:3",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "在灯塔调查亚哈的执念，读大海三重馈赠提示，听幽灵接受后的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:3",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "在灯塔调查亚哈的执念，读大海三重馈赠提示，听幽灵接受后的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:3",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "在灯塔调查亚哈的执念，读大海三重馈赠提示，听幽灵接受后的回应。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:3",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在灯塔调查亚哈的执念，读大海三重馈赠提示，听幽灵接受后的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:4",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "四塔齐明后，讨论鲸与海妖共生、引渡亡者和岁主灯火传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:4",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "四塔齐明后，讨论鲸与海妖共生、引渡亡者和岁主灯火传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:4",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "四塔齐明后，讨论鲸与海妖共生、引渡亡者和岁主灯火传说。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:4",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "四塔齐明后，讨论鲸与海妖共生、引渡亡者和岁主灯火传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:5",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "阅读亚哈告别留言，伊什麦尔带来斯塔独自出海的消息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:5",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "阅读亚哈告别留言，伊什麦尔带来斯塔独自出海的消息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:5",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "阅读亚哈告别留言，伊什麦尔带来斯塔独自出海的消息。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:5",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "阅读亚哈告别留言，伊什麦尔带来斯塔独自出海的消息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:6",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "做好出航准备，由船长与代理掌舵驶向风暴解决当前危险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:6",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "做好出航准备，由船长与代理掌舵驶向风暴解决当前危险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:6",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "做好出航准备，由船长与代理掌舵驶向风暴解决当前危险。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:6",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "做好出航准备，由船长与代理掌舵驶向风暴解决当前危险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:7",
+      "version": "2.1",
+      "scenario": "未接取",
+      "input": "休整后阿布翻译鲸的说明，菲比作个人道歉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:7",
+      "version": "2.1",
+      "scenario": "旧分幕",
+      "input": "休整后阿布翻译鲸的说明，菲比作个人道歉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:7",
+      "version": "2.1",
+      "scenario": "正确分幕",
+      "input": "休整后阿布翻译鲸的说明，菲比作个人道歉。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "35B:7",
+      "version": "2.1",
+      "scenario": "已暂停旧分幕",
+      "input": "休整后阿布翻译鲸的说明，菲比作个人道歉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:1",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "在圣女故居请夏空重奏频率，赛巴斯送来家主邀约，坎特蕾拉正式自报身份。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:1",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "在圣女故居请夏空重奏频率，赛巴斯送来家主邀约，坎特蕾拉正式自报身份。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:1",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "在圣女故居请夏空重奏频率，赛巴斯送来家主邀约，坎特蕾拉正式自报身份。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:1",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "在圣女故居请夏空重奏频率，赛巴斯送来家主邀约，坎特蕾拉正式自报身份。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:2",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "在神权剑前读圣女已死的留言，拔剑验证错位信仰与真实岁主。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:2",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "在神权剑前读圣女已死的留言，拔剑验证错位信仰与真实岁主。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:2",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "在神权剑前读圣女已死的留言，拔剑验证错位信仰与真实岁主。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:2",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "在神权剑前读圣女已死的留言，拔剑验证错位信仰与真实岁主。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:3",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "进入颠倒神学院，乘地下缆车，核验三剑三座和呼姆双人座。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:3",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "进入颠倒神学院，乘地下缆车，核验三剑三座和呼姆双人座。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:3",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "进入颠倒神学院，乘地下缆车，核验三剑三座和呼姆双人座。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:3",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "进入颠倒神学院，乘地下缆车，核验三剑三座和呼姆双人座。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:4",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "进入拯救之塔，用回音火种净化，读取拯救教义与加冕回忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:4",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "进入拯救之塔，用回音火种净化，读取拯救教义与加冕回忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:4",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "进入拯救之塔，用回音火种净化，读取拯救教义与加冕回忆。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:4",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "进入拯救之塔，用回音火种净化，读取拯救教义与加冕回忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:5",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "在联结之塔带走失力提尔芬，共同拔出赫格利，读联结教义。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:5",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "在联结之塔带走失力提尔芬，共同拔出赫格利，读联结教义。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:5",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "在联结之塔带走失力提尔芬，共同拔出赫格利，读联结教义。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:5",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "在联结之塔带走失力提尔芬，共同拔出赫格利，读联结教义。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:6",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "在向上之塔听卡迪安特与奥特尔旧事，回忆被创造的生命。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:6",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "在向上之塔听卡迪安特与奥特尔旧事，回忆被创造的生命。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:6",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "在向上之塔听卡迪安特与奥特尔旧事，回忆被创造的生命。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:6",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "在向上之塔听卡迪安特与奥特尔旧事，回忆被创造的生命。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:7",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "卡提希娅说明冠冕控制、分裂自身的分离代价与送葬神明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:7",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "卡提希娅说明冠冕控制、分裂自身的分离代价与送葬神明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:7",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "卡提希娅说明冠冕控制、分裂自身的分离代价与送葬神明。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:7",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "卡提希娅说明冠冕控制、分裂自身的分离代价与送葬神明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:8",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "圣授厅最后请求中，坎特蕾拉说明割舍二次共鸣的真相，拒绝唯一自毁死局。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:8",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "圣授厅最后请求中，坎特蕾拉说明割舍二次共鸣的真相，拒绝唯一自毁死局。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:8",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "圣授厅最后请求中，坎特蕾拉说明割舍二次共鸣的真相，拒绝唯一自毁死局。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:8",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "圣授厅最后请求中，坎特蕾拉说明割舍二次共鸣的真相，拒绝唯一自毁死局。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:9",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "卡提希娅回应不违本心，要成为来客之剑，寻找未来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:9",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "卡提希娅回应不违本心，要成为来客之剑，寻找未来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:9",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "卡提希娅回应不违本心，要成为来客之剑，寻找未来。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:9",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "卡提希娅回应不违本心，要成为来客之剑，寻找未来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:10",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "英白拉多讲旧约和根权限，以残风建立链接，留下自由留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:10",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "英白拉多讲旧约和根权限，以残风建立链接，留下自由留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:10",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "英白拉多讲旧约和根权限，以残风建立链接，留下自由留言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:10",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "英白拉多讲旧约和根权限，以残风建立链接，留下自由留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:11",
+      "version": "2.2",
+      "scenario": "未接取",
+      "input": "复生后卡提希娅选择名字与去向，谈未来救回你的约定和血誓盟约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:11",
+      "version": "2.2",
+      "scenario": "旧分幕",
+      "input": "复生后卡提希娅选择名字与去向，谈未来救回你的约定和血誓盟约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:11",
+      "version": "2.2",
+      "scenario": "正确分幕",
+      "input": "复生后卡提希娅选择名字与去向，谈未来救回你的约定和血誓盟约。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "36:11",
+      "version": "2.2",
+      "scenario": "已暂停旧分幕",
+      "input": "复生后卡提希娅选择名字与去向，谈未来救回你的约定和血誓盟约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    }
+  ]
+}

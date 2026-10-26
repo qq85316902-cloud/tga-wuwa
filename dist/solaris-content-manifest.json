@@ -1,0 +1,10 @@
+{
+  "format": "solaris-content-sync/v1",
+  "owner": "qq85316902-cloud/tga-wuwa",
+  "version": "2026.10.26.19",
+  "payload": "solaris-content-cc6ab3d9ac596f7a.json",
+  "sha256": "cc6ab3d9ac596f7abd364c13fcadb27a73f29f57d4e71ce35a651b150b7d4a22",
+  "bytes": 7162276,
+  "entry_count": 333,
+  "published_at": "2026-10-26T07:49:10.316734+00:00"
+}

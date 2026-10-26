@@ -1,0 +1,4046 @@
+{
+  "passed": true,
+  "scenarios": 934,
+  "versions": {
+    "1.0": {
+      "parts": 10,
+      "scenes": 46,
+      "quote_rows": 739,
+      "previous_missing_scenarios": 135
+    },
+    "1.1": {
+      "parts": 9,
+      "scenes": 32,
+      "quote_rows": 797,
+      "previous_missing_scenarios": 96
+    },
+    "1.2": {
+      "parts": 4,
+      "scenes": 22,
+      "quote_rows": 933,
+      "previous_missing_scenarios": 66
+    },
+    "1.3": {
+      "parts": 6,
+      "scenes": 25,
+      "quote_rows": 1174,
+      "previous_missing_scenarios": 75
+    }
+  },
+  "scene_routes": 125,
+  "independent_natural_variants": 21,
+  "main_parts_checked": 90,
+  "companion_tasks_checked": 10,
+  "readonly_game_state_unchanged": true,
+  "unique_scene_only": true,
+  "ambiguity_stops": true,
+  "departures_and_new_scene_replace_history": true,
+  "main_normal_prompt_identical": true,
+  "other_world_prompt_identical": true,
+  "companion_prompt_identical": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "results": [
+    {
+      "id": "01:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "漂泊者看见角的雕像，想起一段记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "漂泊者看见角的雕像，想起一段记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "漂泊者看见角的雕像，想起一段记忆。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "漂泊者看见角的雕像，想起一段记忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "无冠者战后被肉身纳骸，白芷翻古籍解释异常。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "无冠者战后被肉身纳骸，白芷翻古籍解释异常。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "无冠者战后被肉身纳骸，白芷翻古籍解释异常。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "无冠者战后被肉身纳骸，白芷翻古籍解释异常。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "终端恢复，播放今汐的全域寻客留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "终端恢复，播放今汐的全域寻客留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "终端恢复，播放今汐的全域寻客留言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "01:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "终端恢复，播放今汐的全域寻客留言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "用坚岩斗士做肉身纳骸的复现实验。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "用坚岩斗士做肉身纳骸的复现实验。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "用坚岩斗士做肉身纳骸的复现实验。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "用坚岩斗士做肉身纳骸的复现实验。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "抵达今州城门，秧秧和炽霞安排边庭与研究院的分工。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "抵达今州城门，秧秧和炽霞安排边庭与研究院的分工。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "抵达今州城门，秧秧和炽霞安排边庭与研究院的分工。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "02:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "抵达今州城门，秧秧和炽霞安排边庭与研究院的分工。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "漂泊者进入边庭看到散华，今汐不在，散华交代今汐留下的东西。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "漂泊者进入边庭看到散华，今汐不在，散华交代今汐留下的东西。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "漂泊者进入边庭看到散华，今汐不在，散华交代今汐留下的东西。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "漂泊者进入边庭看到散华，今汐不在，散华交代今汐留下的东西。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "白芷给漂泊者做身体与共鸣频率检查，解释报告。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "白芷给漂泊者做身体与共鸣频率检查，解释报告。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "白芷给漂泊者做身体与共鸣频率检查，解释报告。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "白芷给漂泊者做身体与共鸣频率检查，解释报告。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "莫特斐检测修复日晷，说明榫卯机关盒缺少配件。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "莫特斐检测修复日晷，说明榫卯机关盒缺少配件。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "莫特斐检测修复日晷，说明榫卯机关盒缺少配件。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "莫特斐检测修复日晷，说明榫卯机关盒缺少配件。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在公共档案室查糖丸疫苗的未字列和亲子试药档案。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在公共档案室查糖丸疫苗的未字列和亲子试药档案。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在公共档案室查糖丸疫苗的未字列和亲子试药档案。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在公共档案室查糖丸疫苗的未字列和亲子试药档案。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "秧秧汇总四件信物的双重指向和误导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "秧秧汇总四件信物的双重指向和误导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "秧秧汇总四件信物的双重指向和误导。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "秧秧汇总四件信物的双重指向和误导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:6",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "休息前查看终端，找不到以往记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:6",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "休息前查看终端，找不到以往记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:6",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "休息前查看终端，找不到以往记录。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "03:6",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "休息前查看终端，找不到以往记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "吃早饭时讨论梦境，以及通行权限指向军营。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "吃早饭时讨论梦境，以及通行权限指向军营。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "吃早饭时讨论梦境，以及通行权限指向军营。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "吃早饭时讨论梦境，以及通行权限指向军营。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在侦查塔遇到鉴心，听她说为何帮忙。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在侦查塔遇到鉴心，听她说为何帮忙。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在侦查塔遇到鉴心，听她说为何帮忙。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在侦查塔遇到鉴心，听她说为何帮忙。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在夜归军营听伤兵与后勤人员说战争和后方职责。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在夜归军营听伤兵与后勤人员说战争和后方职责。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在夜归军营听伤兵与后勤人员说战争和后方职责。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在夜归军营听伤兵与后勤人员说战争和后方职责。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "致远带我们看申引的纪念碑。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "致远带我们看申引的纪念碑。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "致远带我们看申引的纪念碑。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "致远带我们看申引的纪念碑。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "调查莽吉柿是否属于军粮，以及如何送往战场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "调查莽吉柿是否属于军粮，以及如何送往战场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "调查莽吉柿是否属于军粮，以及如何送往战场。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "调查莽吉柿是否属于军粮，以及如何送往战场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:6",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "鉴心决定留在军营，致远回城，各自交代去向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:6",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "鉴心决定留在军营，致远回城，各自交代去向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:6",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "鉴心决定留在军营，致远回城，各自交代去向。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "04:6",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "鉴心决定留在军营，致远回城，各自交代去向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "和秧秧在祈池村废村查看紫叶气息与残留情绪。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "和秧秧在祈池村废村查看紫叶气息与残留情绪。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "和秧秧在祈池村废村查看紫叶气息与残留情绪。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "和秧秧在祈池村废村查看紫叶气息与残留情绪。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "伤痕把人类比作棋子和筹码。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "伤痕把人类比作棋子和筹码。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "伤痕把人类比作棋子和筹码。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "伤痕把人类比作棋子和筹码。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "伤痕说实现愿望需要付出代价。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "伤痕说实现愿望需要付出代价。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "伤痕说实现愿望需要付出代价。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "伤痕说实现愿望需要付出代价。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在祈池村突破伤痕幻境，与秧秧会合后注意到红衣女子。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在祈池村突破伤痕幻境，与秧秧会合后注意到红衣女子。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在祈池村突破伤痕幻境，与秧秧会合后注意到红衣女子。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在祈池村突破伤痕幻境，与秧秧会合后注意到红衣女子。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "祈池村退水后，去水下读小女孩日记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "祈池村退水后，去水下读小女孩日记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "祈池村退水后，去水下读小女孩日记。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "祈池村退水后，去水下读小女孩日记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:6",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "秧秧说出想要成为踏白的志向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:6",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "秧秧说出想要成为踏白的志向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:6",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "秧秧说出想要成为踏白的志向。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "05:6",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "秧秧说出想要成为踏白的志向。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "打开日晷读纸卷，在瑝览类书找到路线图，再转动花瓶开门。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "打开日晷读纸卷，在瑝览类书找到路线图，再转动花瓶开门。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "打开日晷读纸卷，在瑝览类书找到路线图，再转动花瓶开门。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "打开日晷读纸卷，在瑝览类书找到路线图，再转动花瓶开门。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在边庭设局引来伤痕，谈幻境里外协力。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在边庭设局引来伤痕，谈幻境里外协力。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在边庭设局引来伤痕，谈幻境里外协力。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在边庭设局引来伤痕，谈幻境里外协力。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "与今汐秘密会面，听她解释日晷第二层信息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "与今汐秘密会面，听她解释日晷第二层信息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "与今汐秘密会面，听她解释日晷第二层信息。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "与今汐秘密会面，听她解释日晷第二层信息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "伤痕被捕后接受审讯，谈悲鸣预言与残星会。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "伤痕被捕后接受审讯，谈悲鸣预言与残星会。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "伤痕被捕后接受审讯，谈悲鸣预言与残星会。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "伤痕被捕后接受审讯，谈悲鸣预言与残星会。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:6",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "今汐交给漂泊者照片，说角留给苏醒者的信息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:6",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "今汐交给漂泊者照片，说角留给苏醒者的信息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:6",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "今汐交给漂泊者照片，说角留给苏醒者的信息。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "06:6",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "今汐交给漂泊者照片，说角留给苏醒者的信息。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "调查黑花，向说书人问弯刀之役和仿花办法。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "调查黑花，向说书人问弯刀之役和仿花办法。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "调查黑花，向说书人问弯刀之役和仿花办法。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "调查黑花，向说书人问弯刀之役和仿花办法。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "椿说明残星会任务和她自己的私心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "椿说明残星会任务和她自己的私心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "椿说明残星会任务和她自己的私心。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "椿说明残星会任务和她自己的私心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "秋水以真黑花提出交易，并说明客卿身份。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "秋水以真黑花提出交易，并说明客卿身份。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "秋水以真黑花提出交易，并说明客卿身份。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "秋水以真黑花提出交易，并说明客卿身份。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在稷廷实验室看旧影，听见关于资助与神迹的对话。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在稷廷实验室看旧影，听见关于资助与神迹的对话。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在稷廷实验室看旧影，听见关于资助与神迹的对话。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在稷廷实验室看旧影，听见关于资助与神迹的对话。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "秋水说漂泊者此前曾在黑海岸苏醒。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "秋水说漂泊者此前曾在黑海岸苏醒。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "秋水说漂泊者此前曾在黑海岸苏醒。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "秋水说漂泊者此前曾在黑海岸苏醒。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:6",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "真正的溯洄雨降下，今州战报告急。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:6",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "真正的溯洄雨降下，今州战报告急。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:6",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "真正的溯洄雨降下，今州战报告急。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "07:6",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "真正的溯洄雨降下，今州战报告急。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "忌炎面对哥舒临旧影，回忆撤退或进军的选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "忌炎面对哥舒临旧影，回忆撤退或进军的选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "忌炎面对哥舒临旧影，回忆撤退或进军的选择。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "忌炎面对哥舒临旧影，回忆撤退或进军的选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "今汐安排今州防守和后方交接，说明令尹职责。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "今汐安排今州防守和后方交接，说明令尹职责。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "今汐安排今州防守和后方交接，说明令尹职责。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "今汐安排今州防守和后方交接，说明令尹职责。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "领取抗雨药剂，忌炎讲完整预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "领取抗雨药剂，忌炎讲完整预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "领取抗雨药剂，忌炎讲完整预言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "领取抗雨药剂，忌炎讲完整预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "忌炎安排突入部署，解释凿空的能力限制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "忌炎安排突入部署，解释凿空的能力限制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "忌炎安排突入部署，解释凿空的能力限制。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "忌炎安排突入部署，解释凿空的能力限制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:6",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "今汐承担凿空的决策责任，守军交代密钥和最后嘱托。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:6",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "今汐承担凿空的决策责任，守军交代密钥和最后嘱托。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:6",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "今汐承担凿空的决策责任，守军交代密钥和最后嘱托。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "08:6",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "今汐承担凿空的决策责任，守军交代密钥和最后嘱托。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "峡谷突进时，鉴心主动留下断后。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "峡谷突进时，鉴心主动留下断后。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "峡谷突进时，鉴心主动留下断后。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "峡谷突进时，鉴心主动留下断后。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "在峡谷接受军医照料伤势。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "在峡谷接受军医照料伤势。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "在峡谷接受军医照料伤势。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "在峡谷接受军医照料伤势。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:3",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "最后一次炮击前，秧秧作出留下的选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:3",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "最后一次炮击前，秧秧作出留下的选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:3",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "最后一次炮击前，秧秧作出留下的选择。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:3",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "最后一次炮击前，秧秧作出留下的选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:4",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "无妄者战中，观察月亮核心的重组。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:4",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "无妄者战中，观察月亮核心的重组。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:4",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "无妄者战中，观察月亮核心的重组。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:4",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "无妄者战中，观察月亮核心的重组。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:5",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "兵刃与崩塌后确认鸣式逃离，没有永久消灭。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:5",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "兵刃与崩塌后确认鸣式逃离，没有永久消灭。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:5",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "兵刃与崩塌后确认鸣式逃离，没有永久消灭。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "09:5",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "兵刃与崩塌后确认鸣式逃离，没有永久消灭。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:1",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "今州守卫战结束，在茶馆听战后说书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:1",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "今州守卫战结束，在茶馆听战后说书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:1",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "今州守卫战结束，在茶馆听战后说书。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:1",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "今州守卫战结束，在茶馆听战后说书。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:2",
+      "version": "1.0",
+      "scenario": "未接取",
+      "input": "岳辉表达战后谢意，漂泊者以自己的名字回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:2",
+      "version": "1.0",
+      "scenario": "旧分幕",
+      "input": "岳辉表达战后谢意，漂泊者以自己的名字回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:2",
+      "version": "1.0",
+      "scenario": "正确分幕",
+      "input": "岳辉表达战后谢意，漂泊者以自己的名字回应。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "10:2",
+      "version": "1.0",
+      "scenario": "已暂停旧分幕",
+      "input": "岳辉表达战后谢意，漂泊者以自己的名字回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "在饭馆聊阿布的命名和载体关系。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "在饭馆聊阿布的命名和载体关系。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "在饭馆聊阿布的命名和载体关系。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在饭馆聊阿布的命名和载体关系。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "白芷讨论阿布能力未能复现，以及研究请求和行动自由。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "白芷讨论阿布能力未能复现，以及研究请求和行动自由。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "白芷讨论阿布能力未能复现，以及研究请求和行动自由。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "11:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "白芷讨论阿布能力未能复现，以及研究请求和行动自由。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "梦中看见乘霄山时差屏障，醒后听老人指路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "梦中看见乘霄山时差屏障，醒后听老人指路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "梦中看见乘霄山时差屏障，醒后听老人指路。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "梦中看见乘霄山时差屏障，醒后听老人指路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "散华说明今汐失联，转述最后通讯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "散华说明今汐失联，转述最后通讯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "散华说明今汐失联，转述最后通讯。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "散华说明今汐失联，转述最后通讯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "在渡口聊阿布消化频率与强行唤醒的危险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "在渡口聊阿布消化频率与强行唤醒的危险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "在渡口聊阿布消化频率与强行唤醒的危险。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "12:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在渡口聊阿布消化频率与强行唤醒的危险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "渡口与长离见面，她作为引路人告知入山风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "渡口与长离见面，她作为引路人告知入山风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "渡口与长离见面，她作为引路人告知入山风险。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "渡口与长离见面，她作为引路人告知入山风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "长离解释溯流仪来历，准备借溯流入山。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "长离解释溯流仪来历，准备借溯流入山。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "长离解释溯流仪来历，准备借溯流入山。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "长离解释溯流仪来历，准备借溯流入山。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "遭遇失控乱流，长离说寿命代偿与通讯中断。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "遭遇失控乱流，长离说寿命代偿与通讯中断。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "遭遇失控乱流，长离说寿命代偿与通讯中断。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "遭遇失控乱流，长离说寿命代偿与通讯中断。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:4",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "虹镇在望，长离介绍虹镇历史与梦境的引导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:4",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "虹镇在望，长离介绍虹镇历史与梦境的引导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:4",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "虹镇在望，长离介绍虹镇历史与梦境的引导。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "13:4",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "虹镇在望，长离介绍虹镇历史与梦境的引导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "在虹镇空镇循迹，看见今汐救援痕迹与透支。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "在虹镇空镇循迹，看见今汐救援痕迹与透支。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "在虹镇空镇循迹，看见今汐救援痕迹与透支。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在虹镇空镇循迹，看见今汐救援痕迹与透支。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "在瀑后避难所见辛夷，听她与长离旧识的对话。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "在瀑后避难所见辛夷，听她与长离旧识的对话。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "在瀑后避难所见辛夷，听她与长离旧识的对话。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "在瀑后避难所见辛夷，听她与长离旧识的对话。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "辛夷回述今汐救镇、心核与眠龙庭的钥匙。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "辛夷回述今汐救镇、心核与眠龙庭的钥匙。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "辛夷回述今汐救镇、心核与眠龙庭的钥匙。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "辛夷回述今汐救镇、心核与眠龙庭的钥匙。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:4",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "听说今汐自幼进入边庭，十几岁接任令尹的来处。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:4",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "听说今汐自幼进入边庭，十几岁接任令尹的来处。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:4",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "听说今汐自幼进入边庭，十几岁接任令尹的来处。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "14:4",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "听说今汐自幼进入边庭，十几岁接任令尹的来处。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "叩天关取钥时，查看曜岩曜纹和今汐接近超频的征兆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "叩天关取钥时，查看曜岩曜纹和今汐接近超频的征兆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "叩天关取钥时，查看曜岩曜纹和今汐接近超频的征兆。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "叩天关取钥时，查看曜岩曜纹和今汐接近超频的征兆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "查C-001缺频与C-002抑制记录，了解岁主的缺陷。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "查C-001缺频与C-002抑制记录，了解岁主的缺陷。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "查C-001缺频与C-002抑制记录，了解岁主的缺陷。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "查C-001缺频与C-002抑制记录，了解岁主的缺陷。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "阅读903次失败与931号回正1.29秒的实验记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "阅读903次失败与931号回正1.29秒的实验记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "阅读903次失败与931号回正1.29秒的实验记录。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "阅读903次失败与931号回正1.29秒的实验记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:4",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "会合今汐，长离以师臣身份劝她活下来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:4",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "会合今汐，长离以师臣身份劝她活下来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:4",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "会合今汐，长离以师臣身份劝她活下来。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:4",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "会合今汐，长离以师臣身份劝她活下来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:5",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "查关于那个孩子复生和个体回溯的通讯记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:5",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "查关于那个孩子复生和个体回溯的通讯记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:5",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "查关于那个孩子复生和个体回溯的通讯记录。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "15:5",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "查关于那个孩子复生和个体回溯的通讯记录。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "得到心核后，长离留下清路，说明引路而非干涉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "得到心核后，长离留下清路，说明引路而非干涉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "得到心核后，长离留下清路，说明引路而非干涉。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "得到心核后，长离留下清路，说明引路而非干涉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "回虹镇开路，俘虏交代改制溯流仪与曜纹断能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "回虹镇开路，俘虏交代改制溯流仪与曜纹断能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "回虹镇开路，俘虏交代改制溯流仪与曜纹断能。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "回虹镇开路，俘虏交代改制溯流仪与曜纹断能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "走到凝滞潭水旁，向岁主求证却听不到回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "走到凝滞潭水旁，向岁主求证却听不到回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "走到凝滞潭水旁，向岁主求证却听不到回应。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "16:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "走到凝滞潭水旁，向岁主求证却听不到回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "岁主以曜纹提示我们解除禁锢力场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "岁主以曜纹提示我们解除禁锢力场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "岁主以曜纹提示我们解除禁锢力场。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "岁主以曜纹提示我们解除禁锢力场。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "清理三处曜岩，寻找黑岩丛、蚀岩蝶和最后的撷光锁。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "清理三处曜岩，寻找黑岩丛、蚀岩蝶和最后的撷光锁。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "清理三处曜岩，寻找黑岩丛、蚀岩蝶和最后的撷光锁。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "清理三处曜岩，寻找黑岩丛、蚀岩蝶和最后的撷光锁。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "阅读稷廷奇人卷宗，今汐谈死婴复生和再造之恩，表示自愿应战。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "阅读稷廷奇人卷宗，今汐谈死婴复生和再造之恩，表示自愿应战。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "阅读稷廷奇人卷宗，今汐谈死婴复生和再造之恩，表示自愿应战。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "阅读稷廷奇人卷宗，今汐谈死婴复生和再造之恩，表示自愿应战。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:4",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "曜纹解除后，回到舱体。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:4",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "曜纹解除后，回到舱体。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:4",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "曜纹解除后，回到舱体。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "17:4",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "曜纹解除后，回到舱体。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "角称漂泊者为御者，提出暂停今州的方案和一成可能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "角称漂泊者为御者，提出暂停今州的方案和一成可能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "角称漂泊者为御者，提出暂停今州的方案和一成可能。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "角称漂泊者为御者，提出暂停今州的方案和一成可能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "今汐走出最后一子，谈预言之外的未来和旧日授任。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "今汐走出最后一子，谈预言之外的未来和旧日授任。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "今汐走出最后一子，谈预言之外的未来和旧日授任。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "今汐走出最后一子，谈预言之外的未来和旧日授任。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "站在声之领域门前，听今汐准备命定之战的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "站在声之领域门前，听今汐准备命定之战的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "站在声之领域门前，听今汐准备命定之战的回应。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "站在声之领域门前，听今汐准备命定之战的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:4",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "使用御者权限，请求让渡时序之能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:4",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "使用御者权限，请求让渡时序之能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:4",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "使用御者权限，请求让渡时序之能。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "18:4",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "使用御者权限，请求让渡时序之能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:1",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "时流回正后确认今汐安全，但虹镇人的代偿尚未消解。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:1",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "时流回正后确认今汐安全，但虹镇人的代偿尚未消解。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:1",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "时流回正后确认今汐安全，但虹镇人的代偿尚未消解。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:1",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "时流回正后确认今汐安全，但虹镇人的代偿尚未消解。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:2",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "向角询问御者身世、生死权限和黑海岸来处。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:2",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "向角询问御者身世、生死权限和黑海岸来处。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:2",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "向角询问御者身世、生死权限和黑海岸来处。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:2",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "向角询问御者身世、生死权限和黑海岸来处。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:3",
+      "version": "1.1",
+      "scenario": "未接取",
+      "input": "另一视角中，弗洛洛讨论二次共鸣与人工共鸣的判断。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:3",
+      "version": "1.1",
+      "scenario": "旧分幕",
+      "input": "另一视角中，弗洛洛讨论二次共鸣与人工共鸣的判断。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:3",
+      "version": "1.1",
+      "scenario": "正确分幕",
+      "input": "另一视角中，弗洛洛讨论二次共鸣与人工共鸣的判断。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "19:3",
+      "version": "1.1",
+      "scenario": "已暂停旧分幕",
+      "input": "另一视角中，弗洛洛讨论二次共鸣与人工共鸣的判断。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:1",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "在月树屋解析晓声的心愿纸条。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:1",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "在月树屋解析晓声的心愿纸条。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:1",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "在月树屋解析晓声的心愿纸条。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:1",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "在月树屋解析晓声的心愿纸条。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:2",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "晓声求助，讨论试作品49号故障和消失不能按字面执行。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:2",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "晓声求助，讨论试作品49号故障和消失不能按字面执行。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:2",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "晓声求助，讨论试作品49号故障和消失不能按字面执行。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:2",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "晓声求助，讨论试作品49号故障和消失不能按字面执行。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:3",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "寻找晓声时，十番回避提问，需要保护隐私。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:3",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "寻找晓声时，十番回避提问，需要保护隐私。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:3",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "寻找晓声时，十番回避提问，需要保护隐私。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:3",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "寻找晓声时，十番回避提问，需要保护隐私。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:4",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "九离来访，确认晓声身份、合照与手伤，查看纸背编码。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:4",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "九离来访，确认晓声身份、合照与手伤，查看纸背编码。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:4",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "九离来访，确认晓声身份、合照与手伤，查看纸背编码。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:4",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "九离来访，确认晓声身份、合照与手伤，查看纸背编码。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:5",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "十番向九离坦白，大家当面把误解说开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:5",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "十番向九离坦白，大家当面把误解说开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:5",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "十番向九离坦白，大家当面把误解说开。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:5",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "十番向九离坦白，大家当面把误解说开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:6",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "排除第一封异常心愿后，愿望转向并继续筹备。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:6",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "排除第一封异常心愿后，愿望转向并继续筹备。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:6",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "排除第一封异常心愿后，愿望转向并继续筹备。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "20:6",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "排除第一封异常心愿后，愿望转向并继续筹备。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:1",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "读出禾盈的心愿纸条全文。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:1",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "读出禾盈的心愿纸条全文。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:1",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "读出禾盈的心愿纸条全文。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:1",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "读出禾盈的心愿纸条全文。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:2",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "听禾盈讲修远与约定，不替老人选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:2",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "听禾盈讲修远与约定，不替老人选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:2",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "听禾盈讲修远与约定，不替老人选择。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:2",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "听禾盈讲修远与约定，不替老人选择。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:3",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "走进宵月会看折枝画扇，听夜归守护的故事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:3",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "走进宵月会看折枝画扇，听夜归守护的故事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:3",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "走进宵月会看折枝画扇，听夜归守护的故事。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:3",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "走进宵月会看折枝画扇，听夜归守护的故事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:4",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "查看修远留下的工具与手艺教导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:4",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "查看修远留下的工具与手艺教导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:4",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "查看修远留下的工具与手艺教导。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:4",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "查看修远留下的工具与手艺教导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:5",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "禾盈决定自己再走走看看。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:5",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "禾盈决定自己再走走看看。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:5",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "禾盈决定自己再走走看看。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "21:5",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "禾盈决定自己再走走看看。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:1",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "解码小满的心愿纸条全文。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:1",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "解码小满的心愿纸条全文。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:1",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "解码小满的心愿纸条全文。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:1",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "解码小满的心愿纸条全文。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:2",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "从孩子争论中找秘密基地，处理机器人过热。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:2",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "从孩子争论中找秘密基地，处理机器人过热。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:2",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "从孩子争论中找秘密基地，处理机器人过热。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:2",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "从孩子争论中找秘密基地，处理机器人过热。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:3",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "小满模仿练功遇险，对觉醒共鸣力量产生误解。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:3",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "小满模仿练功遇险，对觉醒共鸣力量产生误解。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:3",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "小满模仿练功遇险，对觉醒共鸣力量产生误解。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:3",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "小满模仿练功遇险，对觉醒共鸣力量产生误解。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:4",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "和小满谈英雄不是只靠力量，并询问拍摄许可。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:4",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "和小满谈英雄不是只靠力量，并询问拍摄许可。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:4",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "和小满谈英雄不是只靠力量，并询问拍摄许可。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:4",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "和小满谈英雄不是只靠力量，并询问拍摄许可。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:5",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "小满约定宵月会再见。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:5",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "小满约定宵月会再见。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:5",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "小满约定宵月会再见。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "22:5",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "小满约定宵月会再见。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:1",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "相里要发来节前邀约，并讨论小帕索诺拉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:1",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "相里要发来节前邀约，并讨论小帕索诺拉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:1",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "相里要发来节前邀约，并讨论小帕索诺拉。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:1",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "相里要发来节前邀约，并讨论小帕索诺拉。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:2",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "阅读相里要父亲的童年日记与科普访谈，查看月树屋机关。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:2",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "阅读相里要父亲的童年日记与科普访谈，查看月树屋机关。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:2",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "阅读相里要父亲的童年日记与科普访谈，查看月树屋机关。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:2",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "阅读相里要父亲的童年日记与科普访谈，查看月树屋机关。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:3",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "看帕斯卡研究日志，测量常数变化导致理论失效，团队退出。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:3",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "看帕斯卡研究日志，测量常数变化导致理论失效，团队退出。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:3",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "看帕斯卡研究日志，测量常数变化导致理论失效，团队退出。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:3",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "看帕斯卡研究日志，测量常数变化导致理论失效，团队退出。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:4",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "打破偏执合集，读取帕斯卡最后实验留言和频谱传承说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:4",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "打破偏执合集，读取帕斯卡最后实验留言和频谱传承说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:4",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "打破偏执合集，读取帕斯卡最后实验留言和频谱传承说明。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:4",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "打破偏执合集，读取帕斯卡最后实验留言和频谱传承说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:5",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "回到活人的节日，十番九离重启研究，闻语送来修远教过的点心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:5",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "回到活人的节日，十番九离重启研究，闻语送来修远教过的点心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:5",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "回到活人的节日，十番九离重启研究，闻语送来修远教过的点心。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:5",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "回到活人的节日，十番九离重启研究，闻语送来修远教过的点心。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:6",
+      "version": "1.2",
+      "scenario": "未接取",
+      "input": "相里要封存小帕，交付相机谢礼，约在宵月会龙灯下延时合影。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:6",
+      "version": "1.2",
+      "scenario": "旧分幕",
+      "input": "相里要封存小帕，交付相机谢礼，约在宵月会龙灯下延时合影。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:6",
+      "version": "1.2",
+      "scenario": "正确分幕",
+      "input": "相里要封存小帕，交付相机谢礼，约在宵月会龙灯下延时合影。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "23:6",
+      "version": "1.2",
+      "scenario": "已暂停旧分幕",
+      "input": "相里要封存小帕，交付相机谢礼，约在宵月会龙灯下延时合影。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:1",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "妮娅委托调查归墟异常引力频率并提出安全要求。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:1",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "妮娅委托调查归墟异常引力频率并提出安全要求。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:1",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "妮娅委托调查归墟异常引力频率并提出安全要求。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:1",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "妮娅委托调查归墟异常引力频率并提出安全要求。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:2",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "在归墟看市民残响与异常残象，听毁灭的残响。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:2",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "在归墟看市民残响与异常残象，听毁灭的残响。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:2",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "在归墟看市民残响与异常残象，听毁灭的残响。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:2",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "在归墟看市民残响与异常残象，听毁灭的残响。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:3",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "霍德欢迎漂泊者，却给出相互冲突的警告和HL-1道具说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:3",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "霍德欢迎漂泊者，却给出相互冲突的警告和HL-1道具说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:3",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "霍德欢迎漂泊者，却给出相互冲突的警告和HL-1道具说明。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:3",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "霍德欢迎漂泊者，却给出相互冲突的警告和HL-1道具说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:4",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "桥下发生异变，听见接引的声音。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:4",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "桥下发生异变，听见接引的声音。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:4",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "桥下发生异变，听见接引的声音。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "24:4",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "桥下发生异变，听见接引的声音。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:1",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "到黑海岸后秋水辨认HL-1，解释分别传送、黑石干扰与信标报平安。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:1",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "到黑海岸后秋水辨认HL-1，解释分别传送、黑石干扰与信标报平安。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:1",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "到黑海岸后秋水辨认HL-1，解释分别传送、黑石干扰与信标报平安。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:1",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "到黑海岸后秋水辨认HL-1，解释分别传送、黑石干扰与信标报平安。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:2",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "在花房和守岸人弹调律钢琴，看到旧日影像与稳定锚失稳。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:2",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "在花房和守岸人弹调律钢琴，看到旧日影像与稳定锚失稳。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:2",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "在花房和守岸人弹调律钢琴，看到旧日影像与稳定锚失稳。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:2",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "在花房和守岸人弹调律钢琴，看到旧日影像与稳定锚失稳。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:3",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "在新枝地修锚，确认一次性密钥和授权距离。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:3",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "在新枝地修锚，确认一次性密钥和授权距离。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:3",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "在新枝地修锚，确认一次性密钥和授权距离。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:3",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "在新枝地修锚，确认一次性密钥和授权距离。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:4",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "查到霍德已死，追问噬亡星里的亡者为何归来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:4",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "查到霍德已死，追问噬亡星里的亡者为何归来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:4",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "查到霍德已死，追问噬亡星里的亡者为何归来。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:4",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "查到霍德已死，追问噬亡星里的亡者为何归来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:5",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "与守岸人正式相认，确认建立者身份，秋水留在地上。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:5",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "与守岸人正式相认，确认建立者身份，秋水留在地上。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:5",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "与守岸人正式相认，确认建立者身份，秋水留在地上。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "25:5",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "与守岸人正式相认，确认建立者身份，秋水留在地上。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:1",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "进入金枝地植物库，看到椿72973号记录，再找库娜娜使用传送与电梯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:1",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "进入金枝地植物库，看到椿72973号记录，再找库娜娜使用传送与电梯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:1",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "进入金枝地植物库，看到椿72973号记录，再找库娜娜使用传送与电梯。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:1",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "进入金枝地植物库，看到椿72973号记录，再找库娜娜使用传送与电梯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:2",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "地下救援时听贝阿朵莉特说收容员牺牲，库摇摇强制链接。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:2",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "地下救援时听贝阿朵莉特说收容员牺牲，库摇摇强制链接。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:2",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "地下救援时听贝阿朵莉特说收容员牺牲，库摇摇强制链接。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:2",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "地下救援时听贝阿朵莉特说收容员牺牲，库摇摇强制链接。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:3",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "接触噬亡星奇点核心，讨论阿布频率与吞噬风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:3",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "接触噬亡星奇点核心，讨论阿布频率与吞噬风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:3",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "接触噬亡星奇点核心，讨论阿布频率与吞噬风险。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:3",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "接触噬亡星奇点核心，讨论阿布频率与吞噬风险。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:4",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "在艾多斯之镜前看守岸人沉睡本体，听她承载悲鸣的说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:4",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "在艾多斯之镜前看守岸人沉睡本体，听她承载悲鸣的说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:4",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "在艾多斯之镜前看守岸人沉睡本体，听她承载悲鸣的说明。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:4",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "在艾多斯之镜前看守岸人沉睡本体，听她承载悲鸣的说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:5",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "准备进入调律大厅，听赴大厅前的提醒。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:5",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "准备进入调律大厅，听赴大厅前的提醒。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:5",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "准备进入调律大厅，听赴大厅前的提醒。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "26:5",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "准备进入调律大厅，听赴大厅前的提醒。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:1",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "调律星图，重定向到归墟港市毁灭前一小时，并看信息触板指路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:1",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "调律星图，重定向到归墟港市毁灭前一小时，并看信息触板指路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:1",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "调律星图，重定向到归墟港市毁灭前一小时，并看信息触板指路。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:1",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "调律星图，重定向到归墟港市毁灭前一小时，并看信息触板指路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:2",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "在茶餐厅尝苦味，随后到毁灭前十分钟听霍德救援孩子。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:2",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "在茶餐厅尝苦味，随后到毁灭前十分钟听霍德救援孩子。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:2",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "在茶餐厅尝苦味，随后到毁灭前十分钟听霍德救援孩子。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:2",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "在茶餐厅尝苦味，随后到毁灭前十分钟听霍德救援孩子。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:3",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "霍德质问黑洞、观测与引力，出现母亲与孩子的遥远回忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:3",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "霍德质问黑洞、观测与引力，出现母亲与孩子的遥远回忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:3",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "霍德质问黑洞、观测与引力，出现母亲与孩子的遥远回忆。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:3",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "霍德质问黑洞、观测与引力，出现母亲与孩子的遥远回忆。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:4",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "守岸人解释最高权限策略与情感核心代价，在群星海岸告别。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:4",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "守岸人解释最高权限策略与情感核心代价，在群星海岸告别。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:4",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "守岸人解释最高权限策略与情感核心代价，在群星海岸告别。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:4",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "守岸人解释最高权限策略与情感核心代价，在群星海岸告别。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:5",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "读取K626号决议，凭黑花最高修改权限定位事件视界并救援管理员。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:5",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "读取K626号决议，凭黑花最高修改权限定位事件视界并救援管理员。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:5",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "读取K626号决议，凭黑花最高修改权限定位事件视界并救援管理员。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:5",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "读取K626号决议，凭黑花最高修改权限定位事件视界并救援管理员。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:6",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "最高管理员与群星调律者重新发声，发表广播。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:6",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "最高管理员与群星调律者重新发声，发表广播。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:6",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "最高管理员与群星调律者重新发声，发表广播。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "27:6",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "最高管理员与群星调律者重新发声，发表广播。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:1",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "领航员准备进入系统，与泰缇斯争论文明、个体和情感。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:1",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "领航员准备进入系统，与泰缇斯争论文明、个体和情感。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:1",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "领航员准备进入系统，与泰缇斯争论文明、个体和情感。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:1",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "领航员准备进入系统，与泰缇斯争论文明、个体和情感。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:2",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "毁灭未来的防线中，守岸人在冰封焚毁里保护漂泊者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:2",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "毁灭未来的防线中，守岸人在冰封焚毁里保护漂泊者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:2",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "毁灭未来的防线中，守岸人在冰封焚毁里保护漂泊者。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:2",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "毁灭未来的防线中，守岸人在冰封焚毁里保护漂泊者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:3",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "制压无归谬误时提出第三方案，面对格式化与熟悉的旋律。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:3",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "制压无归谬误时提出第三方案，面对格式化与熟悉的旋律。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:3",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "制压无归谬误时提出第三方案，面对格式化与熟悉的旋律。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:3",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "制压无归谬误时提出第三方案，面对格式化与熟悉的旋律。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:4",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "在沙滩与守岸人重逢，听莫比乌斯环与回家的解释。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:4",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "在沙滩与守岸人重逢，听莫比乌斯环与回家的解释。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:4",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "在沙滩与守岸人重逢，听莫比乌斯环与回家的解释。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "28:4",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "在沙滩与守岸人重逢，听莫比乌斯环与回家的解释。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "29:2",
+      "version": "1.3",
+      "scenario": "未接取",
+      "input": "危机后聊阿布异常，确认替代频率与未来同行。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "29:2",
+      "version": "1.3",
+      "scenario": "旧分幕",
+      "input": "危机后聊阿布异常，确认替代频率与未来同行。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "29:2",
+      "version": "1.3",
+      "scenario": "正确分幕",
+      "input": "危机后聊阿布异常，确认替代频率与未来同行。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "29:2",
+      "version": "1.3",
+      "scenario": "已暂停旧分幕",
+      "input": "危机后聊阿布异常，确认替代频率与未来同行。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    }
+  ]
+}

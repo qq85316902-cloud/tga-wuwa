@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "reference_outline_entries": 94,
+  "reference_sha256": "32d7c7b0911a2920187ca6e248bc7356b1d89bb74705482859a5597c96873ed6",
+  "changed_worldbook_entries": [
+    739,
+    740,
+    741,
+    742
+  ],
+  "card_entries": 1072,
+  "new_main_groups": [
+    "M35-唯你的长夏永不凋落",
+    "M36-璇心如月寄尘情"
+  ],
+  "main_groups": 35,
+  "main_parts": 93,
+  "new_events": 15,
+  "supplement_items": 8,
+  "old_save_keys_and_group_order_preserved": true,
+  "old_184_scene_index_identical": true,
+  "old_90_main_quote_sequences_identical": true,
+  "all_existing_evidence_rows_preserved": 36962,
+  "frontend_openings_maps_confirmation_regexes_identical": true,
+  "schema_only_registry_constants_changed": true,
+  "png_image_unchanged": true,
+  "png_crc_valid": true,
+  "png_json_equal": true,
+  "controller_scenarios": 1038,
+  "receipt_scenarios": 536,
+  "sync_mock_scenarios": 34,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.8",
+    "payload": "solaris-content-c37c7a7705f6000e.json",
+    "sha256": "c37c7a7705f6000e4944270facb6ca87fae21898d92cbfab4d13dc522f78a85a",
+    "bytes": 6572710,
+    "entry_count": 333,
+    "published_at": "2026-10-26T02:17:33.075072+00:00"
+  },
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "committed": false
+}

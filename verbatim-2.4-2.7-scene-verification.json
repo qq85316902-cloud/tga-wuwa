@@ -1,0 +1,2833 @@
+{
+  "passed": true,
+  "scenarios": 1785,
+  "versions": {
+    "2.4": {
+      "parts": 3,
+      "scenes": 17,
+      "quote_rows": 1043,
+      "previous_missing_scenarios": 51
+    },
+    "2.5": {
+      "parts": 8,
+      "scenes": 29,
+      "quote_rows": 1631,
+      "previous_missing_scenarios": 87
+    },
+    "2.6": {
+      "parts": 3,
+      "scenes": 18,
+      "quote_rows": 1972,
+      "previous_missing_scenarios": 54
+    },
+    "2.7": {
+      "parts": 3,
+      "scenes": 23,
+      "quote_rows": 2529,
+      "previous_missing_scenarios": 69
+    }
+  },
+  "added_routes": 87,
+  "total_routes": 271,
+  "earlier_routes_regression": 184,
+  "independent_natural_variants": 72,
+  "previous_independent_natural_variants": 67,
+  "main_parts_checked": 93,
+  "companion_tasks_checked": 10,
+  "readonly_game_state_unchanged": true,
+  "unique_scene_only": true,
+  "ambiguity_stops": true,
+  "departures_and_new_scene_replace_history": true,
+  "main_normal_prompt_identical": true,
+  "other_world_prompt_identical": true,
+  "companion_prompt_identical": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false,
+  "results": [
+    {
+      "id": "37:1",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "高塔失联后问守岸人七丘情报，追踪卡提希娅的实验装置线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:1",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "高塔失联后问守岸人七丘情报，追踪卡提希娅的实验装置线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:1",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "高塔失联后问守岸人七丘情报，追踪卡提希娅的实验装置线索。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:1",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "高塔失联后问守岸人七丘情报，追踪卡提希娅的实验装置线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:2",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "七丘入境遇卜灵与鉴心，听破局之人与亚狮诺索的传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:2",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "七丘入境遇卜灵与鉴心，听破局之人与亚狮诺索的传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:2",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "七丘入境遇卜灵与鉴心，听破局之人与亚狮诺索的传说。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:2",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "七丘入境遇卜灵与鉴心，听破局之人与亚狮诺索的传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:3",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "露帕提出组队邀请，去战队登记，了解二对二赛制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:3",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "露帕提出组队邀请，去战队登记，了解二对二赛制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:3",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "露帕提出组队邀请，去战队登记，了解二对二赛制。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:3",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "露帕提出组队邀请，去战队登记，了解二对二赛制。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:4",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "卡图尔因露帕放出消息作规则警告，追问假赛证据与旧冠军姓名。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:4",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "卡图尔因露帕放出消息作规则警告，追问假赛证据与旧冠军姓名。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:4",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "卡图尔因露帕放出消息作规则警告，追问假赛证据与旧冠军姓名。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:4",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "卡图尔因露帕放出消息作规则警告，追问假赛证据与旧冠军姓名。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:5",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "在特库斯像附近水域寻人，听流浪骑士救助无名之人的旧事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:5",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "在特库斯像附近水域寻人，听流浪骑士救助无名之人的旧事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:5",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "在特库斯像附近水域寻人，听流浪骑士救助无名之人的旧事。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "37:5",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "在特库斯像附近水域寻人，听流浪骑士救助无名之人的旧事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:1",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "露帕说起终身套房与天赋忧惧，寻找饮心缺货和蜜芽录像的线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:1",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "露帕说起终身套房与天赋忧惧，寻找饮心缺货和蜜芽录像的线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:1",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "露帕说起终身套房与天赋忧惧，寻找饮心缺货和蜜芽录像的线索。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:1",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "露帕说起终身套房与天赋忧惧，寻找饮心缺货和蜜芽录像的线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:2",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "弗洛洛交付剧本，说明三日期限和诱导条件。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:2",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "弗洛洛交付剧本，说明三日期限和诱导条件。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:2",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "弗洛洛交付剧本，说明三日期限和诱导条件。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:2",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "弗洛洛交付剧本，说明三日期限和诱导条件。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:3",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "半决赛对繁枝时枪失控，听尤诺判罪永久放逐和卡图尔提出一年合约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:3",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "半决赛对繁枝时枪失控，听尤诺判罪永久放逐和卡图尔提出一年合约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:3",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "半决赛对繁枝时枪失控，听尤诺判罪永久放逐和卡图尔提出一年合约。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:3",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "半决赛对繁枝时枪失控，听尤诺判罪永久放逐和卡图尔提出一年合约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:4",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "卜灵赠铜镜，镜中看见教练和琼恩的谈话、蜜芽独白。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:4",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "卜灵赠铜镜，镜中看见教练和琼恩的谈话、蜜芽独白。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:4",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "卜灵赠铜镜，镜中看见教练和琼恩的谈话、蜜芽独白。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:4",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "卜灵赠铜镜，镜中看见教练和琼恩的谈话、蜜芽独白。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:5",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "血色决赛对兽之心，发现夺冠记忆差异，勋章一分为二。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:5",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "血色决赛对兽之心，发现夺冠记忆差异，勋章一分为二。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:5",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "血色决赛对兽之心，发现夺冠记忆差异，勋章一分为二。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:5",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "血色决赛对兽之心，发现夺冠记忆差异，勋章一分为二。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:6",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "克里斯托弗现形讲集体谋杀，卡提希娅反驳他的说法。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:6",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "克里斯托弗现形讲集体谋杀，卡提希娅反驳他的说法。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:6",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "克里斯托弗现形讲集体谋杀，卡提希娅反驳他的说法。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "38:6",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "克里斯托弗现形讲集体谋杀，卡提希娅反驳他的说法。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:1",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "荣耀之间仪式调查英雄遗物，特库斯旧剑留下中枢频率线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:1",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "荣耀之间仪式调查英雄遗物，特库斯旧剑留下中枢频率线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:1",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "荣耀之间仪式调查英雄遗物，特库斯旧剑留下中枢频率线索。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:1",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "荣耀之间仪式调查英雄遗物，特库斯旧剑留下中枢频率线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:2",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "露帕的角色被夺后驱逐鸣式，纸页叠合，按巡偶提示前往钟楼水道切断供能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:2",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "露帕的角色被夺后驱逐鸣式，纸页叠合，按巡偶提示前往钟楼水道切断供能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:2",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "露帕的角色被夺后驱逐鸣式，纸页叠合，按巡偶提示前往钟楼水道切断供能。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:2",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "露帕的角色被夺后驱逐鸣式，纸页叠合，按巡偶提示前往钟楼水道切断供能。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:3",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "铜镜记录尤利娅的实验核心、失败容器和鸣式碎片，蜜芽留下血叶荚蒾。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:3",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "铜镜记录尤利娅的实验核心、失败容器和鸣式碎片，蜜芽留下血叶荚蒾。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:3",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "铜镜记录尤利娅的实验核心、失败容器和鸣式碎片，蜜芽留下血叶荚蒾。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:3",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "铜镜记录尤利娅的实验核心、失败容器和鸣式碎片，蜜芽留下血叶荚蒾。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:4",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "露帕拒绝被定义，谈天赋与品性、人类女儿，面对海之女决战。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:4",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "露帕拒绝被定义，谈天赋与品性、人类女儿，面对海之女决战。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:4",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "露帕拒绝被定义，谈天赋与品性、人类女儿，面对海之女决战。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:4",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "露帕拒绝被定义，谈天赋与品性、人类女儿，面对海之女决战。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:5",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "卡提希娅解释阿布被隔绝与两位会监未交手，露帕补齐多轮经历，交还剧本铜镜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:5",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "卡提希娅解释阿布被隔绝与两位会监未交手，露帕补齐多轮经历，交还剧本铜镜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:5",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "卡提希娅解释阿布被隔绝与两位会监未交手，露帕补齐多轮经历，交还剧本铜镜。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:5",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "卡提希娅解释阿布被隔绝与两位会监未交手，露帕补齐多轮经历，交还剧本铜镜。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:6",
+      "version": "2.4",
+      "scenario": "未接取",
+      "input": "在岩间中枢追问英白拉多遗忘的指引，安放蜜芽遗剑与胜利之花。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:6",
+      "version": "2.4",
+      "scenario": "旧分幕",
+      "input": "在岩间中枢追问英白拉多遗忘的指引，安放蜜芽遗剑与胜利之花。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:6",
+      "version": "2.4",
+      "scenario": "正确分幕",
+      "input": "在岩间中枢追问英白拉多遗忘的指引，安放蜜芽遗剑与胜利之花。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "39:6",
+      "version": "2.4",
+      "scenario": "已暂停旧分幕",
+      "input": "在岩间中枢追问英白拉多遗忘的指引，安放蜜芽遗剑与胜利之花。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "赛后新报中守岸人说明黑海岸检测结论，落实海底坐标和备船。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "赛后新报中守岸人说明黑海岸检测结论，落实海底坐标和备船。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "赛后新报中守岸人说明黑海岸检测结论，落实海底坐标和备船。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "赛后新报中守岸人说明黑海岸检测结论，落实海底坐标和备船。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "独自出海向海底追查，听芬莱克的归一主张与残星会分歧。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "独自出海向海底追查，听芬莱克的归一主张与残星会分歧。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "独自出海向海底追查，听芬莱克的归一主张与残星会分歧。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "40:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "独自出海向海底追查，听芬莱克的归一主张与残星会分歧。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "海底宝石前弗洛洛提出临时合作条件，商量封门与宝石归属。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "海底宝石前弗洛洛提出临时合作条件，商量封门与宝石归属。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "海底宝石前弗洛洛提出临时合作条件，商量封门与宝石归属。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "海底宝石前弗洛洛提出临时合作条件，商量封门与宝石归属。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "弗洛洛说明调律改变本质，门不能硬推，残星会同僚也成为追兵。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "弗洛洛说明调律改变本质，门不能硬推，残星会同僚也成为追兵。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "弗洛洛说明调律改变本质，门不能硬推，残星会同僚也成为追兵。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "弗洛洛说明调律改变本质，门不能硬推，残星会同僚也成为追兵。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "听丽亚与埃斯克勒斯反复请求，讨论伤势与执念。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "听丽亚与埃斯克勒斯反复请求，讨论伤势与执念。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "听丽亚与埃斯克勒斯反复请求，讨论伤势与执念。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "听丽亚与埃斯克勒斯反复请求，讨论伤势与执念。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:4",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "恢复核心调律前先清障，对付改造的修会声骸核心守卫。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:4",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "恢复核心调律前先清障，对付改造的修会声骸核心守卫。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:4",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "恢复核心调律前先清障，对付改造的修会声骸核心守卫。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "41:4",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "恢复核心调律前先清障，对付改造的修会声骸核心守卫。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "制造场的声骸培育舱传来故人呼救，沿轨道提醒穿过迷雾路线。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "制造场的声骸培育舱传来故人呼救，沿轨道提醒穿过迷雾路线。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "制造场的声骸培育舱传来故人呼救，沿轨道提醒穿过迷雾路线。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "制造场的声骸培育舱传来故人呼救，沿轨道提醒穿过迷雾路线。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "故乡亲友纠缠中，特莉丝知道自己已经遇难，听她对死亡的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "故乡亲友纠缠中，特莉丝知道自己已经遇难，听她对死亡的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "故乡亲友纠缠中，特莉丝知道自己已经遇难，听她对死亡的回应。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "故乡亲友纠缠中，特莉丝知道自己已经遇难，听她对死亡的回应。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "恢复一章后读芬莱克命令矛盾的录音，讨论承诺与久远。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "恢复一章后读芬莱克命令矛盾的录音，讨论承诺与久远。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "恢复一章后读芬莱克命令矛盾的录音，讨论承诺与久远。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "42:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "恢复一章后读芬莱克命令矛盾的录音，讨论承诺与久远。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "弗洛洛谈能源介质、伤势恢复和彼岸动荡，同盟倒计时开始。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "弗洛洛谈能源介质、伤势恢复和彼岸动荡，同盟倒计时开始。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "弗洛洛谈能源介质、伤势恢复和彼岸动荡，同盟倒计时开始。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "弗洛洛谈能源介质、伤势恢复和彼岸动荡，同盟倒计时开始。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "检查谱架缺两段曲谱，听核心乐曲的用途与错放曲谱说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "检查谱架缺两段曲谱，听核心乐曲的用途与错放曲谱说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "检查谱架缺两段曲谱，听核心乐曲的用途与错放曲谱说明。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "检查谱架缺两段曲谱，听核心乐曲的用途与错放曲谱说明。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "深入培育舱下层，对年幼声骸的判断失误需要处理。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "深入培育舱下层，对年幼声骸的判断失误需要处理。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "深入培育舱下层，对年幼声骸的判断失误需要处理。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "43:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "深入培育舱下层，对年幼声骸的判断失误需要处理。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "分头找谱前确认分路约定，弗洛洛说明猩红指挥棒，阿布帮忙隔岸清路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "分头找谱前确认分路约定，弗洛洛说明猩红指挥棒，阿布帮忙隔岸清路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "分头找谱前确认分路约定，弗洛洛说明猩红指挥棒，阿布帮忙隔岸清路。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "分头找谱前确认分路约定，弗洛洛说明猩红指挥棒，阿布帮忙隔岸清路。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "读人工索诺拉、溯洄雨、黑潮三项研究记录，阿布察觉弗洛洛频率异常。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "读人工索诺拉、溯洄雨、黑潮三项研究记录，阿布察觉弗洛洛频率异常。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "读人工索诺拉、溯洄雨、黑潮三项研究记录，阿布察觉弗洛洛频率异常。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "读人工索诺拉、溯洄雨、黑潮三项研究记录，阿布察觉弗洛洛频率异常。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "另一侧借特莉丝容貌现身的会长用旧承诺诱哄，故人催促。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "另一侧借特莉丝容貌现身的会长用旧承诺诱哄，故人催促。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "另一侧借特莉丝容貌现身的会长用旧承诺诱哄，故人催促。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "另一侧借特莉丝容貌现身的会长用旧承诺诱哄，故人催促。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:4",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "合谱反制时发现曲谱绑陷阱，归还指挥棒并转交全部曲谱，处理输能管道。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:4",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "合谱反制时发现曲谱绑陷阱，归还指挥棒并转交全部曲谱，处理输能管道。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:4",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "合谱反制时发现曲谱绑陷阱，归还指挥棒并转交全部曲谱，处理输能管道。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "44:4",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "合谱反制时发现曲谱绑陷阱，归还指挥棒并转交全部曲谱，处理输能管道。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "读朝拜之书，按跪下朝拜站起步骤伪装，查看提灯影像与台上刻字，从红门离开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "读朝拜之书，按跪下朝拜站起步骤伪装，查看提灯影像与台上刻字，从红门离开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "读朝拜之书，按跪下朝拜站起步骤伪装，查看提灯影像与台上刻字，从红门离开。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "读朝拜之书，按跪下朝拜站起步骤伪装，查看提灯影像与台上刻字，从红门离开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "失亡彼岸的故乡送行中，查看母亲礼裙、小提琴与知音缺席的失败研究笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "失亡彼岸的故乡送行中，查看母亲礼裙、小提琴与知音缺席的失败研究笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "失亡彼岸的故乡送行中，查看母亲礼裙、小提琴与知音缺席的失败研究笔记。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "失亡彼岸的故乡送行中，查看母亲礼裙、小提琴与知音缺席的失败研究笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "看到故人变成混乱残象的迹象，确认并非真正复生。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "看到故人变成混乱残象的迹象，确认并非真正复生。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "看到故人变成混乱残象的迹象，确认并非真正复生。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "看到故人变成混乱残象的迹象，确认并非真正复生。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:4",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "门后旧事中查七丘实验、狂欢节名单及今州伤痕的分工，了解弗洛洛与芬莱克过去互相利用。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:4",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "门后旧事中查七丘实验、狂欢节名单及今州伤痕的分工，了解弗洛洛与芬莱克过去互相利用。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:4",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "门后旧事中查七丘实验、狂欢节名单及今州伤痕的分工，了解弗洛洛与芬莱克过去互相利用。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:4",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "门后旧事中查七丘实验、狂欢节名单及今州伤痕的分工，了解弗洛洛与芬莱克过去互相利用。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:5",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "音乐会相见时听弗洛洛知音对谈，识破变调与忠实听众的诱导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:5",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "音乐会相见时听弗洛洛知音对谈，识破变调与忠实听众的诱导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:5",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "音乐会相见时听弗洛洛知音对谈，识破变调与忠实听众的诱导。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "45:5",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "音乐会相见时听弗洛洛知音对谈，识破变调与忠实听众的诱导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "代行者现形后芬莱克提出最后请求，说明留守封潮与七丘天国线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "代行者现形后芬莱克提出最后请求，说明留守封潮与七丘天国线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "代行者现形后芬莱克提出最后请求，说明留守封潮与七丘天国线索。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "代行者现形后芬莱克提出最后请求，说明留守封潮与七丘天国线索。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "弗洛洛争辩生命与残响、永恒复原，阿布被送走，旧同盟终结后宝石被取。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "弗洛洛争辩生命与残响、永恒复原，阿布被送走，旧同盟终结后宝石被取。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "弗洛洛争辩生命与残响、永恒复原，阿布被送走，旧同盟终结后宝石被取。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "弗洛洛争辩生命与残响、永恒复原，阿布被送走，旧同盟终结后宝石被取。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "再入彼岸与彼尔谈回到现实的可能，查看唱片、座椅和最后研究方向笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "再入彼岸与彼尔谈回到现实的可能，查看唱片、座椅和最后研究方向笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "再入彼岸与彼尔谈回到现实的可能，查看唱片、座椅和最后研究方向笔记。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "46:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "再入彼岸与彼尔谈回到现实的可能，查看唱片、座椅和最后研究方向笔记。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:1",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "等待总督安排时听涅索自我介绍与叙诗，追问推迟会面。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:1",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "等待总督安排时听涅索自我介绍与叙诗，追问推迟会面。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:1",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "等待总督安排时听涅索自我介绍与叙诗，追问推迟会面。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:1",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "等待总督安排时听涅索自我介绍与叙诗，追问推迟会面。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:2",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "卡托的入门考验到第五日，赠剑并重获真名，交代地下竞技场的三道试炼。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:2",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "卡托的入门考验到第五日，赠剑并重获真名，交代地下竞技场的三道试炼。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:2",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "卡托的入门考验到第五日，赠剑并重获真名，交代地下竞技场的三道试炼。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:2",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "卡托的入门考验到第五日，赠剑并重获真名，交代地下竞技场的三道试炼。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:3",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "第二试炼的一百条命其实是一百把剑，经历维克多拒贿契约与亚里德尔陷阱。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:3",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "第二试炼的一百条命其实是一百把剑，经历维克多拒贿契约与亚里德尔陷阱。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:3",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "第二试炼的一百条命其实是一百把剑，经历维克多拒贿契约与亚里德尔陷阱。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:3",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "第二试炼的一百条命其实是一百把剑，经历维克多拒贿契约与亚里德尔陷阱。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:4",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "卡托临行嘱咐后熔铸百剑，狮像认可而破例直接加冕。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:4",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "卡托临行嘱咐后熔铸百剑，狮像认可而破例直接加冕。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:4",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "卡托临行嘱咐后熔铸百剑，狮像认可而破例直接加冕。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:4",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "卡托临行嘱咐后熔铸百剑，狮像认可而破例直接加冕。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:5",
+      "version": "2.5",
+      "scenario": "未接取",
+      "input": "追问王之根本与诗歌非完整史实，奥古斯塔谈不完整预言，和尤诺共赴风暴。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:5",
+      "version": "2.5",
+      "scenario": "旧分幕",
+      "input": "追问王之根本与诗歌非完整史实，奥古斯塔谈不完整预言，和尤诺共赴风暴。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:5",
+      "version": "2.5",
+      "scenario": "正确分幕",
+      "input": "追问王之根本与诗歌非完整史实，奥古斯塔谈不完整预言，和尤诺共赴风暴。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "47:5",
+      "version": "2.5",
+      "scenario": "已暂停旧分幕",
+      "input": "追问王之根本与诗歌非完整史实，奥古斯塔谈不完整预言，和尤诺共赴风暴。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:1",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "德米安交信，总督正式邀猎，在风潮崖会合并认识阿维狄亚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:1",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "德米安交信，总督正式邀猎，在风潮崖会合并认识阿维狄亚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:1",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "德米安交信，总督正式邀猎，在风潮崖会合并认识阿维狄亚。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:1",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "德米安交信，总督正式邀猎，在风潮崖会合并认识阿维狄亚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:2",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "在四方殿看壁画空缺，听莉莉贝谈不可知的空白与预言分歧。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:2",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "在四方殿看壁画空缺，听莉莉贝谈不可知的空白与预言分歧。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:2",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "在四方殿看壁画空缺，听莉莉贝谈不可知的空白与预言分歧。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:2",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "在四方殿看壁画空缺，听莉莉贝谈不可知的空白与预言分歧。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:3",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "尤诺说明定向锚三点猎网，在往世花平野修复界石，终端显化黑潮影迹。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:3",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "尤诺说明定向锚三点猎网，在往世花平野修复界石，终端显化黑潮影迹。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:3",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "尤诺说明定向锚三点猎网，在往世花平野修复界石，终端显化黑潮影迹。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:3",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "尤诺说明定向锚三点猎网，在往世花平野修复界石，终端显化黑潮影迹。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:4",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "洞窟落石后找第二个锚点，平野死战揭出真正猎物，护送尤诺离开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:4",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "洞窟落石后找第二个锚点，平野死战揭出真正猎物，护送尤诺离开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:4",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "洞窟落石后找第二个锚点，平野死战揭出真正猎物，护送尤诺离开。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:4",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "洞窟落石后找第二个锚点，平野死战揭出真正猎物，护送尤诺离开。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:5",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "尤诺说明交换预知天赋与存在消耗，窥见终局后首次交付月石手镯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:5",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "尤诺说明交换预知天赋与存在消耗，窥见终局后首次交付月石手镯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:5",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "尤诺说明交换预知天赋与存在消耗，窥见终局后首次交付月石手镯。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:5",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "尤诺说明交换预知天赋与存在消耗，窥见终局后首次交付月石手镯。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:6",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "阿维狄亚讲玛涅斯战绩、醒真草与勋章，卜灵带来神王异变报告，决定呓语镇部署。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:6",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "阿维狄亚讲玛涅斯战绩、醒真草与勋章，卜灵带来神王异变报告，决定呓语镇部署。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:6",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "阿维狄亚讲玛涅斯战绩、醒真草与勋章，卜灵带来神王异变报告，决定呓语镇部署。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "48:6",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "阿维狄亚讲玛涅斯战绩、醒真草与勋章，卜灵带来神王异变报告，决定呓语镇部署。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:1",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "在呓语镇分查纯净黑潮样本，以骸布和路标缺臂对应线索找到不屈英灵的索诺拉入口。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:1",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "在呓语镇分查纯净黑潮样本，以骸布和路标缺臂对应线索找到不屈英灵的索诺拉入口。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:1",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "在呓语镇分查纯净黑潮样本，以骸布和路标缺臂对应线索找到不屈英灵的索诺拉入口。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:1",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "在呓语镇分查纯净黑潮样本，以骸布和路标缺臂对应线索找到不屈英灵的索诺拉入口。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:2",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "在旧影看法比亚纳借锈剑给孩子，受外部干扰后见安吉尔上药并确认故乡。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:2",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "在旧影看法比亚纳借锈剑给孩子，受外部干扰后见安吉尔上药并确认故乡。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:2",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "在旧影看法比亚纳借锈剑给孩子，受外部干扰后见安吉尔上药并确认故乡。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:2",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "在旧影看法比亚纳借锈剑给孩子，受外部干扰后见安吉尔上药并确认故乡。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:3",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "橡树洞中保护安吉尔，听最后呼喊和泰缇斯确认，处理法尔科受蚀与醒真草。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:3",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "橡树洞中保护安吉尔，听最后呼喊和泰缇斯确认，处理法尔科受蚀与醒真草。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:3",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "橡树洞中保护安吉尔，听最后呼喊和泰缇斯确认，处理法尔科受蚀与醒真草。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:3",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "橡树洞中保护安吉尔，听最后呼喊和泰缇斯确认，处理法尔科受蚀与醒真草。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:4",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "神王增幅使阿布吞不下，尤诺自请显化定向锚入体，谈空白命运。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:4",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "神王增幅使阿布吞不下，尤诺自请显化定向锚入体，谈空白命运。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:4",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "神王增幅使阿布吞不下，尤诺自请显化定向锚入体，谈空白命运。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:4",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "神王增幅使阿布吞不下，尤诺自请显化定向锚入体，谈空白命运。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:5",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "奥古斯塔归还卡托之剑，回应英灵并投入神王终战，说明王号共享与文明由众人铸成。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:5",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "奥古斯塔归还卡托之剑，回应英灵并投入神王终战，说明王号共享与文明由众人铸成。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:5",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "奥古斯塔归还卡托之剑，回应英灵并投入神王终战，说明王号共享与文明由众人铸成。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:5",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "奥古斯塔归还卡托之剑，回应英灵并投入神王终战，说明王号共享与文明由众人铸成。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:6",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "奥古斯塔说明彻地之楔承诺与邀猎真正考虑，旧匣不能开启，幕后猎魔人归来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:6",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "奥古斯塔说明彻地之楔承诺与邀猎真正考虑，旧匣不能开启，幕后猎魔人归来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:6",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "奥古斯塔说明彻地之楔承诺与邀猎真正考虑，旧匣不能开启，幕后猎魔人归来。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "49:6",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "奥古斯塔说明彻地之楔承诺与邀猎真正考虑，旧匣不能开启，幕后猎魔人归来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:1",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "庆典诵读抹去尤诺，众人只谈解离症，奥古斯塔要求物证。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:1",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "庆典诵读抹去尤诺，众人只谈解离症，奥古斯塔要求物证。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:1",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "庆典诵读抹去尤诺，众人只谈解离症，奥古斯塔要求物证。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:1",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "庆典诵读抹去尤诺，众人只谈解离症，奥古斯塔要求物证。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:2",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "四方殿地下记录和壁画变化显出阿里阿德涅逐次崩溃，分析死亡与消失的因果死结。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:2",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "四方殿地下记录和壁画变化显出阿里阿德涅逐次崩溃，分析死亡与消失的因果死结。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:2",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "四方殿地下记录和壁画变化显出阿里阿德涅逐次崩溃，分析死亡与消失的因果死结。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:2",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "四方殿地下记录和壁画变化显出阿里阿德涅逐次崩溃，分析死亡与消失的因果死结。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:3",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "前往死地进入混沌，唤醒月光余晖中的尤诺，记住锚定诀窍和不准松手。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:3",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "前往死地进入混沌，唤醒月光余晖中的尤诺，记住锚定诀窍和不准松手。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:3",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "前往死地进入混沌，唤醒月光余晖中的尤诺，记住锚定诀窍和不准松手。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:3",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "前往死地进入混沌，唤醒月光余晖中的尤诺，记住锚定诀窍和不准松手。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:4",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "跟尤诺重走选择之路，听锻弓铁匠谈月石金枝，面对哈维尔等四次预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:4",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "跟尤诺重走选择之路，听锻弓铁匠谈月石金枝，面对哈维尔等四次预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:4",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "跟尤诺重走选择之路，听锻弓铁匠谈月石金枝，面对哈维尔等四次预言。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:4",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "跟尤诺重走选择之路，听锻弓铁匠谈月石金枝，面对哈维尔等四次预言。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:5",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "奥古斯塔要求直视七丘终焉，尤诺在三年前战场继续救援，处理损坏烛台和舍弃金枝制弓。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:5",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "奥古斯塔要求直视七丘终焉，尤诺在三年前战场继续救援，处理损坏烛台和舍弃金枝制弓。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:5",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "奥古斯塔要求直视七丘终焉，尤诺在三年前战场继续救援，处理损坏烛台和舍弃金枝制弓。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:5",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "奥古斯塔要求直视七丘终焉，尤诺在三年前战场继续救援，处理损坏烛台和舍弃金枝制弓。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:6",
+      "version": "2.6",
+      "scenario": "未接取",
+      "input": "走出混沌后与尤诺重逢，听消失的代价，再赠手镯后同赴花雨。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:6",
+      "version": "2.6",
+      "scenario": "旧分幕",
+      "input": "走出混沌后与尤诺重逢，听消失的代价，再赠手镯后同赴花雨。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:6",
+      "version": "2.6",
+      "scenario": "正确分幕",
+      "input": "走出混沌后与尤诺重逢，听消失的代价，再赠手镯后同赴花雨。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "50:6",
+      "version": "2.6",
+      "scenario": "已暂停旧分幕",
+      "input": "走出混沌后与尤诺重逢，听消失的代价，再赠手镯后同赴花雨。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:1",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "泰缇斯打不开文明之匣，剧团新戏引发重叠噩梦，阿布想查海妖圣歌。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:1",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "泰缇斯打不开文明之匣，剧团新戏引发重叠噩梦，阿布想查海妖圣歌。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:1",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "泰缇斯打不开文明之匣，剧团新戏引发重叠噩梦，阿布想查海妖圣歌。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:1",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "泰缇斯打不开文明之匣，剧团新戏引发重叠噩梦，阿布想查海妖圣歌。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:2",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "在颠倒塔调查遇害现场与矛盾物证，听菲比疑问弃绝希望。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:2",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "在颠倒塔调查遇害现场与矛盾物证，听菲比疑问弃绝希望。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:2",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "在颠倒塔调查遇害现场与矛盾物证，听菲比疑问弃绝希望。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:2",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "在颠倒塔调查遇害现场与矛盾物证，听菲比疑问弃绝希望。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:3",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "阿维狄亚支援撤离，定向锚追踪异维无音区的茧核心，谈卡利古拉传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:3",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "阿维狄亚支援撤离，定向锚追踪异维无音区的茧核心，谈卡利古拉传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:3",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "阿维狄亚支援撤离，定向锚追踪异维无音区的茧核心，谈卡利古拉传说。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:3",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "阿维狄亚支援撤离，定向锚追踪异维无音区的茧核心，谈卡利古拉传说。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:4",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "文明之匣开启后读英白拉多匣中留言，了解第一实例、御者权限与没有神明的未来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:4",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "文明之匣开启后读英白拉多匣中留言，了解第一实例、御者权限与没有神明的未来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:4",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "文明之匣开启后读英白拉多匣中留言，了解第一实例、御者权限与没有神明的未来。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:4",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "文明之匣开启后读英白拉多匣中留言，了解第一实例、御者权限与没有神明的未来。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:5",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "查巴罗尔标记、哈尔庇恩与眼魔对代行者的识别，讨论金库防护与不可逆侵蚀。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:5",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "查巴罗尔标记、哈尔庇恩与眼魔对代行者的识别，讨论金库防护与不可逆侵蚀。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:5",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "查巴罗尔标记、哈尔庇恩与眼魔对代行者的识别，讨论金库防护与不可逆侵蚀。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:5",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "查巴罗尔标记、哈尔庇恩与眼魔对代行者的识别，讨论金库防护与不可逆侵蚀。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:6",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "阿维狄亚遭卡利古拉记忆覆盖，疯王之战后听最后长枪誓言，克里斯托弗揭出幌子真相。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:6",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "阿维狄亚遭卡利古拉记忆覆盖，疯王之战后听最后长枪誓言，克里斯托弗揭出幌子真相。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:6",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "阿维狄亚遭卡利古拉记忆覆盖，疯王之战后听最后长枪誓言，克里斯托弗揭出幌子真相。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:6",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "阿维狄亚遭卡利古拉记忆覆盖，疯王之战后听最后长枪誓言，克里斯托弗揭出幌子真相。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:7",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "恐惧女孩通过声痕门扉揭示漂泊者与阿布才是真正的代行者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:7",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "恐惧女孩通过声痕门扉揭示漂泊者与阿布才是真正的代行者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:7",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "恐惧女孩通过声痕门扉揭示漂泊者与阿布才是真正的代行者。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "51:7",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "恐惧女孩通过声痕门扉揭示漂泊者与阿布才是真正的代行者。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:1",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "嘉贝莉娜用秘药掩盖阿布生命频率，解释集体无意识，阿奎拉报七丘告急。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:1",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "嘉贝莉娜用秘药掩盖阿布生命频率，解释集体无意识，阿奎拉报七丘告急。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:1",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "嘉贝莉娜用秘药掩盖阿布生命频率，解释集体无意识，阿奎拉报七丘告急。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:1",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "嘉贝莉娜用秘药掩盖阿布生命频率，解释集体无意识，阿奎拉报七丘告急。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:2",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "群岛联合援军到达，秋水说明分离宝石与暂存收容预案，嘉贝莉娜先入黑潮收束屏障。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:2",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "群岛联合援军到达，秋水说明分离宝石与暂存收容预案，嘉贝莉娜先入黑潮收束屏障。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:2",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "群岛联合援军到达，秋水说明分离宝石与暂存收容预案，嘉贝莉娜先入黑潮收束屏障。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:2",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "群岛联合援军到达，秋水说明分离宝石与暂存收容预案，嘉贝莉娜先入黑潮收束屏障。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:3",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "出发准备中始源圣器只够庇护一人，仇远说明提灯来历，尤诺提醒锚定。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:3",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "出发准备中始源圣器只够庇护一人，仇远说明提灯来历，尤诺提醒锚定。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:3",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "出发准备中始源圣器只够庇护一人，仇远说明提灯来历，尤诺提醒锚定。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:3",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "出发准备中始源圣器只够庇护一人，仇远说明提灯来历，尤诺提醒锚定。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:4",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "奇美拉引路，看到童年嘉贝莉娜与阿奇丽娅初遇，了解火魔名号与永猎契约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:4",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "奇美拉引路，看到童年嘉贝莉娜与阿奇丽娅初遇，了解火魔名号与永猎契约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:4",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "奇美拉引路，看到童年嘉贝莉娜与阿奇丽娅初遇，了解火魔名号与永猎契约。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:4",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "奇美拉引路，看到童年嘉贝莉娜与阿奇丽娅初遇，了解火魔名号与永猎契约。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:5",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "按提灯提示分离世界，面对冥罗督，再与嘉贝莉娜确认拉海洛磁带和真名约定。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:5",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "按提灯提示分离世界，面对冥罗督，再与嘉贝莉娜确认拉海洛磁带和真名约定。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:5",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "按提灯提示分离世界，面对冥罗督，再与嘉贝莉娜确认拉海洛磁带和真名约定。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:5",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "按提灯提示分离世界，面对冥罗督，再与嘉贝莉娜确认拉海洛磁带和真名约定。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:6",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "沿冥河读石碑原句，和卡戎交涉渡河，去玛涅斯之底净化定向锚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:6",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "沿冥河读石碑原句，和卡戎交涉渡河，去玛涅斯之底净化定向锚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:6",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "沿冥河读石碑原句，和卡戎交涉渡河，去玛涅斯之底净化定向锚。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:6",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "沿冥河读石碑原句，和卡戎交涉渡河，去玛涅斯之底净化定向锚。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:7",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "两路争命时阿布在长阶频率渐弱，嘉贝莉娜燃血净魂，众灵自愿汇鲸。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:7",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "两路争命时阿布在长阶频率渐弱，嘉贝莉娜燃血净魂，众灵自愿汇鲸。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:7",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "两路争命时阿布在长阶频率渐弱，嘉贝莉娜燃血净魂，众灵自愿汇鲸。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:7",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "两路争命时阿布在长阶频率渐弱，嘉贝莉娜燃血净魂，众灵自愿汇鲸。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:8",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "克里斯托弗以墓碑幻境构成死局，嘉贝莉娜解释心灵海，要先锚定自己。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:8",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "克里斯托弗以墓碑幻境构成死局，嘉贝莉娜解释心灵海，要先锚定自己。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:8",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "克里斯托弗以墓碑幻境构成死局，嘉贝莉娜解释心灵海，要先锚定自己。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:8",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "克里斯托弗以墓碑幻境构成死局，嘉贝莉娜解释心灵海，要先锚定自己。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:9",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "精神锚点汇聚时重新认出旧友，奇美拉分担代价，嘉贝莉娜提出暂存宝石的战前方案。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:9",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "精神锚点汇聚时重新认出旧友，奇美拉分担代价，嘉贝莉娜提出暂存宝石的战前方案。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:9",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "精神锚点汇聚时重新认出旧友，奇美拉分担代价，嘉贝莉娜提出暂存宝石的战前方案。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:9",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "精神锚点汇聚时重新认出旧友，奇美拉分担代价，嘉贝莉娜提出暂存宝石的战前方案。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:10",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "天国终战破子茧后利维亚坦现身，卡提希娅以人归来，阿布拉克萨斯之名与提灯余音响起。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:10",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "天国终战破子茧后利维亚坦现身，卡提希娅以人归来，阿布拉克萨斯之名与提灯余音响起。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:10",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "天国终战破子茧后利维亚坦现身，卡提希娅以人归来，阿布拉克萨斯之名与提灯余音响起。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:10",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "天国终战破子茧后利维亚坦现身，卡提希娅以人归来，阿布拉克萨斯之名与提灯余音响起。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:11",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "灾后用罗斯玛丽雾化药剂修复，交付菲比岁主遗物，讨论十人委员会与重选领导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:11",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "灾后用罗斯玛丽雾化药剂修复，交付菲比岁主遗物，讨论十人委员会与重选领导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:11",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "灾后用罗斯玛丽雾化药剂修复，交付菲比岁主遗物，讨论十人委员会与重选领导。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:11",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "灾后用罗斯玛丽雾化药剂修复，交付菲比岁主遗物，讨论十人委员会与重选领导。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:12",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "离港后回黑海岸确认收容结果，嘉贝莉娜交付新终端，告诉安吉尔真名。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:12",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "离港后回黑海岸确认收容结果，嘉贝莉娜交付新终端，告诉安吉尔真名。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:12",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "离港后回黑海岸确认收容结果，嘉贝莉娜交付新终端，告诉安吉尔真名。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "52:12",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "离港后回黑海岸确认收容结果，嘉贝莉娜交付新终端，告诉安吉尔真名。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:1",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "夏空用史诗引入英雄群像，剑客救援后和利奥、珂莱塔协作撤离。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:1",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "夏空用史诗引入英雄群像，剑客救援后和利奥、珂莱塔协作撤离。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:1",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "夏空用史诗引入英雄群像，剑客救援后和利奥、珂莱塔协作撤离。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:1",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "夏空用史诗引入英雄群像，剑客救援后和利奥、珂莱塔协作撤离。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:2",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "沿圣女风路追踪气息，仇远谈明庭旧识和得位不正之人的炬火。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:2",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "沿圣女风路追踪气息，仇远谈明庭旧识和得位不正之人的炬火。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:2",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "沿圣女风路追踪气息，仇远谈明庭旧识和得位不正之人的炬火。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:2",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "沿圣女风路追踪气息，仇远谈明庭旧识和得位不正之人的炬火。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:3",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "试验场查假利奥与梁东园，仇远回述早年哥舒临的救人藏锋、主座托灯和芬莱克一世。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:3",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "试验场查假利奥与梁东园，仇远回述早年哥舒临的救人藏锋、主座托灯和芬莱克一世。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:3",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "试验场查假利奥与梁东园，仇远回述早年哥舒临的救人藏锋、主座托灯和芬莱克一世。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:3",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "试验场查假利奥与梁东园，仇远回述早年哥舒临的救人藏锋、主座托灯和芬莱克一世。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:4",
+      "version": "2.7",
+      "scenario": "未接取",
+      "input": "在港口问旧将仇远，夏空说明提灯意识推测，听明庭与家人剑鞘的旧事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:4",
+      "version": "2.7",
+      "scenario": "旧分幕",
+      "input": "在港口问旧将仇远，夏空说明提灯意识推测，听明庭与家人剑鞘的旧事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:4",
+      "version": "2.7",
+      "scenario": "正确分幕",
+      "input": "在港口问旧将仇远，夏空说明提灯意识推测，听明庭与家人剑鞘的旧事。",
+      "before_all_original_lines_present": true,
+      "after_all_original_lines_present": true
+    },
+    {
+      "id": "53:4",
+      "version": "2.7",
+      "scenario": "已暂停旧分幕",
+      "input": "在港口问旧将仇远，夏空说明提灯意识推测，听明庭与家人剑鞘的旧事。",
+      "before_all_original_lines_present": false,
+      "after_all_original_lines_present": true
+    }
+  ]
+}

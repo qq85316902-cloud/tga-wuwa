@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "controller_scenarios": 1038,
+  "receipt_scenarios": 536,
+  "groups": 35,
+  "parts": 93,
+  "new_parts": 3,
+  "new_events": 15,
+  "old_scene_routes": 184,
+  "old_quote_sequences_preserved": true,
+  "all_three_registries_identical": true,
+  "all_10_companion_quote_sequences_preserved": true,
+  "other_world_prompts_identical": true,
+  "frontend_and_confirmation_scripts_identical": true,
+  "new_groups_not_inherited_as_completed": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false
+}

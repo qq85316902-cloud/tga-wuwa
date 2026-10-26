@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "version": "2026.10.26.9",
+  "changed_entries": [
+    739,
+    740
+  ],
+  "story_source_text_unchanged": true,
+  "all_271_quote_sequences_and_checksums_verified": true,
+  "old_184_routes_preserved_with_one_condition_refined": "30:1 adds Black Shores context to avoid late Abbu-crisis ambiguity",
+  "prior_evidence_rows_preserved": 36962,
+  "reference_card_new_2_3_and_3_7_chapters_preserved": true,
+  "schema_and_all_other_card_fields_identical": true,
+  "png_embedded_json_matches": true,
+  "png_image_and_other_chunks_unchanged": true,
+  "png_crc_valid": true,
+  "all_93_main_part_prompts_identical": true,
+  "all_other_world_and_10_companion_prompts_identical": true,
+  "controller_scenarios": 1785,
+  "sync_mock_scenarios": 34,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.9",
+    "payload": "solaris-content-80c7a35866a77fff.json",
+    "sha256": "80c7a35866a77fff0f8003e78ba153af8d7bb47c9f1e3555f0da0b6c6cdd18fe",
+    "bytes": 6627339,
+    "entry_count": 333,
+    "published_at": "2026-10-26T02:32:42.865207+00:00"
+  },
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "committed": false,
+  "published": false
+}
