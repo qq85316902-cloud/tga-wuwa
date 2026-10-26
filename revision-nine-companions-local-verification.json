@@ -1,0 +1,49 @@
+{
+  "source_lines_rechecked": 6100,
+  "quote_groups_rechecked_in_order": 179,
+  "prior_quote_rows_preserved": 30862,
+  "source_quotes_in_correct_task_and_event": true,
+  "original_events_summaries_enemy_rosters_metadata_preserved": true,
+  "zani_boss_supplement_verbatim_preserved": true,
+  "edge_dream_and_common_rules_identical": true,
+  "png_text_keywords": [
+    "ccv3"
+  ],
+  "png_embedded_card_matches_json": true,
+  "png_all_crc_valid": true,
+  "png_other_chunks_unchanged": true,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.4",
+    "payload": "solaris-content-69de280175b1f3c4.json",
+    "sha256": "69de280175b1f3c41024872d8063796c85e333aa98b16376c4bd8e69a84d73d3",
+    "bytes": 6420947,
+    "entry_count": 333,
+    "published_at": "2026-10-25T22:56:48.039649+00:00"
+  },
+  "payload_matches_authoritative_outline": true,
+  "atlas_matches_previous_payload": true,
+  "other_managed_entries_identical": true,
+  "worldbook_count": 1072,
+  "changed_entries": [
+    742
+  ],
+  "other_card_fields_unchanged": true,
+  "controller_scenarios": 124,
+  "sync_mock_scenarios": 34,
+  "published": false,
+  "committed": false,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "artifacts": {
+    "png": {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-24\\2-4-2-5-2-6\\outputs\\索拉里斯-九伴星关键对白原文补全版.png",
+      "sha256": "78b72b285981800adb7530fdef19a1af99068fc96a71ddc038dd7bc27fac716a"
+    },
+    "json": {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-24\\2-4-2-5-2-6\\outputs\\索拉里斯-九伴星关键对白原文补全版.json",
+      "sha256": "7a4afa146d89d54b88808baab9a21ce32dcaf7cc98c1b5bbd9a70d31f7f645c5"
+    }
+  }
+}

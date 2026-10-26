@@ -1,0 +1,40 @@
+{
+  "changed_entries": [
+    739,
+    741
+  ],
+  "changed_fields_only": [
+    "content",
+    "depth",
+    "extensions.depth"
+  ],
+  "worldbook_count": 1072,
+  "main_and_companion_outlines_identical": true,
+  "prior_quote_rows_preserved": 36962,
+  "other_worlds_maps_openings_mvu_unchanged": true,
+  "png_embedded_card_matches_json": true,
+  "png_all_crc_valid": true,
+  "png_image_chunks_identical": true,
+  "controller_scenarios": 151,
+  "sync_mock_scenarios": 34,
+  "standalone_prompt_source_lines_verified": 13,
+  "manifest": {
+    "format": "solaris-content-sync/v1",
+    "owner": "qq85316902-cloud/tga-wuwa",
+    "version": "2026.10.26.5",
+    "payload": "solaris-content-ea6fe313c5c281cf.json",
+    "sha256": "ea6fe313c5c281cf38573ff766d00c98fea8cd288bbe1abf0f114937d06d61f6",
+    "bytes": 6427990,
+    "entry_count": 333,
+    "published_at": "2026-10-26T00:41:57.986575+00:00"
+  },
+  "managed_entries_changed": [
+    "鸣潮主线控制器【鸣潮·细纲版】",
+    "鸣潮伴星任务控制器【鸣潮·独立页】"
+  ],
+  "atlas_identical": true,
+  "published": false,
+  "committed": false,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false
+}
