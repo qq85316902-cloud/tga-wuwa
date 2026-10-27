@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "cases": 13,
+  "pair_expression_and_orphan_markers_removed": true,
+  "complex_custom_ejs_preserved": true,
+  "source_bodies_preserved": true,
+  "idempotent": true,
+  "backup_and_restore": true,
+  "plain_custom_entry_not_overwritten": true,
+  "concurrent_user_edits_preserved": true,
+  "generation_and_chat_switch_protected": true,
+  "actual_tavern_tested": false
+}

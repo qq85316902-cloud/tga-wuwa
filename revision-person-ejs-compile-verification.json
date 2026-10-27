@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "extension_ejs_compile_cases": 515,
+  "world_and_strict_render_cases": 1068,
+  "characters_checked": 89,
+  "character_bodies_identical": true,
+  "combined_character_prompt_compiles": true,
+  "combined_solaris_prompt": "pass",
+  "orphan_close_reproduces_screenshot_error": "Missing catch or finally after try while compiling ejs",
+  "actual_user_prompt_received": false,
+  "actual_tavern_tested": false,
+  "scope": "条件包装兼容修复；并未取得完整现场提示词，不能宣称所有现场成因已排除"
+}

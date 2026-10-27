@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "version": "2026.10.27.8",
+  "changed_entries": [
+    739,
+    740
+  ],
+  "changed_scenes": [
+    "04:1",
+    "04:2",
+    "04:6"
+  ],
+  "new_quote_rows": 89,
+  "source_quote_rows_checked": 98,
+  "source_quote_text_exact": true,
+  "all_old_quoted_lines_preserved": true,
+  "all_other_lore_and_characters_unchanged": true,
+  "all_frontends_maps_and_helpers_unchanged": true,
+  "png_crc_valid": true,
+  "png_embedded_json_equal": true,
+  "picture_unchanged": true,
+  "payload_hash_valid": true,
+  "controller_scenarios": 510,
+  "sync_mock_cases": 34,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false
+}

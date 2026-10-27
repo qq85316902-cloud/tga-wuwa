@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "cases": 510,
+  "target_scenes": 3,
+  "scene_quote_rows": {
+    "04:1": 25,
+    "04:2": 64,
+    "04:6": 21
+  },
+  "all_scene_routes_checked": 464,
+  "all_nontarget_scene_quotes_preserved": true,
+  "checksum_failure_rejected": true,
+  "read_only_variables": true,
+  "other_worlds_unchanged": true,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false
+}

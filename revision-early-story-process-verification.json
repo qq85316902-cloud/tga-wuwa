@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "version": "2026.10.27.9",
+  "findings_completed": 18,
+  "events_expanded": 23,
+  "source_quote_rows_checked": 592,
+  "net_quoted_rows_added": 587,
+  "all_added_quotes_exact": true,
+  "all_previous_quotes_preserved": true,
+  "new_scene_entries": [
+    "06:2",
+    "08:1"
+  ],
+  "main_scene_routes": 466,
+  "character_body_settings_ids_unchanged": true,
+  "five_source_profiles_exact": true,
+  "previous_89_plain_character_entries_preserved": true,
+  "all_maps_frontends_and_other_card_fields_unchanged": true,
+  "png_embedded_json_equal": true,
+  "image_unchanged": true,
+  "payload_hash_valid": true,
+  "controller_cases": 632,
+  "sync_mock_cases": 34,
+  "actual_tavern_tested": false,
+  "actual_llm_output_tested": false,
+  "published": false
+}

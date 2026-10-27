@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "cases": 17,
+  "world_isolation": true,
+  "offscreen_animation_pause_and_resume": true,
+  "document_visibility_pause": true,
+  "measured_height_and_restore": true,
+  "shared_observer_reuse": true,
+  "removed_frames_cleanup": true,
+  "idempotent_install": true,
+  "backup_and_safe_restore": true,
+  "custom_edits_preserved": true,
+  "generation_and_backup_failure_protected": true,
+  "actual_tavern_tested": false,
+  "measured_fps": false
+}

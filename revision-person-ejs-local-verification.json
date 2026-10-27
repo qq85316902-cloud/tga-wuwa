@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "changed_wrappers": 89,
+  "changed_character_body_characters": 0,
+  "all_character_ids_settings_and_aliases_unchanged": true,
+  "all_other_card_fields_and_entries_unchanged": true,
+  "five_user_source_bodies_exact": true,
+  "main_and_companion_controllers_unchanged": true,
+  "all_three_map_literals_unchanged": true,
+  "png_crc_valid": true,
+  "png_picture_unchanged": true,
+  "png_embedded_json_equal": true,
+  "payload_checksum_valid": true,
+  "version": "2026.10.27.5",
+  "ejs_compile_cases": 515,
+  "render_cases": 1068,
+  "script_mock_cases": 11,
+  "sync_mock_cases": 34,
+  "exact_user_prompt_received": false,
+  "actual_tavern_tested": false,
+  "repair_type": "针对成对条件标记的兼容修复，现场完整原因尚待验证",
+  "published": false
+}

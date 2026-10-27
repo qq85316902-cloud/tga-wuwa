@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "version": "2026.10.27.7",
+  "display_rule_bodies_modified": [
+    9,
+    13
+  ],
+  "new_helper_scripts": 1,
+  "character_book_entries_unchanged": 1132,
+  "all_lore_character_and_story_texts_unchanged": true,
+  "all_openings_maps_other_regexes_and_helpers_unchanged": true,
+  "png_embedded_json_equal": true,
+  "image_unchanged": true,
+  "sync_payload_hash_valid": true,
+  "script_mock_cases": 17,
+  "sync_mock_cases": 34,
+  "solaris_action_polling_timers": 0,
+  "actual_tavern_tested": false,
+  "actual_fps_measured": false,
+  "published": false
+}

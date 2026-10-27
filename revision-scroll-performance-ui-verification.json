@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "solaris_action_polling_timers": 0,
+  "original_world_action_polling_timers": 1,
+  "visible_resume_refresh": true,
+  "mutation_updates": true,
+  "pagehide_cleanup": true,
+  "compiled_changed_inline_scripts": 4,
+  "compiled_helper_scripts": 8,
+  "actual_tavern_tested": false
+}

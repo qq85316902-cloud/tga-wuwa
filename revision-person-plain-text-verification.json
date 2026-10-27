@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "version": "2026.10.27.6",
+  "plain_character_entries": 89,
+  "changed_body_characters": 0,
+  "all_89_settings_and_ids_unchanged": true,
+  "all_other_card_fields_unchanged": true,
+  "five_source_profiles_exact": true,
+  "png_embedded_json_equal": true,
+  "png_crc_valid": true,
+  "image_pixels_unchanged": true,
+  "sync_payload_matches_full_card": true,
+  "maps_unchanged": true,
+  "script_mock_cases": 13,
+  "sync_mock_cases": 34,
+  "actual_tavern_tested": false,
+  "published": false
+}
