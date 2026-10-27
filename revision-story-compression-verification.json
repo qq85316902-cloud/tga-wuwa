@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "version": "2026.10.27.10",
+  "findings_completed": 26,
+  "events_expanded": 24,
+  "source_quote_rows_checked": 422,
+  "net_quoted_rows_added": 422,
+  "all_added_quotes_exact": true,
+  "all_previous_quotes_preserved": true,
+  "scene_routes": 466,
+  "controller_cases": 791,
+  "sync_mock_cases": 34,
+  "remaining_ejs_compiled": 426,
+  "png_embedded_json_equal": true,
+  "image_unchanged": true,
+  "payload_hash_valid": true,
+  "all_maps_frontends_other_worlds_and_unrelated_events_unchanged": true,
+  "five_profiles_exact_and_89_plain_text_entries_preserved": true,
+  "two_provenance_notices_fixed": true,
+  "actual_tavern_tested": false,
+  "actual_llm_tested": false,
+  "published": false
+}

@@ -1,5 +1,16 @@
 # 索拉里斯状态栏扩展
 
+## 当前资料包：2026.10.27.10
+
+本轮完成1.0及2.0—2.7的26项剧情过程补全，涉及24个事件，新增422行原文。祈池村红衣女子、木牌退水与湖底日记、伤痕两阶段战前战后均已展开；2.0—2.7两份复查报告的23项一并处理。
+
+- [最新完整卡PNG](solaris-latest.png) · [JSON](solaris-latest.json)
+- [26项完成映射](revision-story-compression-completion.md) · [打包核验](revision-story-compression-verification.json) · [控制器离线核验](revision-story-compression-controller-verification.json)
+- 旧卡停止生成后点“检查资料更新”，确认 **2026.10.27.10**，无需重导整卡；本地冲突保留并提示，不能将被跳过条目视为已更新。
+
+791个控制器离线用例、34个同步模拟用例及426个EJS条目编译通过；未进行实际酒馆或模型测试。此前人物、地图、前端修复继续保留。以下旧版本段落为历次修订记录。
+
+
 
 ## 2026-10-27 剧情过程与原文累计补全
 
