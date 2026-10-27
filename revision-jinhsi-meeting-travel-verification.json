@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "cases": 15,
+  "roof_aliases": 4,
+  "continue_keeps_roof": true,
+  "database_stays_separate": true,
+  "no_state_mutation": true,
+  "actual_tavern_tested": false
+}

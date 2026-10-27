@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "version": "2026.10.27.11",
+  "changed_entry": "鸣潮副本资料",
+  "scene_locations_updated": 6,
+  "new_place": "边庭北侧天台",
+  "place_aliases": [
+    "边庭天台",
+    "边庭北侧露台",
+    "边庭露台"
+  ],
+  "actual_sequence": "日晷开盒→第二层丑时北侧→天台秘密会面→瑝览类书机关与诱捕→审讯",
+  "all_original_quotes_in_original_order": true,
+  "legacy_event_ids_and_end_condition_fields_preserved": true,
+  "other_parts_fields_maps_frontends_profiles_and_state_unchanged": true,
+  "source_evidence_verified": true,
+  "main_scene_routes": 466,
+  "controller_offline_cases": 833,
+  "travel_cases": 15,
+  "sync_mock_cases": 34,
+  "remaining_ejs_compiled": 426,
+  "png_image_unchanged": true,
+  "png_embedded_json_equal": true,
+  "manifest_hash_matches": true,
+  "actual_tavern_or_llm_tested": false,
+  "published": false
+}
