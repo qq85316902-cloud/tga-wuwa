@@ -1,0 +1,58 @@
+{
+  "source_file": "D:\\22222\\人物卡.json",
+  "source_file_sha256": "d960688a31d57f089129f058f48383cb50b8198dc3faf4dfea27faca2d405855",
+  "entries": [
+    {
+      "name": "西格莉卡",
+      "action": "替换原独立条目正文",
+      "index": 1076,
+      "target_uid": 874040,
+      "source_entry_key": "25",
+      "source_uid": 25,
+      "characters": 5140,
+      "source_content_sha256": "58bd1123dd3d0a326e8116fdee7d0a0270775a26a1f8839b839d6ec964206b76"
+    },
+    {
+      "name": "琳奈",
+      "action": "替换原独立条目正文",
+      "index": 1074,
+      "target_uid": 874038,
+      "source_entry_key": "43",
+      "source_uid": 43,
+      "characters": 4977,
+      "source_content_sha256": "184a15360c144aec63528c8826f7f9757b91b1dc7bb60ae60b111b182ec51a34"
+    },
+    {
+      "name": "尤诺",
+      "action": "新增独立条目",
+      "index": 1131,
+      "target_uid": 874095,
+      "source_entry_key": "46",
+      "source_uid": 46,
+      "characters": 4060,
+      "source_content_sha256": "af08cfc07452a2eae36d81d25add1cbf4479aa27787e7179776bc5ca8e9c2de0"
+    },
+    {
+      "name": "莫宁",
+      "action": "替换原独立条目正文",
+      "index": 1075,
+      "target_uid": 874039,
+      "source_entry_key": "44",
+      "source_uid": 44,
+      "characters": 4986,
+      "source_content_sha256": "45ed6e2ba657b345e02fe7084482b986c92f763ee3b55ce8a5d15c36d0638d83"
+    },
+    {
+      "name": "千咲",
+      "action": "替换原独立条目正文",
+      "index": 1077,
+      "target_uid": 874041,
+      "source_entry_key": "45",
+      "source_uid": 45,
+      "characters": 6440,
+      "source_content_sha256": "b64fa83fe313e914144478a50bc507bec7260bde2ffeb4011b66428021860004"
+    }
+  ],
+  "source_body_changes": 0,
+  "published": false
+}

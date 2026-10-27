@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "added_entries": [
+    {
+      "name": "人物资料 - 仇远【鸣潮】",
+      "uid": 874036,
+      "characters_no_whitespace": 797,
+      "original_quotes": 6
+    },
+    {
+      "name": "人物资料 - 景燃【鸣潮】",
+      "uid": 874037,
+      "characters_no_whitespace": 790,
+      "original_quotes": 6
+    }
+  ],
+  "source_quotes_exact_match": 12,
+  "existing_1072_entries_unchanged": true,
+  "all_other_card_fields_unchanged": true,
+  "png_crc_valid": true,
+  "png_embedded_json_equal": true,
+  "png_image_unchanged": true,
+  "managed_existing_333_entries_unchanged": true,
+  "all_map_literals_unchanged": true,
+  "duplicate_ids": false,
+  "keyword_trigger_before_character_order": 200,
+  "standalone_worldbook_matches": true,
+  "version": "2026.10.27.1",
+  "payload_sha256_valid": true,
+  "actual_tavern_tested": false,
+  "published": false
+}

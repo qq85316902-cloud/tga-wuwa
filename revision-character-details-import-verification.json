@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "source_character_count": 11,
+  "replaced_existing_entry_bodies": 10,
+  "new_entries": [
+    "吟霖"
+  ],
+  "all_characters_have_exactly_one_dedicated_entry": true,
+  "separate_entries_confirmed": [
+    "穗穗",
+    "清宵",
+    "「心」",
+    "锁暝"
+  ],
+  "replacement_uid_keywords_and_activation_unchanged": true,
+  "other_1120_existing_entries_unchanged": true,
+  "all_other_card_fields_unchanged": true,
+  "source_file_unchanged": true,
+  "source_body_preserved_except_declared_edits": true,
+  "jinhsi_nonsexual_material_only": true,
+  "jinhsi_source_age_retained": true,
+  "dialogue_example_rule_scoped_to_original_examples": true,
+  "story_verbatim_rule_preserved": true,
+  "player_identity_and_npc_rover_female_rule_preserved": true,
+  "png_crc_valid": true,
+  "png_image_unchanged": true,
+  "png_json_equal": true,
+  "standalone_export_matches": true,
+  "all_three_map_literals_unchanged": true,
+  "sync_mock_checks": 34,
+  "version": "2026.10.27.3",
+  "payload_sha256_valid": true,
+  "actual_tavern_tested": false,
+  "published": false
+}

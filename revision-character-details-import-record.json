@@ -1,0 +1,162 @@
+{
+  "source_file": "C:\\Users\\Administrator\\Desktop\\角色详情.txt",
+  "source_sha256": "2a87ecd707ff9d73eaaccddcaa1465a48eafcc8b74416ea67708893e6d3b57dc",
+  "changes": [
+    {
+      "name": "散华",
+      "action": "替换",
+      "uid": 874005,
+      "index": 1041,
+      "previous_characters": 3512,
+      "new_characters": 3297,
+      "source_lines": [
+        1,
+        86
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "白芷",
+      "action": "替换",
+      "uid": 874007,
+      "index": 1043,
+      "previous_characters": 3677,
+      "new_characters": 3043,
+      "source_lines": [
+        87,
+        160
+      ],
+      "declared_edits": [
+        "统一白芷标题层级"
+      ]
+    },
+    {
+      "name": "炽霞",
+      "action": "替换",
+      "uid": 874006,
+      "index": 1042,
+      "previous_characters": 3442,
+      "new_characters": 3433,
+      "source_lines": [
+        161,
+        263
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "秧秧",
+      "action": "替换",
+      "uid": 874009,
+      "index": 1045,
+      "previous_characters": 4102,
+      "new_characters": 4045,
+      "source_lines": [
+        264,
+        369
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "吟霖",
+      "action": "新增",
+      "uid": 874094,
+      "index": 1130,
+      "previous_characters": 0,
+      "new_characters": 3372,
+      "source_lines": [
+        370,
+        469
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "鉴心",
+      "action": "替换",
+      "uid": 874018,
+      "index": 1054,
+      "previous_characters": 3084,
+      "new_characters": 3355,
+      "source_lines": [
+        470,
+        556
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "穗穗",
+      "action": "替换",
+      "uid": 874042,
+      "index": 1078,
+      "previous_characters": 386,
+      "new_characters": 2540,
+      "source_lines": [
+        557,
+        641
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "清宵",
+      "action": "替换",
+      "uid": 874043,
+      "index": 1079,
+      "previous_characters": 343,
+      "new_characters": 3059,
+      "source_lines": [
+        642,
+        730
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "「心」",
+      "action": "替换",
+      "uid": 874044,
+      "index": 1080,
+      "previous_characters": 360,
+      "new_characters": 3023,
+      "source_lines": [
+        731,
+        827
+      ],
+      "declared_edits": []
+    },
+    {
+      "name": "锁暝",
+      "action": "替换",
+      "uid": 874045,
+      "index": 1081,
+      "previous_characters": 345,
+      "new_characters": 2625,
+      "source_lines": [
+        828,
+        911
+      ],
+      "declared_edits": [
+        "去除锁暝姓名外的尖括号"
+      ]
+    },
+    {
+      "name": "今汐",
+      "action": "替换",
+      "uid": 874031,
+      "index": 1067,
+      "previous_characters": 2785,
+      "new_characters": 1763,
+      "source_lines": [
+        912,
+        958
+      ],
+      "declared_edits": [
+        "身形改为非性化外貌描写",
+        "服饰改为非性化外貌描写",
+        "声痕保留能力特征，去除性化反应",
+        "移除未成年角色的性化情境段落",
+        "移除性化示例台词"
+      ]
+    }
+  ],
+  "replaced": 10,
+  "added": 1,
+  "published": false
+}

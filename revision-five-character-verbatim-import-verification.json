@@ -1,0 +1,68 @@
+{
+  "passed": true,
+  "independent_entries": 5,
+  "replaced_existing_bodies": 4,
+  "new_entries": [
+    "尤诺"
+  ],
+  "source_content_changes": 0,
+  "all_five_source_bodies_exact_utf8_match": true,
+  "entries": [
+    {
+      "name": "西格莉卡",
+      "uid": 874040,
+      "characters": 5140,
+      "utf8_bytes": 12695,
+      "source_content_sha256": "58bd1123dd3d0a326e8116fdee7d0a0270775a26a1f8839b839d6ec964206b76",
+      "exact_match": true
+    },
+    {
+      "name": "琳奈",
+      "uid": 874038,
+      "characters": 4977,
+      "utf8_bytes": 12467,
+      "source_content_sha256": "184a15360c144aec63528c8826f7f9757b91b1dc7bb60ae60b111b182ec51a34",
+      "exact_match": true
+    },
+    {
+      "name": "尤诺",
+      "uid": 874095,
+      "characters": 4060,
+      "utf8_bytes": 10057,
+      "source_content_sha256": "af08cfc07452a2eae36d81d25add1cbf4479aa27787e7179776bc5ca8e9c2de0",
+      "exact_match": true
+    },
+    {
+      "name": "莫宁",
+      "uid": 874039,
+      "characters": 4986,
+      "utf8_bytes": 12729,
+      "source_content_sha256": "45ed6e2ba657b345e02fe7084482b986c92f763ee3b55ce8a5d15c36d0638d83",
+      "exact_match": true
+    },
+    {
+      "name": "千咲",
+      "uid": 874041,
+      "characters": 6440,
+      "utf8_bytes": 14914,
+      "source_content_sha256": "b64fa83fe313e914144478a50bc507bec7260bde2ffeb4011b66428021860004",
+      "exact_match": true
+    }
+  ],
+  "source_file_unchanged": true,
+  "uid_keywords_and_activation_preserved": true,
+  "other_1127_existing_entries_unchanged": true,
+  "all_other_card_fields_unchanged": true,
+  "no_duplicate_character_profiles": true,
+  "png_crc_valid": true,
+  "png_image_unchanged": true,
+  "png_embedded_json_equal": true,
+  "standalone_export_matches": true,
+  "all_three_map_literals_unchanged": true,
+  "sync_payload_matches_card": true,
+  "payload_sha256_valid": true,
+  "sync_mock_checks": 34,
+  "version": "2026.10.27.4",
+  "actual_tavern_tested": false,
+  "published": false
+}

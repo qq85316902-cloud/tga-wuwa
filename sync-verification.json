@@ -1,8 +1,8 @@
 {
   "passed": true,
   "scenarios": 34,
-  "entries": 333,
-  "payloadBytes": 7162276,
+  "entries": 393,
+  "payloadBytes": 7323471,
   "checks": [
     "旧卡升级",
     "重复检查及重新加载幂等",
